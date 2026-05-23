@@ -1,0 +1,63 @@
+TITLE: What to do in your first 30 days in Star Citizen
+
+---
+
+New player here? Here's what actually matters in your first month — and what to skip.
+
+---
+
+**Week 1 — Learn the basics without spending aUEC**
+
+Do the tutorial missions in your MobiGlas. They're short and teach you the controls you'll actually use. Don't skip them.
+
+Then: delivery missions. Pick them up from the mission terminals in any landing zone. They pay small but they're reliable, low-risk, and teach you navigation. Do these until flying and landing feels comfortable.
+
+Don't buy anything yet. Your starter kit has what you need.
+
+---
+
+**Week 2 — Find your gameplay loop**
+
+By now you have a feel for what's fun. Try one of these to find your loop:
+
+- **Combat** — bounty hunting missions (available at mission terminals)
+- **Mining** — rent a Prospector at Lorville or Area18 to try it before committing
+- **Salvage** — rent a Vulture to test it
+- **Cargo/hauling** — buy low at one station, sell high at another
+
+You don't need to commit to one forever. Try a few.
+
+---
+
+**Week 2–3 — Set your home location**
+
+Go to a station you like, find a bed, and set your spawn point. Dying and spawning at your home location is much less painful than the default. New Babbage (microTech) and Area18 (ArcCorp) are both good choices with full services.
+
+---
+
+**Week 3–4 — Find people to play with**
+
+Star Citizen is significantly better with other people. A few options:
+
+- Post "LFG" in this subreddit with your timezone and what you want to do
+- The DayOneCitizen Discord: https://discord.gg/GzwgugjH (new-player friendly, no dumb questions)
+- In-game: walk up to someone at a landing zone and just talk
+
+Multi-crew ships, group missions, and org play are where the game really opens up.
+
+---
+
+**Things to NOT do in your first 30 days**
+
+- Don't spend aUEC on gear until you know what you need
+- Don't buy an expensive ship in-game before you understand how insurance works
+- Don't panic when you get a 30k error — it's a server crash, not something you did. Log back in.
+- Don't expect a finished game. Embrace the alpha.
+
+---
+
+Full new player guide: https://dayonecitizen.com
+
+Discord: https://discord.gg/GzwgugjH
+
+o7 — Doc\_Flanigan
