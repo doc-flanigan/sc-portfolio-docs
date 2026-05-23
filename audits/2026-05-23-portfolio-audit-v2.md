@@ -547,12 +547,12 @@ This cannot be caught by build checks alone.
 
 ## Time-Sensitive: Giveaway Cleanup
 
-**Do NOT act on these before giveaway entries close (end of May 27 / early May 28 UTC):**
+✅ **Completed 2026-05-28 — commit `ab28ac3` (freeflyevent-site), `5833fa8` (dayonecitizen-main)**
 
-- [ ] **freeflyevent-site** `public/giveaway.html` — add `<meta name="robots" content="noindex">`
-- [ ] **freeflyevent-site** `src/app/sitemap.ts` — remove giveaway.html entry
-- [ ] **dayonecitizen-main** `src/components/GiveawayBanner.tsx` — add date guard matching `2026-05-28T06:00:00Z`, or remove the component from NavBar
-- [ ] **freeflyevent-site** `src/components/EventStatusBanner.tsx` — after giveaway closes, revert bar variant to show referral CTA instead of giveaway CTA
+- [x] **freeflyevent-site** `public/giveaway.html` — `<meta name="robots" content="noindex">` added
+- [x] **freeflyevent-site** `src/app/sitemap.ts` — giveaway.html entry removed
+- [x] **dayonecitizen-main** `src/components/GiveawayBanner.tsx` — date guard added (`2026-05-28T06:00:00Z`); banner auto-hides after cutoff without a deploy
+- [x] **freeflyevent-site** `src/components/EventStatusBanner.tsx` — ACTIVE bar reverted to referral CTA; shows `bonusOverride.badge` during bonus events, falls back to "50,000 UEC bonus at signup"
 
 ---
 
