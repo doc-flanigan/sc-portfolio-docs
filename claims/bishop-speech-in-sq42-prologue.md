@@ -8,6 +8,7 @@ lastVerified: 2026-07-04
 usage:
   - iheldtheline.com /bishops-speech — fleet-speech sections, FAQ, video card (link starts t=896s)
   - iheldtheline.com /i-held-the-line-trailer — phrase-origin paragraph
+  - iheldtheline.com /about — "Why 'I Held the Line'?" name-origin teaser
 ---
 
 **This is NOT the Senate speech running in-engine — it is a distinct speech.** Corrected

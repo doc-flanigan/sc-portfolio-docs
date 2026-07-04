@@ -10,6 +10,7 @@ usage:
   - iheldtheline.com / — SpeechQuote flavor + quote-band link
   - iheldtheline.com /i-held-the-line-trailer — phrase-origin section + SpeechQuote
   - iheldtheline.com /vanduul — SpeechQuote flavor
+  - iheldtheline.com /about — "Why 'I Held the Line'?" name-origin teaser
 ---
 
 The official upload's own description reads "Opening cinematic for Squadron 42. As seen
