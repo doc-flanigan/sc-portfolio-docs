@@ -56,18 +56,31 @@ function parseClaim(txt) {
 }
 
 // From a usage line, if it belongs to <domain>, return the public routes on it.
-// "freeflyevent.com /a, /b — note"  -> ['/a', '/b']
-// "freeflyevent.com / — note"       -> ['/']
-// "freeflyevent-site/src/..."       -> [] (repo path, not this domain)
-// "dayonecitizen.com /x — note"     -> [] (other domain)
+// "freeflyevent.com /a, /b — note"           -> ['/a', '/b']
+// "freeflyevent.com / — note"                -> ['/']
+// "dayonecitizen.com — note (src/data/x.ts)" -> []  (no public route named)
+// "freeflyevent-site/src/..."                -> []  (repo path, not this domain)
+// "dayonecitizen.com /x — note"              -> []  (only when domain differs)
 function routesFor(usageLine, domain) {
   const m = usageLine.match(new RegExp(`^${domain.replace(/\./g, '\\.')}\\s+(.*)$`));
   if (!m) return [];
-  const afterDomain = m[1];
-  const sepIdx = afterDomain.search(/\s[—-]\s/);
-  const routePart = sepIdx >= 0 ? afterDomain.slice(0, sepIdx) : afterDomain;
+  let afterDomain = m[1].trim();
+  // A leading dash means "note about the domain, no specific route" (e.g. data-file refs).
+  if (/^[—–-]/.test(afterDomain)) return [];
+  // Keep only the part before the " — " description separator.
+  const sepIdx = afterDomain.search(/\s[—–-]\s/);
+  let routePart = sepIdx >= 0 ? afterDomain.slice(0, sepIdx) : afterDomain;
+  // Drop parentheticals so repo paths inside them can't masquerade as routes.
+  routePart = routePart.replace(/\([^)]*\)/g, ' ');
   const tokens = routePart.match(/\/[A-Za-z0-9/_-]*/g) || [];
-  return [...new Set(tokens.map((t) => (t === '/' ? '/' : t.replace(/\/$/, ''))))];
+  return [
+    ...new Set(
+      tokens
+        // Reject file paths (contain "src/" or a .ext) — routes only.
+        .filter((t) => !t.includes('src/') && !/\.[A-Za-z0-9]+$/.test(t))
+        .map((t) => (t === '/' ? '/' : t.replace(/\/$/, ''))),
+    ),
+  ];
 }
 
 const routes = {};
