@@ -9,6 +9,7 @@ lastVerified: 2026-07-03
 usage:
   - iheldtheline.com /cast — cast grid card (+ /cast/gary-oldman detail)
   - iheldtheline.com / — homepage Bishop speech reference
+  - iheldtheline.com /bishops-speech — dedicated speech page (definition + FAQ)
   - iheldtheline-site/src/data/cast.ts — canonical cast record
   - 42ndsquadron.com (pre-launch) /characters — confirmed-roles table
 ---
