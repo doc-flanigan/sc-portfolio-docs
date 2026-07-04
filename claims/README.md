@@ -71,6 +71,28 @@ node docs/claims/stale.mjs --days 90  # only entries older than 90 days
    (`node docs/claims/stale.mjs`). Event records and version-dependent claims go stale
    fastest.
 
-## Later phase (not v1)
+## Per-page "Sources" generator (GEO citation-trust signal)
 
-Generate per-page public "Sources" sections from the ledger — a GEO citation-trust signal.
+`gen-sources.mjs` reads the ledger and emits a per-route manifest for one site —
+route → the verified claims that appear on it, each with its official CIG source URL. A
+site renders that manifest as a visible "Sources" section plus schema.org `citation`
+JSON-LD, so both readers and LLM crawlers can see every fact tied to its primary source.
+
+```bash
+# From the repo root:
+node docs/claims/gen-sources.mjs <domain> <outfile.json> [--include-unverifiable]
+
+# Piloted on freeflyevent (its own npm script keeps the path local):
+cd freeflyevent-site && npm run gen-sources
+```
+
+- Only `status: verified` claims are emitted by default (public Sources = facts we stand
+  behind). `--include-unverifiable` adds those too.
+- Repo-path `usage` lines (e.g. `*-site/src/data/*.ts`) are skipped — public routes only.
+- The manifest is **committed** into the site (`src/data/page-sources.generated.json`),
+  because Vercel builds each site without this docs repo present. Regenerate and re-commit
+  it after ledger changes that touch that site's `usage` maps.
+
+**Live pilot:** freeflyevent.com — `<PageSources route="…">`
+(`freeflyevent-site/src/components/PageSources.tsx`) on all 7 routes. Roll out to the other
+sites by running the generator per domain and dropping the same component in.
