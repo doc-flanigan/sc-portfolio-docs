@@ -25,7 +25,9 @@ video's transcript 2026-07-04. Do not expand to long verbatim excerpts without D
 explicit sign-off.
 
 **Phrase nuance (important for fact-checks):** the phrase "I held the line" does NOT appear
-in this speech. Site copy deliberately says the speech is where the line was *drawn* — the
-literal phrase comes from the CitizenCon 2953 showcase title (see
-sq42-i-held-the-line-showcase) and the community rallying cry. Flag any copy claiming
-Bishop says the phrase.
+in THIS speech (the 2015 Senate address — verified against its full transcript). Bishop DOES
+say the phrase in his separate prologue address to the 2nd Fleet and 42nd Squadron — see
+bishop-speech-in-sq42-prologue. Flag copy that puts the phrase in the Senate speech, and
+flag copy that claims Bishop never says it at all (an earlier draft of iheldtheline's
+/bishops-speech page made exactly that mistake on 2026-07-04 by generalizing from this
+transcript; corrected same day after Doc flagged it).
