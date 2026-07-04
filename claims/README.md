@@ -93,6 +93,18 @@ cd freeflyevent-site && npm run gen-sources
   because Vercel builds each site without this docs repo present. Regenerate and re-commit
   it after ledger changes that touch that site's `usage` maps.
 
-**Live pilot:** freeflyevent.com — `<PageSources route="…">`
-(`freeflyevent-site/src/components/PageSources.tsx`) on all 7 routes. Roll out to the other
-sites by running the generator per domain and dropping the same component in.
+**Live network-wide** (rolled out 2026-07-04): freeflyevent, iheldtheline, dayonecitizen,
+highestfundedgame, bestspacesim, o7meaning, screferralreward, screferralbonus,
+starcitizenhelp, 42ndsquadron. Each site has its own themed
+`src/components/PageSources.tsx` + committed `src/data/page-sources.generated.json` +
+`npm run gen-sources` script. pledgemeaning has no ledger usage lines yet, so it has no
+Sources section — add one by giving a claim a `pledgemeaning.com /route` usage entry, then
+running the generator there.
+
+Adding a new site: run the generator for its domain, copy a nearby site's `PageSources.tsx`,
+adapt `SITE_ORIGIN` + the Tailwind classes to that site's theme, and wire
+`<PageSources route="…">` before its footer on each covered page.
+
+**Gotcha:** the component dedupes sources with `Array.from(new Set(...))`, NOT the `[...new
+Set()]` spread — several sites' tsconfig has no `target`/`downlevelIteration` and the spread
+fails type-check there. Keep `Array.from` when copying.
