@@ -13,6 +13,7 @@ usage:
   - starcitizenhelp.com /enlist — enlistment CTA (+ src/lib/referral-bonus.ts)
   - o7meaning.com /faq, /in-star-citizen — mention
   - bestspacesim.com /star-citizen-vs/[slug] — mention
+  - 42ndsquadron.com (pre-launch) / — CTA copy, EnlistButton, Footer disclosure, /about disclosure
 ---
 
 Network-wide canon settled 2026-07-03 after SCH and freeflyevent contradicted each other.
@@ -20,4 +21,10 @@ Terminology (sc-fact-check watch list): this is the **enlistment bonus** (the ne
 credit) — distinct from **Referral Rewards** (the referrer's milestone perks) and from
 time-limited **referral bonus promotions** (extra ship/vehicle, layered on top during
 events; see event-defensecon-2956). Historical 5,000 figure is stale → flag it.
-The RSI page phrases the amount in UEC; site copy standard is "50,000 UEC".
+
+**Currency (aUEC vs UEC):** the RSI referral page denominates this bonus in **UEC**
+(persistent United Earth Credits), NOT aUEC (the wipe-on-patch in-game balance). This is the
+documented exception to the general "use aUEC for in-game earnings" rule. Network copy
+standard is "50,000 UEC". sc-fact-check's watch list was reconciled to this on 2026-07-04
+(it previously hardcoded a conflicting "50,000 aUEC" and would have flagged correct copy).
+42ndsquadron.com was normalized from "aUEC" to "UEC" the same day.

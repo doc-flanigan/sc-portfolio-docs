@@ -8,6 +8,7 @@ lastVerified: 2026-07-03
 usage:
   - iheldtheline.com /cast — cast grid card (+ /cast/sophie-wu detail)
   - iheldtheline-site/src/data/cast.ts — canonical cast record
+  - 42ndsquadron.com (pre-launch) /characters — confirmed-cast table
 ---
 
 Named in CIG's CitizenCon 2954 press release (the 2026 launch-window announcement), listed

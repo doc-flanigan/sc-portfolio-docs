@@ -9,6 +9,7 @@ usage:
   - iheldtheline.com /release-date — release-window timeline
   - iheldtheline.com /faq — release FAQ
   - iheldtheline-site/src/data/cast.ts — Sophie Wu bio references the press release
+  - 42ndsquadron.com (pre-launch) / — quick-facts sidebar + hero copy; /faq data
 ---
 
 Source is CIG's own CitizenCon 2954 press release (gamespress hosts publisher-issued

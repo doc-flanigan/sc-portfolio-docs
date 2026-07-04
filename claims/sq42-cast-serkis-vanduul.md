@@ -9,6 +9,7 @@ usage:
   - iheldtheline.com /cast — cast grid card (+ /cast/andy-serkis detail)
   - iheldtheline.com /vanduul — Vanduul faction page
   - iheldtheline-site/src/data/cast.ts — canonical cast record
+  - 42ndsquadron.com (pre-launch) /characters — confirmed-cast table
 ---
 
 Confirmed in the official SQ42 cast comm-link (RSI id 20401). Serkis performs a Vanduul via
