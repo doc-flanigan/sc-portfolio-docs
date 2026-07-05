@@ -7,6 +7,7 @@ sources:
 lastVerified: 2026-07-04
 usage:
   - iheldtheline.com /news — timeline entry (+ /news/sq42-vertical-slice-holiday-special-2017 detail page)
+  - iheldtheline.com /release-date — timeline entry (December 2017)
 ---
 
 Official upload "Squadron 42: Around the Verse - Holiday Special 2017" verified on the

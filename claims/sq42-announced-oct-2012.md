@@ -8,6 +8,7 @@ sources:
 lastVerified: 2026-07-05
 usage:
   - iheldtheline.com /news — timeline entry (+ /news/squadron-42-announced-gdc-2012 detail page)
+  - iheldtheline.com /release-date — timeline entry (October 2012)
 ---
 
 Comm-link 12730 (published two days after the reveal) confirms the announcement pitch
