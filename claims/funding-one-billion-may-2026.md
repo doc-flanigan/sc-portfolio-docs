@@ -11,6 +11,7 @@ usage:
   - highestfundedgame.com /the-story — narrative timeline (+ src/data/milestones.ts)
   - dayonecitizen.com / — homepage mention
   - bestspacesim.com /star-citizen — profile page
+  - bestspacesim.com /is-star-citizen-worth-it — milestone copy in FAQ
   - freeflyevent.com /should-i-buy — context copy
 ---
 

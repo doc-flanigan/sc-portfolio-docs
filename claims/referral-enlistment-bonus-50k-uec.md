@@ -13,6 +13,7 @@ usage:
   - starcitizenhelp.com /enlist — enlistment CTA (+ src/lib/referral-bonus.ts)
   - o7meaning.com /faq, /in-star-citizen — mention
   - bestspacesim.com /star-citizen-vs/[slug] — mention
+  - bestspacesim.com /is-star-citizen-worth-it — enlistment bonus + referral code copy
   - 42ndsquadron.com (pre-launch) / — CTA copy, EnlistButton, Footer disclosure, /about disclosure
 ---
 

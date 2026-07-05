@@ -10,6 +10,7 @@ usage:
   - freeflyevent.com /is-star-citizen-free — FAQ answer + comparison table
   - freeflyevent.com /event-history — intro copy
   - freeflyevent.com /event-guide — signup steps
+  - bestspacesim.com /is-star-citizen-worth-it — "can I try free" FAQ answer
 ---
 
 Consistent across all Free Fly announcement comm-links. Distinct from

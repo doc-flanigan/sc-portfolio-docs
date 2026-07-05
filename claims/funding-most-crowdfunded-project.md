@@ -8,6 +8,7 @@ lastVerified: 2026-07-03
 usage:
   - highestfundedgame.com — site-wide premise (layout metadata, homepage, /billion, /the-story)
   - bestspacesim.com /star-citizen — profile copy
+  - bestspacesim.com /is-star-citizen-worth-it — FAQ claim about most-crowdfunded status
   - dayonecitizen.com / — homepage mention
 ---
 

@@ -10,6 +10,7 @@ usage:
   - freeflyevent.com / — homepage banner logic and copy
   - freeflyevent.com /is-star-citizen-free — core answer
   - freeflyevent.com /next-free-fly — event window framing
+  - bestspacesim.com /is-star-citizen-worth-it — Free Fly timing context in FAQ
   - dayonecitizen.com /free-fly-events — event listing intro
 ---
 
