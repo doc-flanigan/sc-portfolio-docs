@@ -12,6 +12,7 @@ usage:
   - freeflyevent.com /next-free-fly — event window framing
   - bestspacesim.com /is-star-citizen-worth-it — Free Fly timing context in FAQ
   - bestspacesim.com /best-space-games — "best free space game" FAQ answer (event-window framing)
+  - dayonecitizen.com /day-one-citizen/worth-buying — "try before buying" FAQ answer (event timing)
   - dayonecitizen.com /free-fly-events — event listing intro
 ---
 

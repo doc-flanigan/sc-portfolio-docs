@@ -7,6 +7,8 @@ sources:
 lastVerified: 2026-07-05
 usage:
   - bestspacesim.com /is-star-citizen-worth-it — cost explainer + FAQ
+  - dayonecitizen.com /day-one-citizen/worth-buying — cost FAQ answer
+  - dayonecitizen.com /day-one-citizen/starter-package — recommendation + price FAQ
 ---
 
 Verified from the live RSI pledge store. This is the minimum entry point to play the live game

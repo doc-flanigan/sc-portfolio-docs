@@ -12,6 +12,7 @@ usage:
   - freeflyevent.com /event-guide — signup steps
   - bestspacesim.com /is-star-citizen-worth-it — "can I try free" FAQ answer
   - bestspacesim.com /best-space-games — "best free space game" FAQ answer
+  - dayonecitizen.com /day-one-citizen/worth-buying — "try before buying" FAQ answer
 ---
 
 Consistent across all Free Fly announcement comm-links. Distinct from
