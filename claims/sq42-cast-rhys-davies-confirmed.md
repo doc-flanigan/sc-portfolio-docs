@@ -9,7 +9,7 @@ lastVerified: 2026-07-03
 usage:
   - iheldtheline.com /cast — cast grid card (+ /cast/john-rhys-davies detail)
   - iheldtheline-site/src/data/cast.ts — canonical cast record
-  - 42ndsquadron.com (pre-launch) /characters — confirmed-cast table
+  - 42ndsquadron.com /characters — confirmed-cast table
 ---
 
 Casting confirmed in the official SQ42 cast comm-link (RSI id 20401). Community sources

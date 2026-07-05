@@ -9,7 +9,7 @@ lastVerified: 2026-07-03
 usage:
   - iheldtheline.com /cast — cast grid card (+ /cast/mark-strong detail)
   - iheldtheline-site/src/data/cast.ts — canonical cast record
-  - 42ndsquadron.com (pre-launch) /characters — confirmed-cast table
+  - 42ndsquadron.com /characters — confirmed-cast table
 ---
 
 Named among the ensemble cast on the official Squadron 42 site. CIG has not officially

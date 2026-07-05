@@ -14,7 +14,8 @@ usage:
   - o7meaning.com /faq, /in-star-citizen — mention
   - bestspacesim.com /star-citizen-vs/[slug] — mention
   - bestspacesim.com /is-star-citizen-worth-it — enlistment bonus + referral code copy
-  - 42ndsquadron.com (pre-launch) / — CTA copy, EnlistButton, Footer disclosure, /about disclosure
+  - 42ndsquadron.com / — CTA copy, EnlistButton, Footer disclosure, /about disclosure
+  - 42ndsquadron.com /answer-the-call — "how do you answer the call today" FAQ + CTA
 ---
 
 Network-wide canon settled 2026-07-03 after SCH and freeflyevent contradicted each other.

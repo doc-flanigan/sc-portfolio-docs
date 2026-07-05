@@ -11,7 +11,7 @@ usage:
   - iheldtheline.com / — homepage Bishop speech reference
   - iheldtheline.com /bishops-speech — dedicated speech page (definition + FAQ)
   - iheldtheline-site/src/data/cast.ts — canonical cast record
-  - 42ndsquadron.com (pre-launch) /characters — confirmed-roles table
+  - 42ndsquadron.com /characters — confirmed-roles table
 ---
 
 Confirmed in the official SQ42 cast comm-link (RSI id 20401; full text via
