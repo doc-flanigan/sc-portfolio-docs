@@ -10,6 +10,7 @@ usage:
   - iheldtheline.com /faq — release FAQ
   - iheldtheline-site/src/data/cast.ts — Sophie Wu bio references the press release
   - 42ndsquadron.com (pre-launch) / — quick-facts sidebar + hero copy; /faq data
+  - highestfundedgame.com / — "is Star Citizen released" FAQ answer (SQ42 2026 target)
 ---
 
 Source is CIG's own CitizenCon 2954 press release (gamespress hosts publisher-issued

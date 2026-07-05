@@ -8,6 +8,8 @@ lastVerified: 2026-07-05
 usage:
   - bestspacesim.com /star-citizen — crowdfunding history copy
   - bestspacesim.com /is-star-citizen-worth-it — "still in alpha" FAQ answer
+  - highestfundedgame.com / — "is Star Citizen released" FAQ answer
+  - highestfundedgame.com /the-story — "how long in development" FAQ answer
 ---
 
 Comm-link 12730 confirms the Oct 2012 crowdfunding reveal; it predates any playable alpha module by 10+ months. Site copy should say 'open development since 2012' (per sc-fact-check watch list), not 'public alpha since 2012'.

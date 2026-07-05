@@ -8,6 +8,7 @@ lastVerified: 2026-07-05
 usage:
   - bestspacesim.com — SQ42 vs SC distinction copy
   - iheldtheline.com /release-date — "do I need Star Citizen" FAQ answer
+  - highestfundedgame.com / — "is Star Citizen released" FAQ answer (SQ42 separate-title framing)
 ---
 
 Consistent with the full sq42-* claim set (announced alongside SC Oct 2012, still unreleased, 2026 launch window per CitizenCon 2954). No comm-link describes a shipped single-player mode inside the live PU.
