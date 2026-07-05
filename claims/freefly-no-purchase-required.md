@@ -5,7 +5,7 @@ status: verified
 sources:
   - https://robertsspaceindustries.com/en/comm-link/transmission/21147-DefenseCon-2956-About
   - https://robertsspaceindustries.com/en/comm-link/transmission/20861-Intergalactic-Aerospace-Expo-2955-Free-Fly-And-Manufacturer-Schedule
-lastVerified: 2026-07-04
+lastVerified: 2026-07-05
 usage:
   - freeflyevent.com /is-star-citizen-free — FAQ answer + comparison table
   - freeflyevent.com /event-history — intro copy

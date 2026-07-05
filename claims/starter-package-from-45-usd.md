@@ -4,7 +4,7 @@ claim: "Star Citizen starter Game Packages begin at $45, with no subscription re
 status: verified
 sources:
   - https://robertsspaceindustries.com/pledge/game-packages
-lastVerified: 2026-07-04
+lastVerified: 2026-07-05
 usage:
   - bestspacesim.com /is-star-citizen-worth-it — cost explainer + FAQ
 ---

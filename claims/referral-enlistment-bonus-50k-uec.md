@@ -4,7 +4,7 @@ claim: "New RSI accounts created with a referral code receive a 50,000 UEC enlis
 status: verified
 sources:
   - https://robertsspaceindustries.com/en/referral-program
-lastVerified: 2026-07-03
+lastVerified: 2026-07-05
 usage:
   - freeflyevent.com /event-guide, /is-star-citizen-free, /glossary, /next-free-fly — bonus copy + CTAs
   - dayonecitizen.com /glossary, /beyond-the-basics/redeem-codes — bonus copy (+ src/data/referral-bonus.ts)

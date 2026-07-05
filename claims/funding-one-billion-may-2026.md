@@ -4,7 +4,7 @@ claim: "Star Citizen crossed $1 billion in total funding raised on May 24, 2026,
 status: verified
 sources:
   - https://robertsspaceindustries.com/en/funding-goals
-lastVerified: 2026-07-03
+lastVerified: 2026-07-05
 usage:
   - highestfundedgame.com / — homepage counter + copy
   - highestfundedgame.com /billion — dedicated milestone page

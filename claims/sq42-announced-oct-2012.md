@@ -5,7 +5,7 @@ status: verified
 sources:
   - https://robertsspaceindustries.com/en/comm-link/transmission/12730-A-Message-From-Chris-Roberts
   - https://www.kickstarter.com/projects/cig/star-citizen
-lastVerified: 2026-07-04
+lastVerified: 2026-07-05
 usage:
   - iheldtheline.com /news — timeline entry (+ /news/squadron-42-announced-gdc-2012 detail page)
 ---
