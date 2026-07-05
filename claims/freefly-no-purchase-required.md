@@ -11,6 +11,7 @@ usage:
   - freeflyevent.com /event-history — intro copy
   - freeflyevent.com /event-guide — signup steps
   - bestspacesim.com /is-star-citizen-worth-it — "can I try free" FAQ answer
+  - bestspacesim.com /best-space-games — "best free space game" FAQ answer
 ---
 
 Consistent across all Free Fly announcement comm-links. Distinct from
