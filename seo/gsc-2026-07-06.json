@@ -1,0 +1,695 @@
+[
+ {
+  "site": "dayonecitizen.com",
+  "cur": {
+   "clicks": 3,
+   "impressions": 616,
+   "ctr": 0.00487012987012987,
+   "position": 12.295454545454545
+  },
+  "prv": {
+   "clicks": 3,
+   "impressions": 114,
+   "ctr": 0.02631578947368421,
+   "position": 24.99122807017544
+  },
+  "q": [
+   {
+    "k": "decari pod star citizen",
+    "clicks": 0,
+    "impr": 1,
+    "pos": 45
+   },
+   {
+    "k": "how to drink in star citizen",
+    "clicks": 0,
+    "impr": 1,
+    "pos": 30
+   },
+   {
+    "k": "how to emote in star citizen",
+    "clicks": 0,
+    "impr": 3,
+    "pos": 51
+   },
+   {
+    "k": "radiance star citizen",
+    "clicks": 0,
+    "impr": 2,
+    "pos": 26.5
+   },
+   {
+    "k": "star citizen aeon club",
+    "clicks": 0,
+    "impr": 2,
+    "pos": 29.5
+   }
+  ],
+  "p": [
+   {
+    "k": "https://dayonecitizen.com/",
+    "clicks": 2,
+    "impr": 20,
+    "pos": 18.5
+   },
+   {
+    "k": "https://dayonecitizen.com/beyond-the-basics/shops-directory",
+    "clicks": 1,
+    "impr": 188,
+    "pos": 9
+   },
+   {
+    "k": "https://dayonecitizen.com/beyond-the-basics",
+    "clicks": 0,
+    "impr": 56,
+    "pos": 28
+   },
+   {
+    "k": "https://dayonecitizen.com/day-one-citizen/keybinds",
+    "clicks": 0,
+    "impr": 361,
+    "pos": 11
+   }
+  ],
+  "sm": [
+   {
+    "path": "/sitemap.xml",
+    "errors": "0",
+    "warnings": "0",
+    "submitted": "33",
+    "lastDownloaded": "2026-07-05T17:31:07.566Z"
+   }
+  ]
+ },
+ {
+  "site": "starcitizenhelp.com",
+  "cur": {
+   "clicks": 919,
+   "impressions": 68977,
+   "ctr": 0.013323281673601346,
+   "position": 7.5259579280049875
+  },
+  "prv": {
+   "clicks": 842,
+   "impressions": 69536,
+   "ctr": 0.01210883571099862,
+   "position": 7.6902899217671425
+  },
+  "q": [
+   {
+    "k": "star citizen ccu chain calculator",
+    "clicks": 81,
+    "impr": 284,
+    "pos": 2.4
+   },
+   {
+    "k": "star citizen ccu calculator",
+    "clicks": 33,
+    "impr": 121,
+    "pos": 2.4
+   },
+   {
+    "k": "ccu calculator",
+    "clicks": 25,
+    "impr": 81,
+    "pos": 2.8
+   },
+   {
+    "k": "ccu chain calculator",
+    "clicks": 21,
+    "impr": 63,
+    "pos": 2.2
+   },
+   {
+    "k": "ccu calculator star citizen",
+    "clicks": 16,
+    "impr": 62,
+    "pos": 2.4
+   }
+  ],
+  "p": [
+   {
+    "k": "https://starcitizenhelp.com/tools",
+    "clicks": 386,
+    "impr": 5840,
+    "pos": 6.3
+   },
+   {
+    "k": "https://starcitizenhelp.com/game-guides/ccu-chains",
+    "clicks": 175,
+    "impr": 5677,
+    "pos": 6.8
+   },
+   {
+    "k": "https://starcitizenhelp.com/game-guides/keybinds",
+    "clicks": 69,
+    "impr": 6669,
+    "pos": 7.9
+   },
+   {
+    "k": "https://starcitizenhelp.com/game-guides/in-game-shops-directory",
+    "clicks": 65,
+    "impr": 10484,
+    "pos": 7.3
+   },
+   {
+    "k": "https://starcitizenhelp.com/game-guides/adding-friends-contacts",
+    "clicks": 59,
+    "impr": 6306,
+    "pos": 5.6
+   }
+  ],
+  "sm": [
+   {
+    "path": "/sitemap.xml",
+    "errors": "0",
+    "warnings": "0",
+    "submitted": "28",
+    "lastDownloaded": "2026-06-27T21:25:13.856Z"
+   }
+  ]
+ },
+ {
+  "site": "freeflyevent.com",
+  "cur": {
+   "clicks": 1,
+   "impressions": 282,
+   "ctr": 0.0035460992907801418,
+   "position": 29.858156028368793
+  },
+  "prv": {
+   "clicks": 7,
+   "impressions": 1218,
+   "ctr": 0.005747126436781609,
+   "position": 16.637931034482758
+  },
+  "q": [
+   {
+    "k": "star citizen free fly",
+    "clicks": 1,
+    "impr": 73,
+    "pos": 29.5
+   },
+   {
+    "k": "best star citizen starter pack 2026",
+    "clicks": 0,
+    "impr": 1,
+    "pos": 18
+   },
+   {
+    "k": "defensecon free fly",
+    "clicks": 0,
+    "impr": 1,
+    "pos": 28
+   },
+   {
+    "k": "fly free star citizen",
+    "clicks": 0,
+    "impr": 3,
+    "pos": 29.7
+   },
+   {
+    "k": "free flight star citizen",
+    "clicks": 0,
+    "impr": 1,
+    "pos": 26
+   }
+  ],
+  "p": [
+   {
+    "k": "https://freeflyevent.com/event-guide",
+    "clicks": 1,
+    "impr": 87,
+    "pos": 26.8
+   },
+   {
+    "k": "https://freeflyevent.com/",
+    "clicks": 0,
+    "impr": 199,
+    "pos": 34.2
+   },
+   {
+    "k": "https://freeflyevent.com/giveaway.html",
+    "clicks": 0,
+    "impr": 18,
+    "pos": 13.6
+   },
+   {
+    "k": "https://freeflyevent.com/next-free-fly",
+    "clicks": 0,
+    "impr": 3,
+    "pos": 39.3
+   }
+  ],
+  "sm": [
+   {
+    "path": "/sitemap.xml",
+    "errors": "0",
+    "warnings": "0",
+    "submitted": "7",
+    "lastDownloaded": "2026-07-05T06:41:07.656Z"
+   }
+  ]
+ },
+ {
+  "site": "bestspacesim.com",
+  "cur": {
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 11.333333333333334
+  },
+  "prv": {
+   "clicks": 0,
+   "impressions": 222,
+   "ctr": 0,
+   "position": 28.3018018018018
+  },
+  "q": [],
+  "p": [
+   {
+    "k": "https://bestspacesim.com/",
+    "clicks": 0,
+    "impr": 3,
+    "pos": 11.3
+   }
+  ],
+  "sm": [
+   {
+    "path": "/sitemap.xml",
+    "errors": "0",
+    "warnings": "0",
+    "submitted": "3",
+    "lastDownloaded": "2026-06-26T14:33:29.104Z"
+   }
+  ]
+ },
+ {
+  "site": "o7meaning.com",
+  "cur": {
+   "clicks": 0,
+   "impressions": 588,
+   "ctr": 0,
+   "position": 20.408163265306122
+  },
+  "prv": {
+   "clicks": 1,
+   "impressions": 815,
+   "ctr": 0.001226993865030675,
+   "position": 15.419631901840491
+  },
+  "q": [
+   {
+    "k": "07 meaning",
+    "clicks": 0,
+    "impr": 2,
+    "pos": 50
+   },
+   {
+    "k": "define o7",
+    "clicks": 0,
+    "impr": 2,
+    "pos": 51
+   },
+   {
+    "k": "elite dangerous o7 meaning",
+    "clicks": 0,
+    "impr": 1,
+    "pos": 11
+   },
+   {
+    "k": "helldivers o7",
+    "clicks": 0,
+    "impr": 1,
+    "pos": 4
+   },
+   {
+    "k": "meaning of o7",
+    "clicks": 0,
+    "impr": 3,
+    "pos": 39
+   }
+  ],
+  "p": [
+   {
+    "k": "https://o7meaning.com/",
+    "clicks": 0,
+    "impr": 522,
+    "pos": 22.3
+   },
+   {
+    "k": "https://o7meaning.com/in-star-citizen",
+    "clicks": 0,
+    "impr": 89,
+    "pos": 7.1
+   },
+   {
+    "k": "https://www.o7meaning.com/faq",
+    "clicks": 0,
+    "impr": 18,
+    "pos": 6.1
+   }
+  ],
+  "sm": [
+   {
+    "path": "/sitemap.xml",
+    "errors": "0",
+    "warnings": "0",
+    "submitted": "3",
+    "lastDownloaded": "2026-06-25T02:41:23.729Z"
+   }
+  ]
+ },
+ {
+  "site": "pledgemeaning.com",
+  "cur": {
+   "clicks": 0,
+   "impressions": 81,
+   "ctr": 0,
+   "position": 14.493827160493828
+  },
+  "prv": {
+   "clicks": 0,
+   "impressions": 247,
+   "ctr": 0,
+   "position": 10.408906882591094
+  },
+  "q": [
+   {
+    "k": "pledge star citizen",
+    "clicks": 0,
+    "impr": 1,
+    "pos": 17
+   },
+   {
+    "k": "pledge store star citizen",
+    "clicks": 0,
+    "impr": 1,
+    "pos": 19
+   },
+   {
+    "k": "rsi pledge",
+    "clicks": 0,
+    "impr": 5,
+    "pos": 22.2
+   },
+   {
+    "k": "star citizen exchange pledge",
+    "clicks": 0,
+    "impr": 1,
+    "pos": 16
+   },
+   {
+    "k": "star citizen pledge",
+    "clicks": 0,
+    "impr": 21,
+    "pos": 20.9
+   }
+  ],
+  "p": [
+   {
+    "k": "https://pledgemeaning.com/",
+    "clicks": 0,
+    "impr": 81,
+    "pos": 14.5
+   }
+  ],
+  "sm": [
+   {
+    "path": "/sitemap.xml",
+    "errors": "0",
+    "warnings": "0",
+    "submitted": "4",
+    "lastDownloaded": "2026-07-05T09:38:34.441Z"
+   }
+  ]
+ },
+ {
+  "site": "screferralreward.com",
+  "cur": {
+   "clicks": 0,
+   "impressions": 48,
+   "ctr": 0,
+   "position": 42.791666666666664
+  },
+  "prv": {
+   "clicks": 0,
+   "impressions": 123,
+   "ctr": 0,
+   "position": 52.26829268292683
+  },
+  "q": [
+   {
+    "k": "my star citizen referral code",
+    "clicks": 0,
+    "impr": 1,
+    "pos": 72
+   },
+   {
+    "k": "referral code star citizen",
+    "clicks": 0,
+    "impr": 8,
+    "pos": 58.5
+   },
+   {
+    "k": "referral rewards star citizen",
+    "clicks": 0,
+    "impr": 1,
+    "pos": 33
+   },
+   {
+    "k": "rsi referral",
+    "clicks": 0,
+    "impr": 1,
+    "pos": 37
+   },
+   {
+    "k": "rsi referral code",
+    "clicks": 0,
+    "impr": 3,
+    "pos": 60
+   }
+  ],
+  "p": [
+   {
+    "k": "https://screferralreward.com/",
+    "clicks": 0,
+    "impr": 48,
+    "pos": 42.8
+   }
+  ],
+  "sm": [
+   {
+    "path": "/sitemap.xml",
+    "errors": "0",
+    "warnings": "0",
+    "submitted": "3",
+    "lastDownloaded": "2026-07-04T20:15:49.745Z"
+   }
+  ]
+ },
+ {
+  "site": "screferralbonus.com",
+  "cur": {
+   "clicks": 0,
+   "impressions": 62,
+   "ctr": 0,
+   "position": 56.016129032258064
+  },
+  "prv": {
+   "clicks": 1,
+   "impressions": 183,
+   "ctr": 0.00546448087431694,
+   "position": 43.36612021857923
+  },
+  "q": [
+   {
+    "k": "my star citizen referral code",
+    "clicks": 0,
+    "impr": 3,
+    "pos": 77
+   },
+   {
+    "k": "referral code star citizen",
+    "clicks": 0,
+    "impr": 13,
+    "pos": 64.2
+   },
+   {
+    "k": "referral codes star citizen",
+    "clicks": 0,
+    "impr": 2,
+    "pos": 60.5
+   },
+   {
+    "k": "rsi referral code",
+    "clicks": 0,
+    "impr": 2,
+    "pos": 65.5
+   },
+   {
+    "k": "rsi referral program",
+    "clicks": 0,
+    "impr": 1,
+    "pos": 38
+   }
+  ],
+  "p": [
+   {
+    "k": "https://screferralbonus.com/",
+    "clicks": 0,
+    "impr": 62,
+    "pos": 56
+   }
+  ],
+  "sm": [
+   {
+    "path": "/sitemap.xml",
+    "errors": "0",
+    "warnings": "0",
+    "submitted": "4",
+    "lastDownloaded": "2026-06-11T05:55:16.100Z"
+   }
+  ]
+ },
+ {
+  "site": "highestfundedgame.com",
+  "cur": {
+   "clicks": 0,
+   "impressions": 124,
+   "ctr": 0,
+   "position": 46.24193548387097
+  },
+  "prv": {
+   "clicks": 1,
+   "impressions": 301,
+   "ctr": 0.0033222591362126247,
+   "position": 20.757475083056477
+  },
+  "q": [
+   {
+    "k": "crowdfunding star citizen",
+    "clicks": 0,
+    "impr": 6,
+    "pos": 76.5
+   },
+   {
+    "k": "funding star citizen",
+    "clicks": 0,
+    "impr": 1,
+    "pos": 48
+   },
+   {
+    "k": "how much did star citizen raise",
+    "clicks": 0,
+    "impr": 1,
+    "pos": 69
+   },
+   {
+    "k": "how much has star citizen raised",
+    "clicks": 0,
+    "impr": 2,
+    "pos": 71.5
+   },
+   {
+    "k": "how much money has star citizen made",
+    "clicks": 0,
+    "impr": 4,
+    "pos": 49.5
+   }
+  ],
+  "p": [
+   {
+    "k": "https://highestfundedgame.com/",
+    "clicks": 0,
+    "impr": 51,
+    "pos": 27.7
+   },
+   {
+    "k": "https://highestfundedgame.com/the-story",
+    "clicks": 0,
+    "impr": 83,
+    "pos": 60.1
+   }
+  ],
+  "sm": [
+   {
+    "path": "/sitemap.xml",
+    "errors": "0",
+    "warnings": "0",
+    "submitted": "3",
+    "lastDownloaded": "2026-07-06T01:31:14.064Z"
+   }
+  ]
+ },
+ {
+  "site": "iheldtheline.com",
+  "cur": {
+   "clicks": 0,
+   "impressions": 90,
+   "ctr": 0,
+   "position": 8.177777777777777
+  },
+  "prv": {
+   "clicks": 1,
+   "impressions": 462,
+   "ctr": 0.0021645021645021645,
+   "position": 14.887445887445887
+  },
+  "q": [
+   {
+    "k": "i held the line",
+    "clicks": 0,
+    "impr": 11,
+    "pos": 4.9
+   },
+   {
+    "k": "squadron 42 i held the line",
+    "clicks": 0,
+    "impr": 5,
+    "pos": 5.8
+   }
+  ],
+  "p": [
+   {
+    "k": "https://iheldtheline.com/",
+    "clicks": 0,
+    "impr": 67,
+    "pos": 6.7
+   },
+   {
+    "k": "https://www.iheldtheline.com/news",
+    "clicks": 0,
+    "impr": 24,
+    "pos": 12.2
+   }
+  ],
+  "sm": [
+   {
+    "path": "/sitemap.xml",
+    "errors": "0",
+    "warnings": "0",
+    "submitted": "39",
+    "lastDownloaded": "2026-07-04T18:40:21.144Z"
+   }
+  ]
+ },
+ {
+  "site": "o7citizen.com",
+  "cur": {
+   "clicks": 0,
+   "impressions": 0,
+   "ctr": 0,
+   "position": 0
+  },
+  "prv": {
+   "clicks": 0,
+   "impressions": 14,
+   "ctr": 0,
+   "position": 5.571428571428571
+  },
+  "q": [],
+  "p": [],
+  "sm": []
+ }
+]
