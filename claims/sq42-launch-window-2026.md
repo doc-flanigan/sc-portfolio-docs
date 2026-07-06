@@ -8,6 +8,8 @@ lastVerified: 2026-07-05
 usage:
   - iheldtheline.com /release-date — release-window timeline
   - iheldtheline.com /faq — release FAQ
+  - iheldtheline.com /sq42-vs-star-citizen — status row, "One Is Out" section + FAQ
+  - iheldtheline.com /worth-buying — direct answer, development-status section + FAQ
   - iheldtheline-site/src/data/cast.ts — Sophie Wu bio references the press release
   - 42ndsquadron.com / — quick-facts sidebar + hero copy; /faq data
   - 42ndsquadron.com /answer-the-call — "answering the call in 2026" section + FAQ

@@ -9,6 +9,7 @@ usage:
   - iheldtheline.com / — site premise (name, homepage)
   - iheldtheline.com /i-held-the-line-trailer — dedicated page (+ src/data/videos.ts)
   - iheldtheline.com /faq — "what is I Held the Line" entry
+  - iheldtheline.com /worth-buying — development-status section
 ---
 
 Comm-link id 19453 is the canonical source and links the official YouTube video. The phrase

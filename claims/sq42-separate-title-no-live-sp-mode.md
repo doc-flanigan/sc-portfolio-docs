@@ -8,6 +8,8 @@ lastVerified: 2026-07-05
 usage:
   - bestspacesim.com — SQ42 vs SC distinction copy
   - iheldtheline.com /release-date — "do I need Star Citizen" FAQ answer
+  - iheldtheline.com /sq42-vs-star-citizen — direct answer, single-player-vs-multiplayer section + FAQ
+  - iheldtheline.com /worth-buying — direct answer + FAQ
   - highestfundedgame.com / — "is Star Citizen released" FAQ answer (SQ42 separate-title framing)
 ---
 

@@ -7,6 +7,8 @@ sources:
 lastVerified: 2026-07-05
 usage:
   - iheldtheline.com /release-date — top statement, What We Know card, FAQ answers
+  - iheldtheline.com /worth-buying — direct answer, what-you-get list, development-status section + FAQ
+  - iheldtheline.com /sq42-vs-star-citizen — "One Is Out" section
 ---
 
 Verified against the full letter body (comm-link 20960 via api.star-citizen.wiki, published

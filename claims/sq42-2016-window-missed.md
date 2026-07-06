@@ -9,6 +9,7 @@ lastVerified: 2026-07-04
 usage:
   - iheldtheline.com /news — timeline entries (+ /news/sq42-2016-delay-citizencon-2946 detail page)
   - iheldtheline.com /release-date — release-window history
+  - iheldtheline.com /worth-buying — case-for-waiting section
 ---
 
 The October 2016 Monthly Studio Report (15587) states in writing the team "didn't wind up

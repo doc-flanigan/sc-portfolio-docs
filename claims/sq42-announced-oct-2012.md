@@ -9,6 +9,7 @@ lastVerified: 2026-07-05
 usage:
   - iheldtheline.com /news — timeline entry (+ /news/squadron-42-announced-gdc-2012 detail page)
   - iheldtheline.com /release-date — timeline entry (October 2012)
+  - iheldtheline.com /sq42-vs-star-citizen — announced-together section
   - highestfundedgame.com /the-story — "how did crowdfunding start" FAQ answer
 ---
 

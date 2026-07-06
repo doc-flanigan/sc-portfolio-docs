@@ -8,6 +8,7 @@ lastVerified: 2026-07-04
 usage:
   - iheldtheline.com /news — timeline entry (+ /news/done-when-it-is-done-letter-2020 detail page)
   - iheldtheline.com /release-date — release-window history
+  - iheldtheline.com /worth-buying — case-for-waiting section
 ---
 
 Verified against the letter body (comm-link 17805). Same day, the Briefing Room quarterly

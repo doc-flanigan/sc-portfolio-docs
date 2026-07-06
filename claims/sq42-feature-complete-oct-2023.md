@@ -10,6 +10,8 @@ usage:
   - iheldtheline.com /release-date — timeline entry
   - iheldtheline.com /faq — FAQ entry (+ src/data/faq.ts, src/data/news.ts)
   - iheldtheline.com / — homepage copy
+  - iheldtheline.com /worth-buying — development-status section
+  - iheldtheline.com /sq42-vs-star-citizen — announced-together section
   - starcitizenhelp.com — glossary + guides mentions
 ---
 
