@@ -10,6 +10,7 @@ usage:
   - freeflyevent.com /glossary — referral entry
   - freeflyevent.com /is-star-citizen-free — signup callout
   - screferralreward.com / + screferralbonus.com / — how-it-works copy
+  - dayonecitizen.com /referral-code — "how to apply" 24-hour caveat
 ---
 
 Canon settled 2026-07-03. Site copy standard: recommend entering the code AT signup (the

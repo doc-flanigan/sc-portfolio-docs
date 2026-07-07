@@ -8,6 +8,7 @@ lastVerified: 2026-07-03
 usage:
   - freeflyevent.com /is-star-citizen-free — "free RSI account" comparison table + FAQ
   - screferralreward.com / + screferralbonus.com / — signup copy
+  - dayonecitizen.com /referral-code — "what you get" no-purchase clarification
 ---
 
 Canon settled 2026-07-03. Do not conflate with the referrer's side: the *referring* player
