@@ -8,6 +8,8 @@ lastVerified: 2026-07-03
 usage:
   - freeflyevent.com /is-star-citizen-free — "free RSI account" comparison table + FAQ
   - screferralreward.com / + screferralbonus.com / — signup copy
+  - screferralreward.com /get-the-code — "no purchase required" FAQ
+  - screferralbonus.com /how-to-use — "no purchase" FAQ
   - dayonecitizen.com /referral-code — "what you get" no-purchase clarification
 ---
 

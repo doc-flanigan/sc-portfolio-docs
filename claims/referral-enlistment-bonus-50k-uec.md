@@ -10,7 +10,11 @@ usage:
   - dayonecitizen.com /glossary, /beyond-the-basics/redeem-codes — bonus copy (+ src/data/referral-bonus.ts)
   - dayonecitizen.com /referral-code — bold answer + "what you get" + FAQ
   - screferralreward.com / — core site premise (+ /get-the-code, HowItWorks, UecSpendGrid)
+  - screferralreward.com /get-the-code — step 4 bonus copy + FAQ
+  - screferralreward.com /event-tracker — "standard bonus always available" + FAQ
   - screferralbonus.com / — core site premise (+ FAQ data files)
+  - screferralbonus.com /how-to-use — step 5 + FAQ
+  - screferralbonus.com /about-the-bonus — "always available" FAQ
   - starcitizenhelp.com /enlist — enlistment CTA (+ src/lib/referral-bonus.ts)
   - o7meaning.com /faq, /in-star-citizen — mention
   - bestspacesim.com /star-citizen-vs/[slug] — mention
