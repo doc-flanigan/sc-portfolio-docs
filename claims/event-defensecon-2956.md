@@ -9,7 +9,6 @@ usage:
   - freeflyevent.com /event-history — event timeline entry
   - freeflyevent-site/src/data/events.ts — canonical record (id defensecon-2026, 2026-05-14T17:00Z → 2026-05-27T17:00Z)
   - dayonecitizen.com /free-fly-events — event listing
-  - screferralreward.com /event-tracker — event listing
 ---
 
 Dates verified against the comm-link during the 2026-07-04 freeflyevent revitalization.

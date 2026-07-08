@@ -14,7 +14,6 @@ usage:
   - bestspacesim.com /best-space-games — "best free space game" FAQ answer (event-window framing)
   - dayonecitizen.com /day-one-citizen/worth-buying — "try before buying" FAQ answer (event timing)
   - dayonecitizen.com /free-fly-events — event listing intro
-  - screferralreward.com /event-tracker — "try free while waiting" FAQ answer
 ---
 
 Derived from the full comm-link event record (every Free Fly announcement is a bounded
