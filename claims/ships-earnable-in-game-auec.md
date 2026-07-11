@@ -10,6 +10,7 @@ usage:
   - bestspacesim.com /star-citizen — pay-to-win FAQ answer
   - bestspacesim.com /is-star-citizen-worth-it — "what it costs" section (earnable-in-game framing)
   - dayonecitizen.com /beyond-the-basics/shops-directory — "buy ships with in-game money" FAQ (catalogue-smaller-than-pledge-store framing)
+  - dayonecitizen.com /quick-reference — "Ships (buy with aUEC)" lookup row + catalogue-smaller note
 ---
 
 RSI support: 'all ships will also be available for in-game currency in the future if they aren't already.' Phrase as CIG's stated policy/design goal, not a blanket present-tense guarantee that every ship is earnable today.

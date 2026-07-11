@@ -8,6 +8,7 @@ sources:
 lastVerified: 2026-07-06
 usage:
   - dayonecitizen.com /day-one-citizen/keybinds — bold day-one answer, keybind tables, FAQ
+  - dayonecitizen.com /quick-reference — day-one keys, on-foot, flight, and capacitor tables (data mirrors the keybinds page; update both together)
 ---
 
 Getting Started in the 'Verse (edited 2025-06-23) confirms F = interaction key ("controls all interaction between you and the world"), F1 opens mobiGlas, N raises landing gear. How to Quantum Travel (edited 2025-06-12) confirms pressing B sets Master Mode to NAV before a quantum jump.
