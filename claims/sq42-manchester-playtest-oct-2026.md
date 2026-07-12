@@ -2,6 +2,7 @@
 id: sq42-manchester-playtest-oct-2026
 claim: "CIG is hosting an invite-only three-day Squadron 42 hands-on event at its Manchester studio, October 9–11, 2026, communicated via private invitation emails to longtime backers."
 status: unverifiable
+lastVerified: 2026-07-12
 sources:
 usage:
   - iheldtheline.com /playtest-event — entire page (direct answer, What We Know, The Invitation, FAQ, Event JSON-LD)
@@ -24,6 +25,10 @@ staff Spectrum post, no Developer Tracker item. The only "Manchester" hit in the
 unrelated Bar Citizen World Tour meetup (comm-link 21232). Multiple independent recipients
 (content creators/backers) have shared matching invitations in community channels (ResetEra,
 StarZen, Nosy Gamer blog), so the event is real but not publicly announced.
+
+Re-checked 2026-07-12 (staleness sweep): still no public comm-link — recent comm-link titles
+swept via api.star-citizen.wiki, no playtest/Manchester/hands-on match. `lastVerified` here
+means "date we last looked for a public source," not that the claim verified.
 
 **Softened-wording rule:** attribute to "invitation emails sent to backers" — never write
 "CIG announced". **Flip to `verified`** (and update the /playtest-event page + this file) as
