@@ -4,13 +4,15 @@ claim: "Star Citizen starter Game Packages begin at $45, with no subscription re
 status: verified
 sources:
   - https://robertsspaceindustries.com/pledge/game-packages
-lastVerified: 2026-07-05
+lastVerified: 2026-07-12
 usage:
   - bestspacesim.com /is-star-citizen-worth-it — cost explainer + FAQ
   - dayonecitizen.com /day-one-citizen/worth-buying — cost FAQ answer
   - dayonecitizen.com /day-one-citizen/starter-package — recommendation + price FAQ
   - pledgemeaning.com / — "Do You Need to Pledge to Play?" ($45 entry) + starter package FAQ
   - pledgemeaning.com /what-is-ccu — CCU example step 1 ($45 Aurora game package)
+  - bestspacesim.com /is-star-citizen-a-scam — "what $45 actually gets you"
+  - dayonecitizen.com /day-one-citizen/first-ship — pack pricing
 ---
 
 Verified from the live RSI pledge store. This is the minimum entry point to play the live game

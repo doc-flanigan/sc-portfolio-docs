@@ -4,7 +4,7 @@ claim: "Star Citizen's official minimum system requirements are published in RSI
 status: verified
 sources:
   - https://support.robertsspaceindustries.com/hc/en-us/articles/360042417374-Star-Citizen-Minimum-System-Requirements
-lastVerified: 2026-07-03
+lastVerified: 2026-07-12
 usage:
   - dayonecitizen.com /day-one-citizen/system-specs — full spec listing
   - iheldtheline.com /faq — specs FAQ entry

@@ -4,7 +4,7 @@ claim: "New RSI accounts created with a referral code receive a 50,000 UEC enlis
 status: verified
 sources:
   - https://robertsspaceindustries.com/en/referral-program
-lastVerified: 2026-07-05
+lastVerified: 2026-07-12
 usage:
   - freeflyevent.com /event-guide, /is-star-citizen-free, /glossary, /next-free-fly — bonus copy + CTAs
   - dayonecitizen.com /glossary, /beyond-the-basics/redeem-codes — bonus copy (+ src/data/referral-bonus.ts)
@@ -24,6 +24,7 @@ usage:
   - pledgemeaning.com / — referral bonus section + FAQ (stale 5,000 figure fixed to canon 2026-07-12)
   - pledgemeaning.com /what-is-uec — "How to Get UEC" list + Live UEC card + FAQ + final CTA
   - pledgemeaning.com /what-is-lti, /what-is-ccu — final CTA copy
+  - dayonecitizen.com /day-one-citizen/ships-real-money — earn-ships-in-game section
 ---
 
 Network-wide canon settled 2026-07-03 after SCH and freeflyevent contradicted each other.

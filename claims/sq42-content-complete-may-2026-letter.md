@@ -4,11 +4,12 @@ claim: "In the May 25, 2026 Letter from the Chairman, Chris Roberts restated the
 status: verified
 sources:
   - https://robertsspaceindustries.com/en/comm-link/transmission/20960-Letter-From-The-Chairman
-lastVerified: 2026-07-05
+lastVerified: 2026-07-12
 usage:
   - iheldtheline.com /release-date — top statement, What We Know card, FAQ answers
   - iheldtheline.com /worth-buying — direct answer, what-you-get list, development-status section + FAQ
   - iheldtheline.com /sq42-vs-star-citizen — "One Is Out" section
+  - bestspacesim.com /is-star-citizen-a-scam — "SQ42 is actually playable" rebuttal
 ---
 
 Verified against the full letter body (comm-link 20960 via api.star-citizen.wiki, published

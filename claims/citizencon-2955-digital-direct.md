@@ -4,7 +4,7 @@ claim: "CitizenCon 2955 (October 2025) was held as a fully digital ~2-hour showc
 status: verified
 sources:
   - https://robertsspaceindustries.com/en/comm-link/transmission/20722-CitizenCon-Direct-Watch-Parties-2025
-lastVerified: 2026-07-03
+lastVerified: 2026-07-12
 usage:
   - dayonecitizen.com — updates entries (src/data/updates.ts)
   - starcitizenhelp.com — updates/glossary mentions

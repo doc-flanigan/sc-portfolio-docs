@@ -4,7 +4,7 @@ claim: "CIG announced a 2026 launch window for Squadron 42 at CitizenCon 2954 (O
 status: verified
 sources:
   - https://www.gamespress.com/en-US/Cloud-Imperium-Games-Reveals-Over-an-Hour-of-Star-Studded-Space-Advent
-lastVerified: 2026-07-05
+lastVerified: 2026-07-12
 usage:
   - iheldtheline.com /release-date — release-window timeline
   - iheldtheline.com /faq — release FAQ
@@ -14,6 +14,7 @@ usage:
   - 42ndsquadron.com / — quick-facts sidebar + hero copy; /faq data
   - 42ndsquadron.com /answer-the-call — "answering the call in 2026" section + FAQ
   - highestfundedgame.com / — "is Star Citizen released" FAQ answer (SQ42 2026 target)
+  - bestspacesim.com /is-star-citizen-a-scam — release-window context
 ---
 
 Source is CIG's own CitizenCon 2954 press release (gamespress hosts publisher-issued

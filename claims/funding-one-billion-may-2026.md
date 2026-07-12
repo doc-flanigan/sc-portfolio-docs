@@ -4,7 +4,7 @@ claim: "Star Citizen crossed $1 billion in total funding raised on May 24, 2026,
 status: verified
 sources:
   - https://robertsspaceindustries.com/en/funding-goals
-lastVerified: 2026-07-05
+lastVerified: 2026-07-12
 usage:
   - highestfundedgame.com / — homepage counter + copy
   - highestfundedgame.com /billion — dedicated milestone page
@@ -13,6 +13,8 @@ usage:
   - bestspacesim.com /star-citizen — profile page
   - bestspacesim.com /is-star-citizen-worth-it — milestone copy in FAQ
   - freeflyevent.com /should-i-buy — context copy
+  - bestspacesim.com /is-star-citizen-a-scam — funding-scale fact
+  - bestspacesim.com /star-citizen-player-count — accounts-vs-players distinction
 ---
 
 Verified against the live RSI funding tracker in a browser during the fundedgame /billion
