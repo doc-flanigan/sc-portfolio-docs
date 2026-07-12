@@ -21,6 +21,9 @@ usage:
   - bestspacesim.com /is-star-citizen-worth-it — enlistment bonus + referral code copy
   - 42ndsquadron.com / — CTA copy, EnlistButton, Footer disclosure, /about disclosure
   - 42ndsquadron.com /answer-the-call — "how do you answer the call today" FAQ + CTA
+  - pledgemeaning.com / — referral bonus section + FAQ (stale 5,000 figure fixed to canon 2026-07-12)
+  - pledgemeaning.com /what-is-uec — "How to Get UEC" list + Live UEC card + FAQ + final CTA
+  - pledgemeaning.com /what-is-lti, /what-is-ccu — final CTA copy
 ---
 
 Network-wide canon settled 2026-07-03 after SCH and freeflyevent contradicted each other.

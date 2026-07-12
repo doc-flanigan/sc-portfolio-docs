@@ -12,6 +12,7 @@ usage:
   - screferralbonus.com /how-to-use — "no purchase" FAQ
   - screferralbonus.com /promo-codes — "the one that pays" section
   - dayonecitizen.com /referral-code — "what you get" no-purchase clarification
+  - pledgemeaning.com / — referral bonus section + FAQ no-purchase clarification
 ---
 
 Canon settled 2026-07-03. Do not conflate with the referrer's side: the *referring* player
