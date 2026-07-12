@@ -10,6 +10,7 @@ usage:
   - screferralreward.com / + screferralbonus.com / — signup copy
   - screferralreward.com /get-the-code — "no purchase required" FAQ
   - screferralbonus.com /how-to-use — "no purchase" FAQ
+  - screferralbonus.com /promo-codes — "the one that pays" section
   - dayonecitizen.com /referral-code — "what you get" no-purchase clarification
 ---
 

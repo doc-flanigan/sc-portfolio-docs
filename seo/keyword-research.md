@@ -42,6 +42,7 @@ Primary keyword targets per site. Do not add or remove keywords without updating
 - "star citizen 50000 UEC"
 - "star citizen new player bonus"
 - "star citizen referral code 2026"
+- "star citizen promo code" (added 2026-07-11 — /promo-codes fact-check page; also covers "star citizen coupon code", "star citizen discount code"; competitor gap identified in referral recon)
 
 ## bestspacesim.com
 **Intent:** Comparison/awareness

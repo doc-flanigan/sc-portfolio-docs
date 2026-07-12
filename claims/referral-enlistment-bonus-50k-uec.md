@@ -8,7 +8,8 @@ lastVerified: 2026-07-05
 usage:
   - freeflyevent.com /event-guide, /is-star-citizen-free, /glossary, /next-free-fly — bonus copy + CTAs
   - dayonecitizen.com /glossary, /beyond-the-basics/redeem-codes — bonus copy (+ src/data/referral-bonus.ts)
-  - dayonecitizen.com /referral-code — bold answer + "what you get" + FAQ
+  - dayonecitizen.com /referral-code — bold answer + "what you get" + FAQ + verification log (2026-07-11 live enlist-page check)
+  - screferralbonus.com /promo-codes — code-type table + "the one that pays" section + FAQ
   - screferralreward.com / — core site premise (+ /get-the-code, HowItWorks, UecSpendGrid)
   - screferralreward.com /get-the-code — step 4 bonus copy + FAQ
   - screferralbonus.com / — core site premise (+ FAQ data files)
