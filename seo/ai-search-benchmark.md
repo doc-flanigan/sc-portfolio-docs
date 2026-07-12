@@ -41,6 +41,30 @@ starcitizen.tools (wiki), boostroom.com.
 12. `squadron 42 release date 2026`
 13. `star citizen where to buy armor weapons shops`
 
+## German battery — 7 queries (added 2026-07-12, do not edit wording)
+
+Added the day the /de/ pilot shipped (7 German pages on dayonecitizen.com).
+Same method as above; queries in German, watch for `dayonecitizen.com/de/*`.
+Score separately from the English battery (hit rate = /7).
+
+1. `star citizen kaufen wo und preis`
+2. `lohnt sich star citizen 2026`
+3. `welches star citizen starterpaket`
+4. `ist star citizen auf steam`
+5. `star citizen schiffe echtgeld pay to win`
+6. `gibt es star citizen auf deutsch`
+7. `star citizen empfehlungscode 50000 uec`
+
+**German baseline = launch day (pages hours old, unindexed → 0/7 by
+definition; not separately run).** Pre-launch SERP holders per the recon
+(`german-serp-recon-2026-07.md`): Q1 GameStar (2019-stale) + dlcompare
+key-shop; Q2 YouTube-only; Q3 neckarushangar.de; Q4 giga.de /
+starcitizen-community.de; Q5 sc-kantine.de; Q6 data void (community
+translation threads); Q7 starcitizen-freefly.de (entrenched) + starship24
+(stale 5.000-UEC figure). First scored run: **2026-07-28** alongside the
+English battery. Expect Q6 (auf deutsch) and Q5 (Echtgeld) to move first —
+weakest incumbents; Q7 is the long game against starcitizen-freefly.de.
+
 ## Baseline — 2026-07-07
 
 **Hit rate: 5/13 (38%). SCH accounted for all substantive hits. DOC: 0.**
@@ -86,5 +110,7 @@ starcitizen.tools (wiki), boostroom.com.
 ## Cadence
 
 Re-run every ~3 weeks. Next run due: **~2026-07-28** (aligns with the
-tranche-2 window closing and the mid-July index recheck). Log each run's
-table in this file below the baseline, newest first.
+tranche-2 window closing and the mid-July index recheck). Both batteries
+(13 English + 7 German) run together; report hit rates separately
+(x/13 and y/7). Log each run's table in this file below the baseline,
+newest first.
