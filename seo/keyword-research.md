@@ -9,6 +9,11 @@ Primary keyword targets per site. Do not add or remove keywords without updating
 - "star citizen beginner guide"
 - "star citizen tutorial"
 - "what is star citizen"
+- "is star citizen on steam" (added 2026-07-12 — /day-one-citizen/is-star-citizen-on-steam; also covers console/PS5/Xbox/Game Pass/Steam Deck variants)
+- "do you have to buy ships with real money" (added 2026-07-12 — /day-one-citizen/ships-real-money)
+- "star citizen first ship" / "best starter ship" (added 2026-07-12 — /day-one-citizen/first-ship)
+- "star citizen wipe" / "when is the next wipe" (added 2026-07-12 — /day-one-citizen/next-wipe; incumbent startstarcitizen.com owned this)
+- "star citizen system requirements 2026" (2026-07-12: /system-specs refreshed to current KB; inherits SCH's 44% AI-citation cluster as SCH sunsets)
 - Secondary (Beyond the Basics section): "star citizen ccu chain", "star citizen ship equipment guide"
 
 ## starcitizenhelp.com (transitional — maintain only)
@@ -50,6 +55,8 @@ Primary keyword targets per site. Do not add or remove keywords without updating
 - "best space simulation game 2026"
 - "star citizen vs elite dangerous"
 - "top space sim games"
+- "star citizen player count" / "how many people play star citizen" (added 2026-07-12 — /star-citizen-player-count; data-void play, no official stat exists)
+- "is star citizen a scam" / "is star citizen pay to win" / "will star citizen ever be finished" (added 2026-07-12 — /is-star-citizen-a-scam)
 
 ## pledgemeaning.com
 **Intent:** Definition funnel
