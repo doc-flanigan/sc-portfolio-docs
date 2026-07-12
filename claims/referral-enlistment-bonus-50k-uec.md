@@ -25,6 +25,7 @@ usage:
   - pledgemeaning.com /what-is-uec — "How to Get UEC" list + Live UEC card + FAQ + final CTA
   - pledgemeaning.com /what-is-lti, /what-is-ccu — final CTA copy
   - dayonecitizen.com /day-one-citizen/ships-real-money — earn-ships-in-game section
+  - dayonecitizen.com /de/referral-code + /de/echtgeld-schiffe — Startguthaben copy (German)
 ---
 
 Network-wide canon settled 2026-07-03 after SCH and freeflyevent contradicted each other.

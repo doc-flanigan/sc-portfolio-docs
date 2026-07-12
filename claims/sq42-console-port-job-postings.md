@@ -7,6 +7,7 @@ sources:
 lastVerified: 2026-07-12
 usage:
   - dayonecitizen.com /day-one-citizen/is-star-citizen-on-steam — SQ42 console nuance section + FAQ
+  - dayonecitizen.com /de/star-citizen-auf-steam — SQ42 console nuance (German)
 ---
 
 Status is `unverifiable` because Dev Tracker RSS and the Comm-Link archive contain zero

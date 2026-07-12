@@ -8,6 +8,7 @@ lastVerified: 2026-07-12
 usage:
   - dayonecitizen.com /day-one-citizen/next-wipe — entire page (what survives / what resets, FAQ)
   - dayonecitizen.com /day-one-citizen/worth-buying — wipes FAQ answer
+  - dayonecitizen.com /de/lohnt-sich-star-citizen — Wipe FAQ (German)
 ---
 
 Key KB wording (fetched 2026-07-12): aUEC is "a temporary currency specifically designed for

@@ -13,6 +13,7 @@ usage:
   - pledgemeaning.com /what-is-ccu — CCU example step 1 ($45 Aurora game package)
   - bestspacesim.com /is-star-citizen-a-scam — "what $45 actually gets you"
   - dayonecitizen.com /day-one-citizen/first-ship — pack pricing
+  - dayonecitizen.com /de/starterpaket + /de/star-citizen-kaufen — pack/price copy (German)
 ---
 
 Verified from the live RSI pledge store. This is the minimum entry point to play the live game

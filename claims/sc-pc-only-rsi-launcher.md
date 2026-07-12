@@ -9,6 +9,7 @@ lastVerified: 2026-07-12
 usage:
   - dayonecitizen.com /day-one-citizen/is-star-citizen-on-steam — entire page (direct answer, FAQ)
   - dayonecitizen.com /day-one-citizen/buying-the-game — "where to buy" FAQ + body copy
+  - dayonecitizen.com /de/star-citizen-auf-steam — entire page (German)
 ---
 
 Verification basis: the official minimum-requirements KB article specifies Windows 10/11
