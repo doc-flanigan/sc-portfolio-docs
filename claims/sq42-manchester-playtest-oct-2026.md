@@ -2,7 +2,7 @@
 id: sq42-manchester-playtest-oct-2026
 claim: "CIG is hosting an invite-only three-day Squadron 42 hands-on event at its Manchester studio, October 9–11, 2026, communicated via private invitation emails to longtime backers."
 status: unverifiable
-lastVerified: 2026-07-12
+lastVerified: 2026-07-13
 sources:
 usage:
   - iheldtheline.com /playtest-event — entire page (direct answer, What We Know, The Invitation, FAQ, Event JSON-LD)
@@ -34,3 +34,6 @@ means "date we last looked for a public source," not that the claim verified.
 "CIG announced". **Flip to `verified`** (and update the /playtest-event page + this file) as
 soon as a public comm-link, RSI page, or press release exists. Recheck around any July–August
 comm-links and before CitizenCon season.
+
+
+Re-checked 2026-07-13 (sc-event-tracker sweep of comm-links 2026-06-29 to 2026-07-13, ids 21107/21206/21226/21228/21230/21232/21236/21248): still no public comm-link. The only "Manchester" hit in this window is comm-link 21232 (Monthly Report June 2026), referencing the unrelated Bar Citizen World Tour stop (Austin, Frankfurt, Montreal, Manchester). Comm-Link API keyword search for "squadron 42 playtest" returns zero results archive-wide.

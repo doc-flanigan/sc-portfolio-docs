@@ -5,7 +5,7 @@ status: unverifiable
 sources:
   - https://robertsspaceindustries.com/en/comm-link/transmission/20622-Foundation-Festival-2025
   - https://www.techpowerup.com/338558/star-citizens-foundation-festival-returns-with-free-fly-event-new-referral-program-and-more
-lastVerified: 2026-07-12
+lastVerified: 2026-07-13
 usage:
   - freeflyevent.com /next-free-fly — "expected next" watch note
 ---
@@ -18,3 +18,6 @@ changed for 2026. **Softened-wording rule:** "expected per press reports / based
 year's pattern" — never "CIG announced" and never a hard date. **Flip to `verified`** (and
 add the event to freeflyevent events.ts with real dates/ships) the moment the official 2026
 comm-link appears — check api.star-citizen.wiki daily this week.
+
+
+Re-checked 2026-07-13 (sc-event-tracker sweep of comm-links 2026-06-29 to 2026-07-13): still no 2026 Foundation Festival comm-link. Archive-wide "foundation festival" search still tops out at the 2025 edition (id 20622). No mid-July announcement has appeared yet.
