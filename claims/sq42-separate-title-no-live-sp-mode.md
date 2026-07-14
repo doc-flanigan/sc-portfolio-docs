@@ -4,7 +4,7 @@ claim: "Squadron 42 is a separate, not-yet-released single-player title; the liv
 status: verified
 sources:
   - https://robertsspaceindustries.com/en/comm-link/transmission/12730-A-Message-From-Chris-Roberts
-lastVerified: 2026-07-05
+lastVerified: 2026-07-14
 usage:
   - bestspacesim.com — SQ42 vs SC distinction copy
   - iheldtheline.com /release-date — "do I need Star Citizen" FAQ answer
