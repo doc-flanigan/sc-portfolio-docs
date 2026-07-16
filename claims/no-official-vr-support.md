@@ -6,7 +6,7 @@ correction: "Star Citizen has official experimental VR support: CIG introduced i
 sources:
   - https://robertsspaceindustries.com/spectrum/community/SC/forum/1/thread/star-citizen-vr-support-experimental-release
   - https://robertsspaceindustries.com/spectrum/community/SC/forum/3/thread/star-citizen-vr-support-experimental-release-alpha/9029809
-lastVerified: 2026-07-14
+lastVerified: 2026-07-16
 usage:
   - dayonecitizen.com /fact-check — public fact-check entry
 ---

@@ -8,8 +8,15 @@
 //   node docs/claims/upsert.mjs status <id> <verified|unverifiable|refuted>
 //       → set status AND bump lastVerified (records a re-verification)
 //   node docs/claims/upsert.mjs add <id> --claim "…" --status verified \
-//       --source <url> [--source <url> …] [--usage "site /page — where"] [--note "…"]
+//       --source <url> [--source <url> …] [--usage "site /page — where"] [--note "…"] \
+//       [--correction "…"]
 //       → create a NEW claim file (refuses to clobber an existing id)
+//   node docs/claims/upsert.mjs correct <id> "<accurate one-sentence statement>"
+//       → set/replace the correction on an existing (usually refuted) claim
+//
+// Refuted entries carry the truth INLINE via `correction:` (rendered on the
+// public page as "What's actually true"). ONE entry per topic — never create
+// a separate verified twin for a refuted myth (Doc's rule, 2026-07-15).
 //
 // Every command prints one confirmation line and exits 0 on success, non-zero
 // on error (e.g. `verify` on a missing id → tells you to use `add`).
@@ -23,7 +30,7 @@ const argv = process.argv.slice(2);
 const [cmd, id] = argv;
 const fail = (m) => { console.error('upsert: ' + m); process.exit(1); };
 
-if (!cmd || !id) fail('usage: verify <id> | status <id> <status> | add <id> --claim … --status … --source …');
+if (!cmd || !id) fail('usage: verify <id> | status <id> <status> | correct <id> "<truth>" | add <id> --claim … --status … --source …');
 if (!/^[a-z0-9][a-z0-9-]*$/.test(id)) fail(`bad id "${id}" (use kebab-case, e.g. sq42-cast-oldman-bishop)`);
 const file = join(DIR, id + '.md');
 
@@ -60,9 +67,28 @@ if (cmd === 'verify' || cmd === 'status') {
   process.exit(0);
 }
 
+if (cmd === 'correct') {
+  if (!existsSync(file)) fail(`no claim "${id}" — nothing to correct. Use \`add\` to create it.`);
+  const correction = argv[2];
+  if (!correction) fail('correct requires the accurate statement as the third argument');
+  let txt = readFileSync(file, 'utf8');
+  const fm = txt.match(/^---\r?\n[\s\S]*?\r?\n---/);
+  if (!fm) fail(`"${id}.md" has no frontmatter block`);
+  let block = fm[0];
+  block = /^correction:/m.test(block)
+    ? block.replace(/^correction:.*$/m, `correction: ${yamlStr(correction)}`)
+    : block.replace(/^(status:.*)$/m, `$1\ncorrection: ${yamlStr(correction)}`);
+  block = /^lastVerified:/m.test(block)
+    ? block.replace(/^lastVerified:.*$/m, `lastVerified: ${today}`)
+    : block.replace(/\n---$/, `\nlastVerified: ${today}\n---`);
+  writeFileSync(file, txt.replace(fm[0], block));
+  console.log(`upsert: correct ${id} → correction set, lastVerified ${today}`);
+  process.exit(0);
+}
+
 if (cmd === 'add') {
   if (existsSync(file)) fail(`"${id}" already exists — use \`verify\`/\`status\`, or edit the file directly.`);
-  const f = flags(['claim', 'status', 'source', 'usage', 'note']);
+  const f = flags(['claim', 'status', 'source', 'usage', 'note', 'correction']);
   const claim = f.claim[0];
   const status = f.status[0] || 'verified';
   if (!claim) fail('add requires --claim "…"');
@@ -73,6 +99,7 @@ if (cmd === 'add') {
     `id: ${id}`,
     `claim: ${yamlStr(claim)}`,
     `status: ${status}`,
+    ...(f.correction.length ? [`correction: ${yamlStr(f.correction[0])}`] : []),
     'sources:',
     ...f.source.map((s) => `  - ${s.trim()}`),
     `lastVerified: ${today}`,
