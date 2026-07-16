@@ -2,6 +2,7 @@
 id: odin-not-last-concept-sale-ever
 claim: "CIG announced that the Anvil Odin is the last concept-only ship sale ever, permanently retiring concept sales and 'closing out the final remaining vehicle stretch goals.'"
 status: refuted
+correction: "On the DefenseCon 2956 Showcase stream, CIG said the Anvil Odin is the only concept ship sale of 2026 ('we didn't do any last year at all... this is the only one we're doing this year') — CIG has not announced a permanent end to concept ship sales."
 sources:
   - https://www.youtube.com/watch?v=CFoQp6wRjPo
 lastVerified: 2026-07-15

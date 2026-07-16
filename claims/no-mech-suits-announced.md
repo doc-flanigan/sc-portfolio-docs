@@ -2,9 +2,12 @@
 id: no-mech-suits-announced
 claim: "Star Citizen has no mech suits."
 status: refuted
+correction: "Star Citizen has an officially released piloted power suit — the Argo ATLS exo-frame (cargo loading, added Alpha 3.24.1, September 2024), with the ATLS GEO mining variant and the weaponized ATLS IKTI / GEO IKTI combat variants (2025). CIG's vocabulary is 'power suit' / 'exo-frame'; no large war-mech vehicle class is announced."
 sources:
   - https://robertsspaceindustries.com/en/comm-link/transmission/20114-Argo-ATLS
   - https://robertsspaceindustries.com/en/comm-link/engineering/20159-Q-A-Argo-ATLS
+  - https://robertsspaceindustries.com/en/comm-link/transmission/20433-Argo-ATLS-GEO
+  - https://robertsspaceindustries.com/spectrum/community/SC/forum/1/thread/argo-atls-coming-to-alpha-3-24-2-in-game-shops
 lastVerified: 2026-07-15
 usage:
   - dayonecitizen.com /fact-check — public fact-check entry

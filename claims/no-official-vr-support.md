@@ -2,6 +2,7 @@
 id: no-official-vr-support
 claim: "Star Citizen does not officially support VR headsets."
 status: refuted
+correction: "Star Citizen has official experimental VR support: CIG introduced it in Alpha 4.5 PTU (December 2025) and has kept improving it since (e.g. world-space interaction prompts and VR crosshair in Alpha 4.8); CIG labels the feature experimental."
 sources:
   - https://robertsspaceindustries.com/spectrum/community/SC/forum/1/thread/star-citizen-vr-support-experimental-release
   - https://robertsspaceindustries.com/spectrum/community/SC/forum/3/thread/star-citizen-vr-support-experimental-release-alpha/9029809

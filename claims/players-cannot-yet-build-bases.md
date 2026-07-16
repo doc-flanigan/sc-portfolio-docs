@@ -2,6 +2,7 @@
 id: players-cannot-yet-build-bases
 claim: "Players can currently craft and build their own bases in Star Citizen."
 status: refuted
+correction: "Base building (player-constructed structures on land claims) was announced and demonstrated at CitizenCon 2954 (October 2024) and remains in active development, not yet live in the current alpha as of mid-2026; Crafting T0 (Alpha 4.7) covers personal armor and weapons only."
 sources:
   - https://www.youtube.com/watch?v=AmwKD_flLmw
   - https://robertsspaceindustries.com/spectrum/community/SC/forum/1/thread/cnou-pioneer-update
