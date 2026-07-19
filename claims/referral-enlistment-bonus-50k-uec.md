@@ -12,6 +12,7 @@ usage:
   - screferralbonus.com /promo-codes — code-type table + "the one that pays" section + FAQ
   - screferralreward.com / — core site premise (+ /get-the-code, HowItWorks, UecSpendGrid)
   - screferralreward.com /get-the-code — step 4 bonus copy + FAQ
+  - o7meaning.com /faq — UEC + referral-code FAQ answers (corrected to canon 2026-07-18; previously stated the stale 5,000-at-signup / 50,000-after-pledge model)
   - screferralbonus.com / — core site premise (+ FAQ data files)
   - screferralbonus.com /how-to-use — step 5 + FAQ
   - screferralbonus.com /about-the-bonus — "always available" FAQ
