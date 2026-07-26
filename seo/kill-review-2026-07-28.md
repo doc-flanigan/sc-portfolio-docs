@@ -50,6 +50,12 @@ Partial substitute: our own AI-bot fetch logger (independent of BWT) recorded
   artifact — see the data-integrity note below. Its two genuine buttons
   (`home-referral-bonus` 21 impr, `home-final-cta` 23 impr) have **0 clicks between
   them**.
+- Caveat, and it cuts both ways: pledgemeaning's CTAButton component was **logging
+  every click under a generic label** (bug found 07-25, below), so click attribution
+  on this domain was broken the whole time. But all 26 generic-label rows in the
+  window belong to the single bot burst — there are **no scattered human clicks on
+  any other day** — so "zero human CTA clicks in 28 days" still holds. Treat
+  pre-07-25 *historical* click totals for this domain as unreliable.
 - AI: **zero AI-bot fetches in 7 days** — the only site in the network with none.
   Every other property got at least 8 (42ndsquadron), and this is our own
   instrumentation, so the BWT gap doesn't hide anything here.
@@ -108,12 +114,26 @@ same referral code, same page. That is a script or retry loop hitting `/api/log`
 filter because the regex tests the raw prefix (`click:`) rather than the label after it.
 `click:CTAButton` appears on **no other site**.
 
-Two follow-ups (cheap-session work, not Fable):
-1. Filter generic/untracked labels in `cta-report.mjs` and fix the `test-*` regex to
-   match after the `click:`/`impression:` prefix.
-2. Trace why pledgemeaning's frontend emitted an untagged `CTAButton` event — confirm
-   it is dead code, not a live double-logging path. (Moot if the domain is killed, but
-   the component may be shared.)
+**FIXED 2026-07-25** (commit `3e35d86`, sc-portfolio main): `cta-report.mjs` now
+strips the `click:`/`impression:` prefix before testing junk-label patterns, and
+excludes the bare generic `CTAButton`. Verified pledgemeaning 27 → **0 clicks**.
+Healthy sites each lost exactly 1 click (SCH 39→38, freefly 17→16, dayone 14→13) —
+that is the same fix correctly removing the one `test-e2e-0711` row that sat on nearly
+every site, not filter overreach. AI-bot section byte-identical.
+
+**Still open — a real live bug, not dead code.**
+`pledgemeaning-site/src/components/CTAButton.tsx:54` hardcodes `label: 'CTAButton'`
+in `handleClick` and **never reads the `trackingLabel` prop**, even though the
+impression handler on line 33 uses it correctly. Call sites *do* pass proper labels
+(`home-referral-bonus`, `home-final-cta`) — the click path silently discards them.
+Not a shared-component defect: `dayonecitizen-main/src/components/CTAButton.tsx:124`
+is implemented correctly.
+
+Consequence: every genuine human click on pledgemeaning has been logging under the
+generic label, and our new filter now drops those too — so that domain will report 0
+attributed clicks until the component is fixed. **If the kill is approved this is
+moot; if pledgemeaning is spared, fix `handleClick` first or its next review will be
+blind in exactly the same way.**
 
 Until fixed, treat single-digit click counts on low-traffic sites as unverified: the
 lone clicks on o7meaning (1) and screferralreward (1) also come from labels outside
