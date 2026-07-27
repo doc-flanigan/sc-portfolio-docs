@@ -5,9 +5,10 @@ status: verified
 sources:
   - https://robertsspaceindustries.com/en/comm-link/transmission/21237-Twitch-Drops-Foundation-Festival-2026
   - https://robertsspaceindustries.com/en/comm-link/transmission/20622-Foundation-Festival-2025
-lastVerified: 2026-07-26
+lastVerified: 2026-07-27
 usage:
   - freeflyevent.com /next-free-fly — "expected next" watch note
+  - dayonecitizen.com /free-fly-events — banner "no Free Fly announced" note + upcoming timeline entry
 ---
 
 **2026-07-26 update (sc-event-tracker):** Official confirmation has landed. Comm-Link 21237

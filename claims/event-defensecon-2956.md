@@ -4,11 +4,12 @@ claim: "DefenseCon 2956 ran as a Free Fly event 14–27 May 2026 (UTC)."
 status: verified
 sources:
   - https://robertsspaceindustries.com/en/comm-link/transmission/21147-DefenseCon-2956-About
-lastVerified: 2026-07-04
+lastVerified: 2026-07-27
 usage:
   - freeflyevent.com /event-history — event timeline entry
   - freeflyevent-site/src/data/events.ts — canonical record (id defensecon-2026, 2026-05-14T17:00Z → 2026-05-27T17:00Z)
-  - dayonecitizen.com /free-fly-events — event listing
+  - dayonecitizen.com /free-fly-events — banner "most recent window" note + history table row
+  - dayonecitizen.com /glossary — DefenseCon term definition (Drake-hosted, 14–27 May 2026 Free Fly)
 ---
 
 Dates verified against the comm-link during the 2026-07-04 freeflyevent revitalization.
