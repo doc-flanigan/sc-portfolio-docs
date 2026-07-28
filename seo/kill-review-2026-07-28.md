@@ -1,5 +1,19 @@
 # Domain Kill Review — prepared 2026-07-25, for decision 2026-07-28
 
+> **EXECUTED 2026-07-27 (evening).** Doc approved the two kills; both 301s are
+> live and verified in production:
+> - pledgemeaning.com `/:path*` → dayonecitizen.com/glossary#letter-P
+>   (pledgemeaning-site commit `d95000a`)
+> - screferralreward.com `/:path*` → dayonecitizen.com/referral-code
+>   (screferralreward-site commit `efe0dd3`)
+> - Ops scripts updated (site-health → redirect-domain checks, deep-diag /
+>   indexnow / verify-referral drop both, dashboard marked) — sc-portfolio
+>   commit `3690c46`. CTAButton bug on pledgemeaning is moot per the kill.
+> - Still manual for Doc: mark both domains non-renew at the registrar;
+>   register o7meaning.com in BWT (DNS) so the Aug 28 window is real.
+> - bestspacesim KEEP accepted; o7meaning + highestfundedgame decision
+>   date: **2026-08-28**.
+
 Scheduled at the 2026-07-18 domain trim ([[project-domain-trim]]). Candidates were
 pledgemeaning + screferralreward ("likely kill"), o7meaning ("needs AI citations"),
 highestfundedgame + bestspacesim ("same bar").
