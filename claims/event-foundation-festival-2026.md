@@ -1,11 +1,12 @@
 ---
 id: event-foundation-festival-2026
-claim: "The Foundation Festival 2026 Free Fly runs July 29 – August 10, 2026, with five ships free to fly and no purchase required. The companion referral bonus (Comm-Link 21225) runs until August 12, 2026, 20:00 UTC: the recruiter earns an Argo ATLS (LTI, non-meltable, non-giftable, one per player) and the recruited player earns a 'Ready for Anything' Career Kit — both granted only when the new player uses a referral code AND pledges for a starter pack or ship; the standard 50,000 UEC signup bonus still requires no purchase. Twitch Drops run July 29 – August 12."
+claim: "The Foundation Festival 2026 Free Fly runs July 29 – August 10, 2026, with five ships free to fly (RSI Aurora Mk II, Drake Cutter, Drake Golem, Crusader Intrepid, RSI Salvation) and no purchase required. The companion referral bonus (Comm-Link 21225) runs until August 12, 2026, 20:00 UTC: the recruiter earns an Argo ATLS (LTI, non-meltable, non-giftable, one per player) and the recruited player earns a 'Ready for Anything' Career Kit — both granted only when the new player uses a referral code AND pledges for a starter pack or ship; the standard 50,000 UEC signup bonus still requires no purchase. Twitch Drops run July 29 – August 12."
 status: verified
 sources:
   - https://robertsspaceindustries.com/en/comm-link/transmission/21211-Foundation-Festival-2026
   - https://robertsspaceindustries.com/en/comm-link/transmission/21225-Foundation-Festival-2026-Referral-Bonus
   - https://robertsspaceindustries.com/en/comm-link/transmission/21237-Twitch-Drops-Foundation-Festival-2026
+  - https://support.robertsspaceindustries.com/hc/en-us/articles/360037529633-Welcome-to-the-Star-Citizen-Free-Fly-Event
 lastVerified: 2026-07-29
 usage:
   - freeflyevent-site/src/data/events.ts — canonical record (id foundation-festival-2026, 2026-07-29T16:00Z → 2026-08-10T23:59Z, bonusOverride expires 2026-08-12T20:00Z)
@@ -22,9 +23,10 @@ is the sanctioned source per freeflyevent-site CLAUDE.md).
 Known gaps, all confirmed absent from official sources as of 2026-07-29 — do NOT fill
 from fan sites or prior years:
 
-- **Ship names unpublished.** Comm-Link 21211 says only "five distinct ships"; TWISC
-  21273 says "Full rundown coming your way soon." Site copy says exactly that. Update
-  events.ts `ships` + the /foundation-festival-2026 FAQ when CIG publishes the list.
+- **Ship names — RESOLVED 2026-07-29.** The official Free Fly KB article (support
+  article 360037529633, edited 2026-07-29T16:34Z) names all five: RSI Aurora Mk II,
+  Drake Cutter, Drake Golem, Crusader Intrepid, RSI Salvation. events.ts `ships`, the
+  /foundation-festival-2026 FAQ, and the live-status box updated same day.
 - **Free Fly end TIME unpublished.** 21211 says "July 29 through August 10" with no
   time. events.ts uses 2026-08-10T23:59:00Z as a conservative end-of-day cutoff; site
   copy warns not to rely on the final hours.
