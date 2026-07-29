@@ -15,6 +15,8 @@ usage:
   - freeflyevent.com /event-history — event timeline entry (derived from events.ts)
   - dayonecitizen.com /free-fly-events — live-event banner + upcoming timeline entry
   - starcitizenhelp.com /enlist — REFERRAL_BONUS config (referral-bonus.ts), ReferralBonusBanner headline, and EnlistNow bonus card (campaign name, Jul 29 – Aug 12 window, Argo ATLS referrer reward, Career Kit recruit reward)
+  - freeflyevent.com /free-fly-schedule — 2026 windows table + live-status copy (derived from events.ts)
+  - freeflyevent.com /free-ships-right-now — live free-ship list + FAQ answer (derived from events.ts)
 ---
 
 Verified 2026-07-29 (event day) against Comm-Link body text via api.star-citizen.wiki

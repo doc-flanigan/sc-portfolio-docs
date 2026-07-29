@@ -27,11 +27,24 @@ Primary keyword targets per site. Do not add or remove keywords without updating
 
 ## freeflyevent.com
 **Intent:** Event — highest conversion intent in the portfolio
+
+> **Free-fly query family ownership (Doc's call, 2026-07-29):** freeflyevent.com
+> is the portfolio's exclusive owner of all free-fly query families. It converts
+> more referrals in event bursts than dayonecitizen does all year. dayonecitizen
+> keeps its /free-fly-events page as a hub explainer that defers to
+> freeflyevent.com, but must NOT target new free-fly keywords or grow that page
+> — Google already has it at "Crawled – currently not indexed" (checked
+> 2026-07-29). Any new free-fly content lands on freeflyevent.com.
+
 - "star citizen free fly event"
 - "star citizen free fly 2026"
 - "is star citizen free to play"
 - "when is the next star citizen free fly"
 - "star citizen free fly dates"
+- "foundation festival 2026 free fly" (added 2026-07-25 — /foundation-festival-2026; pre-announcement page, flipped to live event page 2026-07-29)
+- "star citizen free fly schedule" / "free fly calendar" (added 2026-07-29 — /free-fly-schedule; derives from events.ts, ISR-refreshed)
+- "star citizen free ships" / "what ships are free in star citizen right now" (added 2026-07-29 — /free-ships-right-now; live answer derives from events.ts, ISR-refreshed)
+- "iae 2956" / "star citizen iae 2026" / "iae 2956 free fly" (added 2026-07-29 — /iae-2956; pre-announcement watch page per the foundation-festival playbook, flips when CIG announces ~Nov 2026)
 
 ## screferralreward.com
 **Intent:** New player referral code conversion
