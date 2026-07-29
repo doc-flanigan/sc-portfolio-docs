@@ -5,7 +5,7 @@ status: verified
 sources:
   - https://support.robertsspaceindustries.com/hc/en-us/articles/115010056848-Ship-Upgrades-CCUs
   - https://support.robertsspaceindustries.com/hc/en-us/articles/115013194987-Pledges-FAQ
-lastVerified: 2026-07-14
+lastVerified: 2026-07-29
 usage:
   - dayonecitizen.com /fact-check — public fact-check entry
 ---

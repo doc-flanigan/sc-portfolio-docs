@@ -4,7 +4,8 @@ claim: "A destroyed pledged/purchased ship is not permanently lost — the owner
 status: verified
 sources:
   - https://robertsspaceindustries.com/en/comm-link/transmission/16043-Monthly-Studio-Report-July-2017
-lastVerified: 2026-07-15
+  - https://support.robertsspaceindustries.com/hc/en-us/articles/360000093467-Ship-Insurance-FAQs
+lastVerified: 2026-07-29
 usage:
   - public fact-check batch 2026-07-15 — pending site placement
 ---

@@ -5,7 +5,7 @@ status: verified
 sources:
   - https://robertsspaceindustries.com/en/faq/Insurance-FAQ
   - https://robertsspaceindustries.com/en/comm-link/transmission/12820-Insurance-FAQ-And-Update
-lastVerified: 2026-07-14
+lastVerified: 2026-07-29
 usage:
   - dayonecitizen.com /fact-check — public fact-check entry
 ---

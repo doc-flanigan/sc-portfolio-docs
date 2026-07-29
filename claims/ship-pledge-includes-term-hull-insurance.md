@@ -4,7 +4,8 @@ claim: "Every ship pledge/game package includes hull-replacement insurance for a
 status: verified
 sources:
   - https://robertsspaceindustries.com/comm-link/SCW/14282-API
-lastVerified: 2026-07-14
+  - https://support.robertsspaceindustries.com/hc/en-us/articles/360000093467-Ship-Insurance-FAQs
+lastVerified: 2026-07-29
 usage:
   - dayonecitizen.com /fact-check — public fact-check entry
 ---
