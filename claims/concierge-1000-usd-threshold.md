@@ -4,7 +4,7 @@ claim: "Concierge (Chairman's Club) status is reached at $1,000 or more in lifet
 status: verified
 sources:
   - https://support.robertsspaceindustries.com/hc/en-us/articles/360002542733-Concierge-Levels-and-Rewards
-lastVerified: 2026-07-15
+lastVerified: 2026-07-29
 usage:
   - public fact-check batch 2026-07-15 — pending site placement
 ---
