@@ -12,6 +12,7 @@ usage:
   - freeflyevent.com /foundation-festival-2026 — GEO answer, live-status box, referral-terms section, FAQ, Event JSON-LD
   - freeflyevent.com /next-free-fly — live-event callout box, GEO answer, FAQ entries 1 and 3
   - freeflyevent.com /event-history — event timeline entry (derived from events.ts)
+  - dayonecitizen.com /free-fly-events — live-event banner + upcoming timeline entry
 ---
 
 Verified 2026-07-29 (event day) against Comm-Link body text via api.star-citizen.wiki
