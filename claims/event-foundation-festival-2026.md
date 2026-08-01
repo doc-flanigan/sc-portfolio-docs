@@ -17,6 +17,7 @@ usage:
   - starcitizenhelp.com /enlist — REFERRAL_BONUS config (referral-bonus.ts), ReferralBonusBanner headline, and EnlistNow bonus card (campaign name, Jul 29 – Aug 12 window, Argo ATLS referrer reward, Career Kit recruit reward)
   - freeflyevent.com /free-fly-schedule — 2026 windows table + live-status copy (derived from events.ts)
   - freeflyevent.com /free-ships-right-now — live free-ship list + FAQ answer (derived from events.ts)
+  - dayonecitizen.com /beyond-the-basics/inventory-management, /party-management, /quantum-travel — temporary Free Fly callout box (Jul 29 – Aug 10 dates, sourced to 21211; REMOVE after Aug 10)
 ---
 
 Verified 2026-07-29 (event day) against Comm-Link body text via api.star-citizen.wiki
