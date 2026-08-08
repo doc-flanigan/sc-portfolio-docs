@@ -14,6 +14,7 @@ usage:
   - screferralbonus.com /how-to-use — grace-period warning + FAQ
   - dayonecitizen.com /referral-code — "how to apply" 24-hour caveat
   - dayonecitizen.com /de/referral-code — 24-Stunden-Fenster note (German)
+  - starcitizenhelp.com /game-guides/referral-codes-explained — "when you have to enter it" + retroactive-application FAQ
 ---
 
 Canon settled 2026-07-03. Site copy standard: recommend entering the code AT signup (the

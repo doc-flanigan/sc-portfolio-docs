@@ -27,6 +27,7 @@ usage:
   - pledgemeaning.com /what-is-lti, /what-is-ccu — final CTA copy
   - dayonecitizen.com /day-one-citizen/ships-real-money — earn-ships-in-game section
   - dayonecitizen.com /de/referral-code + /de/echtgeld-schiffe — Startguthaben copy (German)
+  - starcitizenhelp.com /game-guides/referral-codes-explained — TL;DR, "what you get", stale-5,000 warning, FAQ + FAQPage JSON-LD
 ---
 
 Network-wide canon settled 2026-07-03 after SCH and freeflyevent contradicted each other.

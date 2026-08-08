@@ -14,6 +14,7 @@ usage:
   - dayonecitizen.com /referral-code — "what you get" no-purchase clarification
   - o7meaning.com /faq — "no purchase required" in both referral FAQ answers (added 2026-07-18)
   - pledgemeaning.com / — referral bonus section + FAQ no-purchase clarification
+  - starcitizenhelp.com /game-guides/referral-codes-explained — "what you get" + "does using a code cost me anything" FAQ
 ---
 
 Canon settled 2026-07-03. Do not conflate with the referrer's side: the *referring* player
