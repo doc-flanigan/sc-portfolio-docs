@@ -7,7 +7,7 @@ sources:
   - https://robertsspaceindustries.com/en/comm-link/transmission/21225-Foundation-Festival-2026-Referral-Bonus
   - https://robertsspaceindustries.com/en/comm-link/transmission/21237-Twitch-Drops-Foundation-Festival-2026
   - https://support.robertsspaceindustries.com/hc/en-us/articles/360037529633-Welcome-to-the-Star-Citizen-Free-Fly-Event
-lastVerified: 2026-07-29
+lastVerified: 2026-08-08
 usage:
   - freeflyevent-site/src/data/events.ts — canonical record (id foundation-festival-2026, 2026-07-29T16:00Z → 2026-08-10T23:59Z, bonusOverride expires 2026-08-12T20:00Z)
   - freeflyevent.com /foundation-festival-2026 — GEO answer, live-status box, referral-terms section, FAQ, Event JSON-LD

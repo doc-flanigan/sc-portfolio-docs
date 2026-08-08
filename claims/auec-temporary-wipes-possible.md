@@ -4,7 +4,7 @@ claim: "aUEC (Alpha UEC) is a temporary testing currency that can be changed or 
 status: verified
 sources:
   - https://support.robertsspaceindustries.com/hc/en-us/articles/360006492734-Currencies-of-Star-Citizen-UEC-aUEC-REC-Store-Credit
-lastVerified: 2026-07-12
+lastVerified: 2026-08-08
 usage:
   - dayonecitizen.com /day-one-citizen/next-wipe — entire page (what survives / what resets, FAQ)
   - dayonecitizen.com /day-one-citizen/worth-buying — wipes FAQ answer
