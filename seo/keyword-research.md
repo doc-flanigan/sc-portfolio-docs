@@ -13,7 +13,7 @@ Primary keyword targets per site. Do not add or remove keywords without updating
 - "do you have to buy ships with real money" (added 2026-07-12 — /day-one-citizen/ships-real-money)
 - "star citizen first ship" / "best starter ship" (added 2026-07-12 — /day-one-citizen/first-ship)
 - "star citizen wipe" / "when is the next wipe" (added 2026-07-12 — /day-one-citizen/next-wipe; incumbent startstarcitizen.com owned this)
-- "star citizen system requirements 2026" (2026-07-12: /system-specs refreshed to current KB; inherits SCH's 44% AI-citation cluster as SCH sunsets)
+- "star citizen system requirements 2026" (2026-07-12: /system-specs refreshed to current KB). **Correction 2026-08-08:** it does NOT inherit SCH's cluster — the sunset is halted, and `starcitizenhelp.com/game-guides/system-requirements` is the network's single most-cited page (2.3K AI citations). Both may rank; do not plan around SCH giving this up.
 - Secondary (Beyond the Basics section): "star citizen ccu chain", "star citizen ship equipment guide"
 - **German pilot (added 2026-07-12, 7 pages under /de/ with hreflang):** "star citizen kaufen" (/de/star-citizen-kaufen), "lohnt sich star citizen 2026" (/de/lohnt-sich-star-citizen), "star citizen starterpaket" (/de/starterpaket), "star citizen auf steam / ps5" (/de/star-citizen-auf-steam), "star citizen echtgeld / pay to win" (/de/echtgeld-schiffe), "star citizen auf deutsch" (/de/auf-deutsch), "star citizen empfehlungscode / referral code" (/de/referral-code). Recon: docs/seo/german-serp-recon-2026-07.md; measure German GSC impressions ~4-6 weeks (mid-Aug)
 

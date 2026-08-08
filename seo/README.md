@@ -13,8 +13,8 @@
 
 Two search-engine authority footholds drive the entire portfolio:
 
-- **Google hub (transitional):** StarCitizenHelp.com → all cross-links point to dayonecitizen.com → sunset via 301 in 6–18 months
-- **Google destination (permanent):** dayonecitizen.com — absorbs StarCitizenHelp authority on migration
+- **Google in-game-help specialist (permanent):** StarCitizenHelp.com — footer cross-links to dayonecitizen.com. **Its sunset was HALTED 2026-08-08**; it is no longer transitional. Authority to `StarCitizenHelp-live/CLAUDE.md`.
+- **Google new-player destination (permanent):** dayonecitizen.com — the hub. It grows on its own content; it no longer absorbs StarCitizenHelp via migration.
 - **Bing hub (permanent):** freeflyevent.com — cross-links to dayonecitizen.com and screferralreward.com
 
 All other sites are satellites that link to the hubs. Cross-links are editorial/body copy only — never in footers or link lists.
@@ -24,7 +24,7 @@ All other sites are satellites that link to the hubs. Cross-links are editorial/
 | Site | Role | Engine | Status |
 |---|---|---|---|
 | dayonecitizen.com | Google authority destination | Google | Live |
-| starcitizenhelp.com | Transitional Google lender | Google | Live — sunset 6–18 mo |
+| starcitizenhelp.com | In-game-help specialist | Google + AI | Live — **sunset halted 2026-08-08**, keep & grow |
 | freeflyevent.com | Bing authority hub | Bing | Live |
 | screferralreward.com | Conversion satellite (referral code) | Both | Live |
 | screferralbonus.com | Conversion satellite (referral bonus) | Both | Live |
@@ -39,7 +39,7 @@ All other sites are satellites that link to the hubs. Cross-links are editorial/
 - [keyword-research.md](keyword-research.md) — primary keyword targets per site
 - [internal-linking.md](internal-linking.md) — cross-site link map with placements
 - [redirects.md](redirects.md) — all active redirects across the portfolio
-- [migration-plan.md](migration-plan.md) — StarCitizenHelp sunset sequence
+- [migration-plan.md](migration-plan.md) — StarCitizenHelp sunset sequence (**SUPERSEDED 2026-08-08 — do not execute**; retained for method only)
 - [pending-and-status.md](pending-and-status.md) — technical SEO checklist per site
 - [legal-and-privacy.md](legal-and-privacy.md) — analytics and privacy policy decisions
 - [sites/](sites/) — per-site SEO files

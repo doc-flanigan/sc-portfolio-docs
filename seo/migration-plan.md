@@ -1,5 +1,22 @@
 # StarCitizenHelp Migration Plan
 
+> ## ⛔ SUPERSEDED — DO NOT EXECUTE
+>
+> **The sunset was halted on 2026-08-08.** Tranche 1 (`party-management`,
+> `inventory-management`, `is-star-citizen-worth-it`) stays in place and gets
+> re-read in early October on **combined clicks**. Tranche 2 (keybinds,
+> shops-directory, ccu-chains) is **cancelled, not deferred**. `/tools` remains
+> exempt.
+>
+> Why, in one line: transfers lost 46–90% of clicks because dayone ranks the same
+> content 2.5 positions worse, the force-crawl premise never materialised, SCH is
+> growing (+10% excluding `/tools`), and the two sites overlap on only ~15–20% of
+> queries — so they are complementary, not duplicates.
+>
+> Full reasoning and current policy: `StarCitizenHelp-live/CLAUDE.md` →
+> "Network role". This document is retained for its pre-conditions and sequencing,
+> which are still the right method **if** a migration is ever re-authorised by Doc.
+
 **Timeline:** 6–18 months (medium sunset — light content investment while dayonecitizen mirrors content)
 **Goal:** Transfer StarCitizenHelp's Google authority to dayonecitizen.com via 301 redirects after equivalent content is live and indexed.
 
