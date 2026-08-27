@@ -4,6 +4,7 @@ claim: "Loaner vessels do not stack — if a player owns multiple parent ships t
 status: verified
 sources:
   - https://support.robertsspaceindustries.com/hc/en-us/articles/4408770370455-Included-Vessels-Snub-Fighters-and-Rovers
+  - https://support.robertsspaceindustries.com/hc/en-us/articles/360003093114-Loaner-Ship-Matrix
 lastVerified: 2026-07-29
 usage:
   - dayonecitizen.com /fact-check — public fact-check entry
