@@ -1,10 +1,10 @@
 ---
 id: quantum-travel-sequence
-claim: "In current Star Citizen (Alpha 4.9), quantum travel works by pressing B once to switch Master Mode to NAV, middle-clicking to cycle Operating Mode to QT, setting a route (Starmap or a destination marker), letting the quantum drive auto-calibrate (no hold required), then left-clicking to begin the jump, which ends automatically at the destination (planetside arrivals land about 30 km above/near the surface location)."
+claim: "In current Star Citizen (Alpha 4.10), quantum travel works by pressing B once to switch Master Mode to NAV, middle-clicking to cycle Operating Mode to QT, setting a route (Starmap or a destination marker), letting the quantum drive auto-calibrate (no hold required), then left-clicking to begin the jump, which ends automatically at the destination (planetside arrivals land about 30 km above/near the surface location)."
 status: verified
 sources:
   - https://support.robertsspaceindustries.com/hc/en-us/articles/360019449994-How-to-Quantum-Travel
-lastVerified: 2026-07-28
+lastVerified: 2026-09-16
 usage:
   - dayonecitizen.com /beyond-the-basics/quantum-travel — metadata, hero, step-by-step, Starmap section, tips, troubleshooting, interdiction section
   - dayonecitizen.com /beyond-the-basics — quantum-travel guide card description
@@ -33,3 +33,14 @@ no edit; this entry covers the full downstream QT sequence (QT mode entry,
 calibration, jump, arrival) that the copy across both sites had wrong.
 
 2026-07-28 fix pass: dayonecitizen-main PR #67 (merged to main), StarCitizenHelp-live commit e5cc0cf (pushed to main, direct — no PR flow on that repo).
+
+**Re-pinned 4.9 -> 4.10 on 2026-09-16** during the 4.10 release pass. The wording had gone
+stale in a way that mattered: it asserted 4.9 was *current* nineteen days after 4.10
+shipped. The travel **sequence** itself is unchanged — the 4.10 release notes' Flight,
+Quantum Travel and Navigation section contains only bug fixes (Drake Clipper quantum
+flash, loss of ship control, post-dock thruster failure) and no Master Mode, Operating
+Mode or calibration change. What 4.10 *did* change is quantum **economics**, not
+procedure: quantum fuel prices rose substantially and hydrogen tank capacity shrank
+fleet-wide. If any usage page above discusses the cost or range of a jump rather than the
+keypress sequence, that copy needs its own check against
+[[current-alpha-version-4-10-0]] — this claim does not cover it.
