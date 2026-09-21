@@ -4,7 +4,7 @@ claim: "A referrer earns a Recruitment Point only after their recruit spends at 
 status: verified
 sources:
   - https://support.robertsspaceindustries.com/hc/en-us/articles/115013102847-Referral-Program-FAQ
-lastVerified: 2026-07-07
+lastVerified: 2026-09-21
 usage:
   - dayonecitizen.com /referral-code — "is it legit / who benefits" clarification
   - screferralbonus.com /about-the-bonus — "does the referrer get part of my bonus" FAQ

@@ -5,7 +5,7 @@ status: verified
 sources:
   - https://robertsspaceindustries.com/en/referral-program
   - https://support.robertsspaceindustries.com/hc/en-us/articles/115013102847-Referral-Program-FAQ
-lastVerified: 2026-07-11
+lastVerified: 2026-09-21
 usage:
   - screferralbonus.com /promo-codes — code-type table + "dead end" section + FAQ
   - dayonecitizen.com /referral-code — "promo or coupon codes" FAQ
