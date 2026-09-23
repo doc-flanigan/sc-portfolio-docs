@@ -5,7 +5,7 @@ status: verified
 sources:
   - https://support.robertsspaceindustries.com/hc/en-us/articles/360042417374-Star-Citizen-Minimum-System-Requirements
   - https://robertsspaceindustries.com/download
-lastVerified: 2026-07-12
+lastVerified: 2026-09-23
 usage:
   - dayonecitizen.com /day-one-citizen/is-star-citizen-on-steam — entire page (direct answer, FAQ)
   - dayonecitizen.com /day-one-citizen/buying-the-game — "where to buy" FAQ + body copy
