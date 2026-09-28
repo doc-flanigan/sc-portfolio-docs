@@ -8,6 +8,7 @@ lastVerified: 2026-07-15
 usage:
   - dayonecitizen.com /fact-check — CitizenCon 2026 claim
   - iheldtheline.com — event calendar
+  - freeflyevent.com /next-free-fly — FAQ + 'CitizenCon — not happening in 2026' card
 ---
 
 Added 2026-07-15. Verify against the cited source(s) before re-use.
