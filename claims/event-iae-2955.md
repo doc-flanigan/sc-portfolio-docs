@@ -8,6 +8,7 @@ lastVerified: 2026-07-04
 usage:
   - freeflyevent.com /event-history — event timeline entry
   - freeflyevent-site/src/data/events.ts — canonical record (id iae-2025, 2025-11-20T16:00Z → 2025-12-03T17:00Z)
+  - freeflyevent.com /iae-2956 — "What happened at IAE 2955" recap + FAQ
 ---
 
 Dates and Perseus debut verified against the comm-link during the 2026-07-04 freeflyevent
