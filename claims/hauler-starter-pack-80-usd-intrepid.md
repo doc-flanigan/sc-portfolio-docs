@@ -4,7 +4,7 @@ claim: "The Hauler Starter Pack ($80 USD) is a game package that includes the Cr
 status: verified
 sources:
   - https://robertsspaceindustries.com/pledge/Packages/Hauler-Starter-Pack
-lastVerified: 2026-08-12
+lastVerified: 2026-09-27
 usage:
   - dayonecitizen.com /day-one-citizen/starter-package — role-specific pack comparison; freeflyevent-site /should-i-buy — starter pack options
 ---

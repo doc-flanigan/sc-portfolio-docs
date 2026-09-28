@@ -4,9 +4,13 @@ claim: "The Citizen Starter Pack ($60 USD) is a game package that includes the R
 status: verified
 sources:
   - https://robertsspaceindustries.com/pledge/Packages/Citizen-Starter-Pack
-lastVerified: 2026-08-12
+lastVerified: 2026-09-27
 usage:
   - dayonecitizen.com /fact-check — pledge package reference; freeflyevent-site /should-i-buy — starter pack comparison
+  - dayonecitizen.com /day-one-citizen/worth-buying, /starter-package, /first-ship, /buying-the-game, /page, /ships-real-money, /is-star-citizen-on-steam, /free-fly-events, /beyond-the-basics/ccu-chains, /de/starterpaket, /de/star-citizen-kaufen, src/data/glossary.ts — price copy (corrected 2026-09-27 from stale $45)
+  - bestspacesim.com /is-star-citizen-worth-it, /is-star-citizen-a-scam, / — price copy (corrected 2026-09-27 from stale $45)
+  - freeflyevent-site /is-star-citizen-free, /should-i-buy — price copy (corrected 2026-09-27 from stale $45)
+  - fundedgame-site / — price copy (corrected 2026-09-27 from stale $45)
 ---
 
 Added 2026-08-12. Verify against the cited source(s) before re-use.

@@ -4,7 +4,7 @@ claim: "The Generalist Starter Pack ($60 USD) is a game package that includes th
 status: verified
 sources:
   - https://robertsspaceindustries.com/pledge/Packages/Generalist-Starter-Pack
-lastVerified: 2026-08-12
+lastVerified: 2026-09-27
 usage:
   - freeflyevent-site /should-i-buy — starter pack comparison; StarCitizenHelp /game-guides — starter pack options
 ---

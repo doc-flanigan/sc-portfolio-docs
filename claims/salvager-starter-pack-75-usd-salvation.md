@@ -4,7 +4,7 @@ claim: "The Salvager Starter Pack ($75 USD) is a game package that includes the 
 status: verified
 sources:
   - https://robertsspaceindustries.com/pledge/Packages/Salvager-Starter-Pack
-lastVerified: 2026-08-12
+lastVerified: 2026-09-27
 usage:
   - dayonecitizen.com /day-one-citizen/starter-package — role-specific pack comparison; freeflyevent-site /should-i-buy — starter pack options
 ---

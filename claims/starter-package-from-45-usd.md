@@ -1,22 +1,22 @@
 ---
 id: starter-package-from-45-usd
 claim: "Star Citizen starter Game Packages begin at $45, with no subscription required to play."
-status: verified
+status: refuted
+correction: "The cheapest current Star Citizen game packages are $60 USD (Citizen Starter Pack with the RSI Aurora Mk II, and Generalist Starter Pack with the Drake Cutter); no subscription is required to play. Other starter packs run higher (Miner and Salvager $75, Hauler $80). Prices are sometimes discounted during sales (e.g. Anniversary), but the regular entry price is $60, not $45."
 sources:
   - https://robertsspaceindustries.com/pledge/game-packages
-lastVerified: 2026-07-12
+lastVerified: 2026-09-27
 usage:
-  - bestspacesim.com /is-star-citizen-worth-it — cost explainer + FAQ
-  - dayonecitizen.com /day-one-citizen/worth-buying — cost FAQ answer
-  - dayonecitizen.com /day-one-citizen/starter-package — recommendation + price FAQ
-  - pledgemeaning.com / — "Do You Need to Pledge to Play?" ($45 entry) + starter package FAQ
-  - pledgemeaning.com /what-is-ccu — CCU example step 1 ($45 Aurora game package)
-  - bestspacesim.com /is-star-citizen-a-scam — "what $45 actually gets you"
-  - dayonecitizen.com /day-one-citizen/first-ship — pack pricing
-  - dayonecitizen.com /de/starterpaket + /de/star-citizen-kaufen — pack/price copy (German)
+  - dayonecitizen.com /fact-check — myth entry (site copy corrected 2026-09-27 to $60; see citizen-starter-pack-60-usd-aurora)
 ---
 
-Verified from the live RSI pledge store. This is the minimum entry point to play the live game
-outside of Free Fly events. All starter packages include at least one flyable ship and basic
-game access. In-game currency (aUEC) for cosmetics and ship rentals can be earned through gameplay;
-the optional $45+ purchases are pledges, not requirements to progress.
+REFUTED 2026-09-27: the $45 figure was RSI's own store price as of the prior
+verification (2026-07-12) but is stale. Pulled fresh from the live RSI store's
+schema.org Product JSON on 2026-09-27: the cheapest packages are the Citizen
+Starter Pack and Generalist Starter Pack, both $60 USD; there is no $45
+package currently. Canon companions: [[citizen-starter-pack-60-usd-aurora]],
+[[generalist-starter-pack-60-usd-drake-cutter]]. Kept as a myth entry (renders
+under "False" on /fact-check) because the "$45 entry" belief is widespread
+from outdated site copy and creator content. All live-site usages of $45
+game-package pricing have been corrected to $60 (2026-09-27 sweep); pledgemeaning
+usages removed from this list — that site was retired 2026-07-18.
