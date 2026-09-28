@@ -88,3 +88,64 @@ Saved: E:\Claude Code\sc-portfolio\docs\seo\migration-reports\2026-07-17.md
 - no GA4 rows for these paths in the window
 
 Saved: E:\Claude Code\sc-portfolio\docs\seo\migration-reports\2026-07-24.md
+# SCH → dayonecitizen migration report — 2026-09-04
+
+## Redirects
+- ✅ https://starcitizenhelp.com/game-guides/party-management → 308 https://dayonecitizen.com/beyond-the-basics/party-management
+- ✅ https://starcitizenhelp.com/game-guides/inventory-management → 308 https://dayonecitizen.com/beyond-the-basics/inventory-management
+- ✅ https://starcitizenhelp.com/game-guides/is-star-citizen-worth-it → 308 https://freeflyevent.com/should-i-buy
+
+## Target indexing (dayonecitizen)
+- /beyond-the-basics/party-management: INDEXED ✅ (last crawl 2026-08-26)
+- /beyond-the-basics/inventory-management: INDEXED ✅ (last crawl 2026-08-30)
+- https://freeflyevent.com/should-i-buy: inspection error You do not own this site, or the inspected URL is not part of this property.
+
+## Search analytics (7d vs prior 7d, 2-day lag)
+### party-management
+- SCH (old URL):  clicks 0→0, impr 0→0, pos 0→0
+- dayone (new):   clicks 3→2, impr 444→634, pos 7.8→7.2
+- transfer signal: impressions moving to dayone ✅
+### inventory-management
+- SCH (old URL):  clicks 0→0, impr 0→0, pos 0→0
+- dayone (new):   clicks 3→1, impr 630→694, pos 7.2→7.3
+- transfer signal: impressions moving to dayone ✅
+### should-i-buy
+- SCH (old URL):  clicks 0→0, impr 0→0, pos 0→0
+- dayone (new):   clicks 0→0, impr 0→0, pos 0→0
+- transfer signal: not visible yet
+
+## GA4 traffic (7d vs prior 7d)
+- no GA4 rows for these paths in the window
+
+Saved: E:\Claude Code\sc-portfolio\docs\seo\migration-reports\2026-09-04.md
+FAILED: invalid_grant
+# SCH → dayonecitizen migration report — 2026-09-18
+
+## Redirects
+- ✅ https://starcitizenhelp.com/game-guides/party-management → 308 https://dayonecitizen.com/beyond-the-basics/party-management
+- ✅ https://starcitizenhelp.com/game-guides/inventory-management → 308 https://dayonecitizen.com/beyond-the-basics/inventory-management
+- ✅ https://starcitizenhelp.com/game-guides/is-star-citizen-worth-it → 308 https://freeflyevent.com/should-i-buy
+
+## Target indexing (dayonecitizen)
+- /beyond-the-basics/party-management: INDEXED ✅ (last crawl 2026-09-08)
+- /beyond-the-basics/inventory-management: INDEXED ✅ (last crawl 2026-09-14)
+- https://freeflyevent.com/should-i-buy: inspection error You do not own this site, or the inspected URL is not part of this property.
+
+## Search analytics (7d vs prior 7d, 2-day lag)
+### party-management
+- SCH (old URL):  clicks 0→0, impr 0→0, pos 0→0
+- dayone (new):   clicks 0→1, impr 567→440, pos 7.4→7.1
+- transfer signal: not visible yet
+### inventory-management
+- SCH (old URL):  clicks 0→0, impr 0→0, pos 0→0
+- dayone (new):   clicks 7→1, impr 672→656, pos 7.4→6.8
+- transfer signal: not visible yet
+### should-i-buy
+- SCH (old URL):  clicks 0→0, impr 0→0, pos 0→0
+- dayone (new):   clicks 0→0, impr 0→0, pos 0→0
+- transfer signal: not visible yet
+
+## GA4 traffic (7d vs prior 7d)
+- no GA4 rows for these paths in the window
+
+Saved: E:\Claude Code\sc-portfolio\docs\seo\migration-reports\2026-09-18.md
