@@ -1,22 +1,34 @@
 ---
 id: starter-package-from-45-usd
-claim: "Star Citizen starter Game Packages begin at $45, with no subscription required to play."
-status: refuted
-correction: "The cheapest current Star Citizen game packages are $60 USD (Citizen Starter Pack with the RSI Aurora Mk II, and Generalist Starter Pack with the Drake Cutter); no subscription is required to play. Other starter packs run higher (Miner and Salvager $75, Hauler $80). Prices are sometimes discounted during sales (e.g. Anniversary), but the regular entry price is $60, not $45."
+claim: "The cheapest Star Citizen game package, the Citizen Starter Pack (RSI Aurora Mk II), lists at $60 USD and was on sale for $45 (25% off) as of September 2026; no subscription is required to play."
+status: verified
 sources:
+  - https://robertsspaceindustries.com/pledge/Packages/Citizen-Starter-Pack
   - https://robertsspaceindustries.com/pledge/game-packages
-lastVerified: 2026-09-27
+lastVerified: 2026-09-28
 usage:
-  - dayonecitizen.com /fact-check — myth entry (site copy corrected 2026-09-27 to $60; see citizen-starter-pack-60-usd-aurora)
+  - dayonecitizen.com /fact-check — pledge price entry
+  - dayonecitizen.com /day-one-citizen/worth-buying, /starter-package, /first-ship, /buying-the-game, /page, /ships-real-money, /is-star-citizen-on-steam, /free-fly-events, /beyond-the-basics/ccu-chains, /de/starterpaket, /de/star-citizen-kaufen, /de/lohnt-sich-star-citizen, /de/echtgeld-schiffe, /de/star-citizen-auf-steam, src/data/glossary.ts — entry-price copy
+  - bestspacesim.com /is-star-citizen-worth-it, /is-star-citizen-a-scam, / — entry-price copy
+  - freeflyevent.com /is-star-citizen-free, /should-i-buy — entry-price copy
+  - highestfundedgame.com / — entry-price copy
+  - starcitizenhelp.com /game-guides (worth-it guide), /getting-started — entry-price copy
 ---
 
-REFUTED 2026-09-27: the $45 figure was RSI's own store price as of the prior
-verification (2026-07-12) but is stale. Pulled fresh from the live RSI store's
-schema.org Product JSON on 2026-09-27: the cheapest packages are the Citizen
-Starter Pack and Generalist Starter Pack, both $60 USD; there is no $45
-package currently. Canon companions: [[citizen-starter-pack-60-usd-aurora]],
-[[generalist-starter-pack-60-usd-drake-cutter]]. Kept as a myth entry (renders
-under "False" on /fact-check) because the "$45 entry" belief is widespread
-from outdated site copy and creator content. All live-site usages of $45
-game-package pricing have been corrected to $60 (2026-09-27 sweep); pledgemeaning
-usages removed from this list — that site was retired 2026-07-18.
+CORRECTED 2026-09-28 (supersedes the 2026-09-27 "refuted" verdict, which was wrong).
+
+The live RSI store page for the Citizen Starter Pack, as a signed-out/new visitor sees
+it on 2026-09-28, shows **-25% · $60.00 USD → $45.00 USD**. The 2026-09-27 check read
+only the page's schema.org Product JSON, whose `offers.price` carries the **list**
+price ($60) and does NOT reflect the sale. TRAP: never verify a displayed price from
+the store's ld+json alone — it hides discounts. Confirm against the rendered page.
+
+Price history seen by this ledger: $45 on 2026-07-12, $60 (no sale) on 2026-08-12,
+$45 (25% off $60) on 2026-09-28. The discount comes and goes, so site copy uses dated
+wording ("$45 on sale — $60 list price, as of September 2026") instead of a bare
+number. Re-check at the end of the Anniversary/IAE sale season and whenever copy is
+touched.
+
+The Generalist Starter Pack (Drake Cutter) lists at $60; whether it is discounted was
+not observed — do not claim it is. Companions: [[citizen-starter-pack-60-usd-aurora]],
+[[citizen-starter-pack-10000-uec-6mo-insurance]].
