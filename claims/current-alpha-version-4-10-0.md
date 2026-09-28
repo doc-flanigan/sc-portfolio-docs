@@ -1,6 +1,6 @@
 ---
 id: current-alpha-version-4-10-0
-claim: "The current live Star Citizen build is Alpha 4.10.0 (Siege of Orison), released August 26, 2026 as build 4.10.0-LIVE.12519617; the release notes announce no wipe and Long Term Persistence was extended rather than reset."
+claim: "Star Citizen Alpha 4.10.0 (Siege of Orison) was released August 26, 2026 as build 4.10.0-LIVE.12519617; the release notes announce no wipe and Long Term Persistence was extended rather than reset. Superseded as the live build by Alpha 4.10.1 on September 16, 2026."
 status: verified
 sources:
   - https://robertsspaceindustries.com/comm-link/Patch-Notes/21293-Star-Citizen-Alpha-410
@@ -8,11 +8,12 @@ sources:
   - https://starcitizen.tools/Update:Star_Citizen_Alpha_4.10.0
 lastVerified: 2026-09-16
 usage:
-  - starcitizenhelp.com /updates — current-patch header + 4.10 entry + FAQ
-  - dayonecitizen.com /day-one-citizen/next-wipe — "did 4.10 wipe" answer (no) + next-wipe answer
+  - starcitizenhelp.com /updates — 4.10 entry (historical; no longer the current-patch header)
+  - dayonecitizen.com /day-one-citizen/next-wipe — "did 4.10 wipe" answer (no)
   - dayonecitizen.com /de/lohnt-sich-star-citizen — aktueller Stand + Wipe FAQ
-  - bestspacesim.com /is-star-citizen-a-scam, /is-star-citizen-worth-it, /star-citizen — "current live build" copy
 ---
+
+SUPERSEDED 2026-09-27 by current-alpha-version-4-10-1 (4.10.1 released 2026-09-16).
 
 Flipped 2026-09-16 (supersedes current-alpha-version-4-9-0, which is retained as history
 because "did 4.9 wipe" answers still render). Released **2026-08-26**, build
