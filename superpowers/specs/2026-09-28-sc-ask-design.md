@@ -239,9 +239,11 @@ Release dates & roadmap · Other.
 
 ## 12. Pre-flight checks (plan Task 0)
 
-1. Which Vercel plan the account/team is on. Hobby forbids commercial use incl. sites
-   whose primary purpose is affiliate linking — a network-wide question, not just
-   sc-ask. sc-ask carries no referral link regardless.
+1. ~~Which Vercel plan the account/team is on.~~ **RESOLVED 2026-09-28:** single team
+   `scottgayden-5755s-projects` holds all 22 projects; Doc pays $20/mo = Pro, so the
+   Hobby commercial-use restriction does not apply (confirm "Pro" once in Settings →
+   Billing). sc-ask still carries no referral link — credibility, not compliance.
+   Add a Vercel Spend Management limit as a fourth cost layer.
 2. Anthropic Console: workspace monthly spend-limit setting exists as assumed.
 3. Upstash: hybrid index + hosted `bge-m3` on both upsert and query; whether batch
    upserts count per request or per vector; max batch size; any budget cap on PAYG.
