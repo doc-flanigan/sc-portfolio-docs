@@ -259,3 +259,27 @@ Release dates & roadmap · Other.
 - Anthropic Console: new workspace, key, spend limit.
 - Discord: create private `#ask-log` + webhook.
 - DNS: `ask` CNAME for dayonecitizen.com (Vercel shows the record).
+
+## 14. As built (2026-09-29) — changes from this spec
+
+- **Embeddings:** Upstash's console offers only `openai/text-embedding-3-small` (1536 dims) + BM25 for
+  hosted hybrid indexes (docs listing bge models are stale); no separate embedding charge. Pay-as-you-go.
+- **Chunks:** ~320 words / 50 overlap (54,096 passages at first load).
+- **Namespaces:** `docs` (comm/dev/yt), **`ledger`** (claims), `cache`. Upstash applies metadata filters
+  *after* the ANN candidate search, so filtered queries over a small subset return nothing — never filter
+  to a small subset; give it its own namespace.
+- **Cache vectors:** `<qid>:<hash of asked wording>` + `<qid>:c` (canonical), metadata.qid, evicted by prefix.
+  Records carry `docIds` of cited passages.
+- **Invalidation:** pending work (`data/ask-pending-invalidation.json`) accumulates per ingest flush and is
+  deleted only after success. Evicts (1) answers citing replaced/deleted docIds, (2) cached questions that a
+  new passage matches at dense ≥ `INVALIDATE_SCORE` 0.74 (topK 20 on the `cache` namespace), (3) everything
+  after a bulk load (>2000 new passages).
+- **Thresholds (measured):** `CACHE_HIT_SCORE` 0.985 (Hull-C vs Hull-E paraphrase-probe scored 0.975),
+  `LEDGER_MATCH_SCORE` 0.73, `INVALIDATE_SCORE` 0.74. Haiku temperature 0.
+- **YouTube:** GitHub runners are bot-blocked → nightly Windows Task Scheduler job on Doc's PC
+  (`tools/commlink-corpus/ask/yt-nightly.ps1`, 03:00). Captions are fetched as `en-orig` first.
+- **Safety:** ingest fails loudly on a missing source file and refuses to delete >10% of a source type.
+- **Eval:** local run 2 = 97.5%, production = 100% (40/40), 0 invented citations.
+- **Before public launch (deferred minors):** webhook `allowed_mentions`, escape `<>` in questions, login
+  throttle, don't cache max_tokens-truncated or off-topic answers, one Anthropic retry, record spend on
+  client disconnect, sync-youtube non-zero exit on total failure, plus the Most-asked approval method (§2).
