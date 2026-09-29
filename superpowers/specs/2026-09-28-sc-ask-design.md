@@ -125,15 +125,16 @@ Cache hits still count toward "Most asked".
 
 **Write:** only complete, successful, non-refusal answers. Record (Redis
 `cache:{qid}`): canonical question, verdict, topic, answer text, cited passage
-ids + card data, `createdAt`, `corpusCurrentTo`, and `minIncludedScore` (retrieval
-score of the lowest passage kept for this answer). Vector in `cache` namespace keyed by
+ids + card data, `createdAt`, `corpusCurrentTo`. Vector in `cache` namespace keyed by
 `qid`, embedded from the *canonical* question.
 
 **Targeted invalidation (nightly, after ingest)**
-- For each cached qid: query `docs` with its canonical question, filter
-  `ingestedAt >= syncStartedAt`, top-1. If score ≥ the record's `minIncludedScore`
-  (i.e. the new passage would have made the answer's top 12) → evict. Pure vector
-  queries, no LLM.
+- For each cached qid: query `docs` with its canonical question in **dense** mode,
+  filter `ingestedAtMs >= <this run's start>`, top-1. If score ≥ `INVALIDATE_SCORE`
+  (default 0.86) → evict. Pure vector queries, no LLM.
+- *Planning change:* the per-record `minIncludedScore` idea was dropped — hybrid (RRF)
+  scores are rank-relative and not comparable across a filtered query, so a fixed
+  dense threshold is used instead.
 - Safety net: any record older than **30 days** is evicted.
 - 👎 evicts immediately and logs to #ask-log.
 
@@ -150,9 +151,9 @@ Release dates & roadmap · Other.
 
 1. Validate: ≤ 500 chars, gate cookie, `ASK_ENABLED`, spend cap (§9).
 2. Cache lookup (§6).
-3. **Retrieve:** one hybrid query on `docs`, top ~24 → diversify (≤ 3 passages per
-   doc) → keep 12. Any `ledger` passage above threshold is always kept and ordered
-   first. Remaining passages sorted by date ascending. Cap total ≈ 6k tokens.
+3. **Retrieve:** one hybrid query on non-ledger `docs`, top 24 → diversify (≤ 3 passages
+   per doc) → keep 12; plus a separate **dense** query over ledger passages (top 3), kept
+   when score ≥ `LEDGER_MATCH_SCORE` (default 0.88) and ordered first. Remaining passages sorted by date ascending. Cap total ≈ 6k tokens.
 4. **Prompt:** passages as `[n] <type> · <author?> · <date> · <title>\n<text>`,
    wrapped in a clearly delimited block labelled as untrusted quoted material.
 5. **Haiku 4.5**, `max_tokens` ≈ 700, streamed. Output contract:
