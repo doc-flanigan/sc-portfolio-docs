@@ -29,13 +29,18 @@ trusted (§11). The private build *is* the public build with the gate removed.
 - Password gate, spend caps, kill switch, eval harness.
 
 **Tabled to v2 (explicit Doc decision 2026-09-28)**
+- Follow-up context between questions.
+
+**Shipped 2026-09-29 (from the v2 list)**
+- "Most asked" approval → replaced by a distinct-askers threshold
+  (`POPULAR_MIN_ASKERS`: 3 by default, 1 while private); no manual approval step.
+- Indexable per-question pages (`/q/<slug>`) with nightly recheck; gated + noindex
+  until `PAGES_PUBLIC=true`.
+
+**Dropped (Doc decision 2026-09-29)**
 - Public `#ask-answers` announcement channel + Sunday "top 10" post.
 - Discord bot / buttons / `/ask` slash command.
 - 📌 "send to fact-check" hand-off into #fact-check-requests.
-- Follow-up context between questions.
-- Approval workflow for the public "Most asked" list — **must be chosen before public
-  launch** (Discord buttons or a small admin page). In private phase the list shows all.
-- Indexable per-question pages (`/q/<slug>`) for SEO/GEO.
 
 **Never**
 - The chat never writes to the claims ledger. The ledger is human-verified; model
