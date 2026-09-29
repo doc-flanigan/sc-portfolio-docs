@@ -280,6 +280,12 @@ Release dates & roadmap · Other.
   (`tools/commlink-corpus/ask/yt-nightly.ps1`, 03:00). Captions are fetched as `en-orig` first.
 - **Safety:** ingest fails loudly on a missing source file and refuses to delete >10% of a source type.
 - **Eval:** local run 2 = 97.5%, production = 100% (40/40), 0 invented citations.
-- **Before public launch (deferred minors):** webhook `allowed_mentions`, escape `<>` in questions, login
-  throttle, don't cache max_tokens-truncated or off-topic answers, one Anthropic retry, record spend on
-  client disconnect, sync-youtube non-zero exit on total failure, plus the Most-asked approval method (§2).
+- **Pre-public hardening — DONE 2026-09-29:** webhook `allowed_mentions` (app + ingest), `<>` neutralized in
+  questions/passages, login throttle 5/15 min per IP (checked before comparing), max_tokens-truncated and
+  off-topic answers not cached/counted, one model retry when nothing has streamed yet, spend recorded from
+  the model's usage promise (estimated if unavailable) so disconnects still count, sync-youtube exits
+  non-zero when every video fails. Prod eval after: 100% (40/40), 0 invented citations.
+- **Still open before public:** choose the Most-asked approval method (§2). Remaining review minors (low
+  impact): a header-less answer with a `---` rule in its first 600 chars loses its prefix; citation ranges
+  like `[1-30]` pass through unanchored; a yt-only PC run can advance `corpus:currentTo` while the comm-link
+  CI job is broken.
