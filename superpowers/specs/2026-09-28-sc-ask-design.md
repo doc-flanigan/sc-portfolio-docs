@@ -285,7 +285,10 @@ Release dates & roadmap · Other.
   off-topic answers not cached/counted, one model retry when nothing has streamed yet, spend recorded from
   the model's usage promise (estimated if unavailable) so disconnects still count, sync-youtube exits
   non-zero when every video fails. Prod eval after: 100% (40/40), 0 invented citations.
-- **Still open before public:** choose the Most-asked approval method (§2). Remaining review minors (low
+- **Most asked — automated 2026-09-29 (replaces manual approval, §2):** ranked by number of DIFFERENT askers
+  (salted IP hash, no IP stored), tabs Past 30 days (rolling) | All time, entries show "N people"; a question
+  appears only once asked by `POPULAR_MIN_ASKERS` people (1 while private → **set to 3 at public launch**).
+- **Nothing blocks public launch now.** Remaining review minors (low
   impact): a header-less answer with a `---` rule in its first 600 chars loses its prefix; citation ranges
   like `[1-30]` pass through unanchored; a yt-only PC run can advance `corpus:currentTo` while the comm-link
   CI job is broken.
