@@ -4,7 +4,7 @@ claim: "After pledging with new money or credits, there is a 24-hour cooldown pe
 status: verified
 sources:
   - https://support.robertsspaceindustries.com/hc/en-us/articles/115013193627-Reclaim-a-Pledge
-lastVerified: 2026-08-28
+lastVerified: 2026-10-01
 usage:
   - verification pass — new source, no usage yet
 ---

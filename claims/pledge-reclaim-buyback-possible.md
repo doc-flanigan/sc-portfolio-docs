@@ -4,7 +4,7 @@ claim: "Reclaiming (melting) a pledge is intended to be permanent, but depending
 status: verified
 sources:
   - https://support.robertsspaceindustries.com/hc/en-us/articles/115013193627-Reclaim-a-Pledge
-lastVerified: 2026-08-28
+lastVerified: 2026-10-01
 usage:
   - starcitizenhelp.com src/views/Tools.tsx — CCU vs melting FAQ entry
 ---
