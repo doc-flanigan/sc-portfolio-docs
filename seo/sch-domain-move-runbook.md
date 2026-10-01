@@ -18,7 +18,7 @@ changes. See `kill-review-2026-10.md` and memory `dayonecitizen-seo-push`.
 
 ## Target hostname
 
-**Default: `help.dayonecitizen.com`.**
+**Decided (Doc, 2026-10-01): `help.dayonecitizen.com`.** Any other new domain would have to build authority from zero.
 - Follows the domain rule, and nothing new needs to be bought.
 - DNS is already on Vercel, because dayonecitizen.com uses Vercel DNS, so adding
   the domain to the project works immediately.
@@ -41,7 +41,7 @@ reporting, and point the audit scripts at it.
 Doing this phase turns move day from "edit 25 files under pressure" into
 "change one env var and redeploy".
 
-- [ ] **P0.1 Single site-URL constant in SCH.** There is none today. The
+- [x] **P0.1 Single site-URL constant in SCH.** _(SCH PR #62, 2026-10-01)_ There is none today. The
   literal `https://starcitizenhelp.com` is hardcoded in about 25 source files
   (about 190 hits in about 50 files). Add `src/lib/site.ts` exporting
   `SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? 'https://starcitizenhelp.com'`
@@ -60,7 +60,7 @@ Doing this phase turns move day from "edit 25 files under pressure" into
   - **Check it's a pure refactor:** build before and after, diff the generated
     HTML for every route, and expect **zero diff**. Ship it as a PR in
     `StarCitizenHelp-live`.
-- [ ] **P0.2 Make `next.config.ts` host redirects generic.** Today: www → apex
+- [x] **P0.2 Make `next.config.ts` host redirects generic.** _(PR #62)_ Today: www → apex
   (`:10-11`) and `star-citizen-help.vercel.app` → apex (`:20-21`), both
   hardcoded. Prepare (but don't enable) a rule set keyed on SITE_URL. When
   SITE_URL is not starcitizenhelp.com, every `starcitizenhelp.com` /
@@ -72,7 +72,7 @@ Doing this phase turns move day from "edit 25 files under pressure" into
 - [ ] **P0.4 Check the Change of Address tool supports this move** (different
   registrable domain → subdomain). If GSC refuses, the fallback is 301s +
   sitemaps + Request Indexing on the top 20 URLs. Note the answer here.
-- [ ] **P0.5 Optional, recommended anyway:** add the `Link: rel="canonical"`
+- [x] **P0.5 Optional, recommended anyway:** _(PR #62)_ add the `Link: rel="canonical"`
   HTTP header to SCH's middleware (the 747live hijack hardening never reached
   SCH; its middleware only logs AI bots). Build it from SITE_URL so it moves
   with the site.

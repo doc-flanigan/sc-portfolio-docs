@@ -66,7 +66,7 @@ of these isn't worth paying for as a 301.
 | Domain | Status / action |
 |---|---|
 | **o7meaning.com** | **KILLED 2026-10-01**: whole domain 301 → `dayonecitizen.com/glossary#term-o7` (o7meaning-site `5ac46b6`, verified live on apex, www and vercel.app). Today was the hard-read date set in August. The rule then was "BWT AI citations appear → keep, still zero → flip". The BWT AI Performance page was **not** checked this session (it needs the Chrome flow). Our own logger shows AI fetches down 85% and there are 0 clicks on every channel, so we flipped it. If Doc's BWT check shows a meaningful citation base, the 301 is a one-line revert. |
-| 42ndsquadron.com | Recommended: merge its 8 pages into iheldtheline (same SQ42 lore audience, and the domain that actually ranks), 301 for one year, then drop it. **Waiting on Doc's call; not executed.** |
+| 42ndsquadron.com | **APPROVED 2026-10-01.** Its unique pages move to iheldtheline (/42nd-squadron, /ships, /answer-the-call; iheldtheline PR #7), and every path 301s (42ndsquadron PR #8, merge after #7 is live). Keep the 301 for a year, then drop it. |
 | pledgemeaning.com, screferralreward.com, screferralrewards.com, screferralbonus.com | Already killed in July. No backlinks or traffic, so a 301 isn't worth paying for. Let them lapse. |
 | mostfundedgame.com, 07citizen.com, o7citizens.com, o7citizen.gg | Defensive typo variants with no traffic. Vercel shows mostfundedgame and 07citizen never had a verified config. The .gg costs the most to keep. |
 | millionmilehighclub.com | Never to be developed (hard rule). **The only domain with value outside the SC community. List it on Afternic or Sedo before it lapses.** |
