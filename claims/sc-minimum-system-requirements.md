@@ -11,6 +11,7 @@ usage:
   - iheldtheline.com /faq — specs FAQ entry
   - starcitizenhelp.com — getting-started guide specs section
   - freeflyevent.com /event-guide step 03 + homepage checklist — "about 100 GB download, 150 GB free on an SSD" (added 2026-10-02)
+  - dayonecitizen.com /day-one-citizen/worth-buying — "can your PC run it" section, 16 GB min / 32 GB rec RAM, 150 GB SSD (added 2026-10-02)
 ---
 
 Pointer claim: the support article is the single canonical source for spec values (CPU,

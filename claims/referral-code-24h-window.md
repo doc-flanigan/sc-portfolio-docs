@@ -17,6 +17,7 @@ usage:
   - dayonecitizen.com /de/referral-code — 24-Stunden-Fenster note (German)
   - starcitizenhelp.com /game-guides/referral-codes-explained — "when you have to enter it" + retroactive-application FAQ
   - starcitizenhelp.com /enlist — reminder, Important box, existing-account FAQ + JSON-LD (2026-10-02; previously contradicted itself with "cannot be added to existing accounts")
+  - dayonecitizen.com /day-one-citizen/worth-buying — "try before you buy" enter code at signup or within about 24 hours (added 2026-10-02)
 ---
 
 Canon settled 2026-07-03. Site copy standard: recommend entering the code AT signup (the

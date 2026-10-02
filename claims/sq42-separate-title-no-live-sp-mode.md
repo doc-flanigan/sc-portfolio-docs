@@ -11,6 +11,7 @@ usage:
   - iheldtheline.com /sq42-vs-star-citizen — direct answer, single-player-vs-multiplayer section + FAQ
   - iheldtheline.com /worth-buying — direct answer + FAQ
   - highestfundedgame.com / — "is Star Citizen released" FAQ answer (SQ42 separate-title framing)
+  - dayonecitizen.com /day-one-citizen/worth-buying — Squadron 42 is a separate unreleased game + FAQ (added 2026-10-02)
 ---
 
 Consistent with the full sq42-* claim set (announced alongside SC Oct 2012, still unreleased, 2026 launch window per CitizenCon 2954). No comm-link describes a shipped single-player mode inside the live PU.

@@ -9,6 +9,7 @@ lastVerified: 2026-07-04
 usage:
   - freeflyevent.com /event-history — "typical Free Fly lasts 10–14 days" copy
   - freeflyevent.com /is-star-citizen-free — "~10 days" comparison table
+  - dayonecitizen.com /day-one-citizen/worth-buying, /free-fly-events — "typically ten to fourteen days" copy (added 2026-10-02)
 ---
 
 Derived from the eight ledger event records (2022–2026): durations run 12–14 days. Phrase

@@ -14,6 +14,7 @@ usage:
   - bestspacesim.com /best-space-games — "best free space game" FAQ answer
   - dayonecitizen.com /day-one-citizen/worth-buying — "try before buying" FAQ answer
   - pledgemeaning.com / — "Do You Need to Pledge to Play?" Free Fly copy + FAQ
+  - dayonecitizen.com /free-fly-events — intro and status copy (added 2026-10-02)
 ---
 
 Consistent across all Free Fly announcement comm-links. Distinct from

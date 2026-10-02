@@ -8,6 +8,7 @@ sources:
 lastVerified: 2026-07-14
 usage:
   - dayonecitizen.com /fact-check — public fact-check entry
+  - dayonecitizen.com /day-one-citizen/worth-buying — "what you are actually paying for" live star systems (added 2026-10-02)
 ---
 
 Added 2026-07-14. Verify against the cited source(s) before re-use.
