@@ -9,6 +9,9 @@ lastVerified: 2026-10-02
 usage:
   - starcitizenhelp.com /game-guides/keybinds — TL;DR, flight tables, FAQ (corrected 2026-10-02 from "R")
   - dayonecitizen.com /day-one-citizen/keybinds — day-one keys + FAQ (corrected 2026-10-02 from "R")
+  - dayonecitizen.com /quick-reference — ship table (mirrors keybinds page)
+  - dayonecitizen.com /day-one-citizen/first-flight — power-on step + FAQ/JSON-LD (was "press 1")
+  - dayonecitizen.com /day-one-citizen/first-day — step 5 (was "press 1")
 ---
 
 **Primary source is CIG's own shipped default profile**, which is stronger than any KB article

@@ -9,6 +9,9 @@ lastVerified: 2026-10-02
 usage:
   - dayonecitizen.com /day-one-citizen/keybinds — bold day-one answer, keybind tables, FAQ
   - dayonecitizen.com /quick-reference — day-one keys, on-foot, flight, and capacitor tables (data mirrors the keybinds page; update both together)
+  - dayonecitizen.com /day-one-citizen/first-flight, /day-one-citizen/first-day — NAV step (hold B)
+  - dayonecitizen.com /beyond-the-basics/quantum-travel — master-mode steps + troubleshooting (hold B)
+  - starcitizenhelp.com /game-guides/keybinds — curated tables + full game-file list (2026-10-02)
 ---
 
 Getting Started in the 'Verse (edited 2025-06-23) confirms F = interaction key ("controls all interaction between you and the world"), F1 opens mobiGlas, N raises landing gear. How to Quantum Travel (edited 2025-06-12) confirms pressing B sets Master Mode to NAV before a quantum jump.
