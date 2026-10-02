@@ -131,6 +131,9 @@ CIG's deadline forces it.
      `migration-report.mjs` (6 source URLs)
    - `dashboard/data/sites.js`, `dashboard/index.html`, `commands.js`,
      `fetchers.js`
+   - `dayonecitizen-main`: `/day-one-citizen/keybinds` has a cross-domain
+     canonical to SCH's keybinds page (dayone PR #119). Repoint it to the
+     new host.
    - `cta-report.mjs`: treat both hostnames as one site in per-site rollups.
    - SCH repo: `.github/workflows/guide-drift.yml:76` (live-page URL),
      user-agent strings in `scripts/patch_notes.py:52` and
