@@ -15,6 +15,7 @@ usage:
   - o7meaning.com /faq — "no purchase required" in both referral FAQ answers (added 2026-07-18)
   - pledgemeaning.com / — referral bonus section + FAQ no-purchase clarification
   - starcitizenhelp.com /game-guides/referral-codes-explained — "what you get" + "does using a code cost me anything" FAQ
+  - starcitizenhelp.com /enlist — intro, step 3, "what you get", FAQ + FAQPage JSON-LD, "does and doesn't" list (2026-10-02); /getting-started — buy step 1 (corrected 2026-10-02 from "after your first game package purchase")
 ---
 
 Canon settled 2026-07-03. Do not conflate with the referrer's side: the *referring* player

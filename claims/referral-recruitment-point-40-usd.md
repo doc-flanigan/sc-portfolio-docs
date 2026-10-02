@@ -9,6 +9,7 @@ usage:
   - dayonecitizen.com /referral-code — "is it legit / who benefits" clarification
   - screferralbonus.com /about-the-bonus — "does the referrer get part of my bonus" FAQ
   - starcitizenhelp.com /game-guides/referral-codes-explained — "what the person who gave you the code gets" + referrer FAQ
+  - starcitizenhelp.com /enlist — referral card description, package FAQ + JSON-LD, "what we get" bullet (2026-10-02)
 ---
 
 Clears up the common confusion (seen in older marketing copy, including RSI's own signup-panel wording) that the 50,000 UEC bonus requires buying a game package. It does not: the bonus credits on free account creation. The $40 package spend only gates the REFERRER's Recruitment Point reward. Re-verify against the Referral Program FAQ each audit.
