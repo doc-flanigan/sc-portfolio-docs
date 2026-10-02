@@ -12,6 +12,7 @@ usage:
   - dayonecitizen.com /quick-reference — ship table (mirrors keybinds page)
   - dayonecitizen.com /day-one-citizen/first-flight — power-on step + FAQ/JSON-LD (was "press 1")
   - dayonecitizen.com /day-one-citizen/first-day — step 5 (was "press 1")
+  - dayonecitizen.com / (six-step path) + "Do this now" boxes on /day-one-citizen/keybinds and /first-flight — via src/data/day-one-steps.ts (added 2026-10-02)
 ---
 
 **Primary source is CIG's own shipped default profile**, which is stronger than any KB article

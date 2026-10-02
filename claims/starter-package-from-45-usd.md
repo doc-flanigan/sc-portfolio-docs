@@ -8,6 +8,7 @@ sources:
 lastVerified: 2026-09-28
 usage:
   - dayonecitizen.com /fact-check — pledge price entry
+  - dayonecitizen.com "Do this now" box on /day-one-citizen/starter-package — via src/data/day-one-steps.ts (added 2026-10-02)
   - dayonecitizen.com /day-one-citizen/worth-buying, /starter-package, /first-ship, /buying-the-game, /page, /ships-real-money, /is-star-citizen-on-steam, /free-fly-events, /beyond-the-basics/ccu-chains, /de/starterpaket, /de/star-citizen-kaufen, /de/lohnt-sich-star-citizen, /de/echtgeld-schiffe, /de/star-citizen-auf-steam, src/data/glossary.ts — entry-price copy
   - bestspacesim.com /is-star-citizen-worth-it, /is-star-citizen-a-scam, / — entry-price copy
   - freeflyevent.com /is-star-citizen-free, /should-i-buy — entry-price copy
