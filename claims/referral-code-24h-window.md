@@ -9,6 +9,7 @@ usage:
   - freeflyevent.com /event-guide — signup steps warning
   - freeflyevent.com /glossary — referral entry
   - freeflyevent.com /is-star-citizen-free — signup callout
+  - freeflyevent.com / (checklist step 1) + homepage referral panel (EventStatusBanner) — "cannot be added after about 24 hours, so the bonus never attaches" (2026-10-02; replaced "forfeited permanently")
   - screferralreward.com / + screferralbonus.com / — how-it-works copy
   - screferralreward.com /get-the-code — step 3 24-hour rule + FAQ
   - screferralbonus.com /how-to-use — grace-period warning + FAQ

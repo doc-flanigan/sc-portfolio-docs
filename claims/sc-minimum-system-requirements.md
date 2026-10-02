@@ -10,6 +10,7 @@ usage:
   - dayonecitizen.com / (six-step path) + "Do this now" box on /day-one-citizen/system-specs — 16 GB min / 32 GB rec RAM, 150 GB SSD, via src/data/day-one-steps.ts (added 2026-10-02)
   - iheldtheline.com /faq — specs FAQ entry
   - starcitizenhelp.com — getting-started guide specs section
+  - freeflyevent.com /event-guide step 03 + homepage checklist — "about 100 GB download, 150 GB free on an SSD" (added 2026-10-02)
 ---
 
 Pointer claim: the support article is the single canonical source for spec values (CPU,
