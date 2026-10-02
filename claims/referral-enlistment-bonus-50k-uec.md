@@ -20,8 +20,8 @@ usage:
   - o7meaning.com /faq, /in-star-citizen — mention
   - bestspacesim.com /star-citizen-vs/[slug] — mention
   - bestspacesim.com /is-star-citizen-worth-it — enlistment bonus + referral code copy
-  - 42ndsquadron.com / — CTA copy, EnlistButton, Footer disclosure, /about disclosure
-  - 42ndsquadron.com /answer-the-call — "how do you answer the call today" FAQ + CTA
+  - iheldtheline.com /answer-the-call — "how do you answer the call today" FAQ + CTA (moved from 42ndsquadron.com 2026-10-01)
+  - iheldtheline.com /42nd-squadron — bonus copy + CTA
   - pledgemeaning.com / — referral bonus section + FAQ (stale 5,000 figure fixed to canon 2026-07-12)
   - pledgemeaning.com /what-is-uec — "How to Get UEC" list + Live UEC card + FAQ + final CTA
   - pledgemeaning.com /what-is-lti, /what-is-ccu — final CTA copy

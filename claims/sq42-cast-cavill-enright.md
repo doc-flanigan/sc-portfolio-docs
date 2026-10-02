@@ -8,7 +8,6 @@ lastVerified: 2026-07-03
 usage:
   - iheldtheline.com /cast — cast grid card (+ /cast/henry-cavill detail)
   - iheldtheline-site/src/data/cast.ts — canonical cast record
-  - 42ndsquadron.com /characters — confirmed-roles table
 ---
 
 Confirmed in the official SQ42 cast comm-link (RSI id 20401; full text via

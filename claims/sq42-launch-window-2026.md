@@ -11,8 +11,8 @@ usage:
   - iheldtheline.com /sq42-vs-star-citizen — status row, "One Is Out" section + FAQ
   - iheldtheline.com /worth-buying — direct answer, development-status section + FAQ
   - iheldtheline-site/src/data/cast.ts — Sophie Wu bio references the press release
-  - 42ndsquadron.com / — quick-facts sidebar + hero copy; /faq data
-  - 42ndsquadron.com /answer-the-call — "answering the call in 2026" section + FAQ
+  - iheldtheline.com /answer-the-call — launch-window section + FAQ (moved from 42ndsquadron.com 2026-10-01)
+  - iheldtheline.com /42nd-squadron — launch-window section + FAQ (moved from 42ndsquadron.com 2026-10-01)
   - highestfundedgame.com / — "is Star Citizen released" FAQ answer (SQ42 2026 target)
   - bestspacesim.com /is-star-citizen-a-scam — release-window context
 ---

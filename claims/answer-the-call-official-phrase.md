@@ -6,7 +6,8 @@ sources:
   - https://robertsspaceindustries.com/en/comm-link/transmission/16801-Squadron-42-CitizenCon-Trailer
 lastVerified: 2026-07-05
 usage:
-  - 42ndsquadron.com /answer-the-call — page premise (origin section + FAQ)
+  - iheldtheline.com /answer-the-call — page premise (origin section + FAQ) (moved from 42ndsquadron.com 2026-10-01)
+  - iheldtheline.com /42nd-squadron — "answer the call" mention
 ---
 
 Comm-link 16801 verified via api.star-citizen.wiki 2026-07-05: title "Squadron 42 -

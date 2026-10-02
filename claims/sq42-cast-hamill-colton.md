@@ -10,7 +10,7 @@ usage:
   - iheldtheline.com /cast — cast grid card (+ /cast/mark-hamill detail)
   - iheldtheline.com /faq — cast FAQ entry
   - iheldtheline-site/src/data/cast.ts — canonical cast record
-  - 42ndsquadron.com /characters — confirmed-roles table; /history — Colton mention
+  - iheldtheline.com /42nd-squadron — Colton mention (moved from 42ndsquadron.com 2026-10-01)
 ---
 
 Confirmed in the official SQ42 cast comm-link (RSI id 20401; full text via
