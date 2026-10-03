@@ -59,9 +59,8 @@ Also hand-edit (these are hardcoded, they do NOT follow the data entry - see bug
    `active: true`, `itemName`, `itemDescription`, `startsAt`/`endsAt` as `YYYY-MM-DD` (inclusive, UTC), `sourceUrl`, `sourceLabel`.
    Renders in the "Any bonus event running right now?" block of `/referral-code`. It turns itself off after `endsAt` (page revalidates daily).
    Do not set it for the plain 50,000 UEC. Keep the single code `STAR-GCQJ-N6NC` everywhere.
-3. `dayonecitizen-main/src/app/referral-code/page.tsx` lines 342-347: hardcoded "The next one is expected around IAE in late November ...
-   It has not been announced yet." Hand-edit to the real dates on announcement day (BUG 3).
-4. Optional: `/free-fly-events` has no "upcoming" wording (BUG 4); it says "No Free Fly is running at the moment" until `start`. Acceptable, or add a line.
+3. `/referral-code` "next Free Fly" sentence and `/free-fly-events` "upcoming" state: **automatic once dayone #127 is merged** (both follow `NEXT_FREE_FLY`; all pages revalidate hourly). If #127 is NOT merged, hand-edit `referral-code/page.tsx` (~lines 342-347) to the real dates.
+4. **Hand-edit:** `dayonecitizen-main/src/app/day-one-citizen/starter-package/page.tsx`, `#sale` section ("When the sale window is"): replace "We have not seen official dates for IAE 2956 or a 2026 Anniversary sale yet" with the announced IAE dates + Comm-Link `<SourceLink>` (and the Anniversary sale only if CIG has announced it). Update the matching FAQ answer + JSON-LD. Added by dayone #128.
 
 ## 3. Deploy and verify (both sites)
 
