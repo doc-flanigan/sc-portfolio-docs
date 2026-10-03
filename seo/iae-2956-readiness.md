@@ -35,25 +35,25 @@ here as they land.
 
 ## Phase 1 — fix + build (Oct 6 – Oct 31)
 - [ ] Speed: only polish left (SCH guide text LCP ~3s on mobile; see baseline)
-- [ ] **freeflyevent measurement gap:** the EventStatusBanner hero/bar CTA logs clicks but no
+- [x] **freeflyevent measurement gap** (freeflyevent #20): the EventStatusBanner hero/bar CTA logs clicks but no
       impressions, so the site that converts during the event shows only ~105 impressions per 28
       days in the Sheet. Add impression logging to the banner CTA before IAE, so event CTR is
       measurable.
-- [ ] Sheet hygiene: preview deploys (`*.vercel.app`) and `localhost` write rows. Filter them in
+- [x] Sheet hygiene (cta-report.mjs filters them, 2026-10-02): preview deploys (`*.vercel.app`) and `localhost` write rows. Filter them in
       `cta-report.mjs`, or gate `/api/log` writes to production hosts.
-- [ ] Accuracy sweep:
+- [x] Accuracy sweep (2026-10-02, all six sites): live is still Alpha 4.10.1, and prices were already dated. PRs: dayone #126, freeflyevent #21, SCH #69, bestspacesim #5, iheldtheline #9, fundedgame #3. Ledger: added `sq42-release-q2-2027`, marked the 2026-target claims superseded, Manchester playtest verified, fixed the `$1,000` gifting claim. Loose ends: SCH `patch-status.ts` PTU build is behind (cron), the role-pack prices are undated, and the Steam / Game Pass wording dated "as of July 2026" needs a re-check.
   - [ ] prices are dated and checked against the live store page (the ld+json hides sales)
   - [ ] 4.10.x / "current patch" references
   - [ ] "next event" wording
   - [ ] ledger re-verify for buyer-facing claims
-- [ ] Announcement rehearsal on a preview branch:
+- [x] Announcement rehearsal (2026-10-02). See `iae-announcement-runbook.md`; nothing hard-failed. It found 6 copy bugs that don't follow the data; fixes are in progress (`fix/iae-flip-copy` on freeflyevent and dayone). Re-run the rehearsal after merge.
   - [ ] add a fake `iae-2026` to freeflyevent `events.ts`, then check that `/iae-2956`,
         `/next-free-fly`, `/free-fly-schedule`, `/is-star-citizen-free`, the banner, the
         countdown, `/free-fly.ics` and `llms.txt` all flip
   - [ ] the same for a `bonusOverride`
   - [ ] the same for dayone `next-free-fly.ts` and `referral-bonus.ts`
   - [ ] write the 5-minute announcement-day runbook from what this rehearsal shows
-- [ ] Sale-intent content (dayone, if the keyword check supports it): "Buying during IAE / the
+- [ ] Sale-intent content (`sale-intent-keywords-2026-10.md`): 0 measured volume for sale phrases. Recommendation: a "buying during a sale" section on dayone `/starter-package` (which already ranks #1–4 for "star citizen starter pack") rather than a new page. **Doc to decide.** Original item: "Buying during IAE / the
       Anniversary sale — which starter, what to skip". Update `keyword-research.md` first.
 - [ ] Getting-started video refresh for 4.10.x (Doc's top priority; video pipeline)
 - [ ] Low-CTR CTAs worth a look (≥ 100 impressions, 0–0.6% CTR, last 28d):
