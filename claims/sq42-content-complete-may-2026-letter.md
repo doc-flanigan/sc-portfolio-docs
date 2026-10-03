@@ -12,6 +12,12 @@ usage:
   - bestspacesim.com /is-star-citizen-a-scam — "SQ42 is actually playable" rebuttal
 ---
 
+**SUPERSEDED 2026-10-02 as a statement of the CURRENT target:** the August 27, 2026 Letter from the
+Chairman (comm-link 21301) moved Squadron 42 to a **Q2 2027** window — see `sq42-release-q2-2027`.
+This claim stays true as history ("CIG announced / restated a 2026 window"), but no page may present
+2026 as the current target. Every usage below must also state the Q2 2027 window.
+
+
 Verified against the full letter body (comm-link 20960 via api.star-citizen.wiki, published
 2026-05-25). Exact phrases: "push Squadron 42 toward Beta and release in 2026", "All
 chapters are now fully playable from beginning to end", "over forty hours in length".
