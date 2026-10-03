@@ -1,15 +1,25 @@
 ---
 id: sq42-manchester-playtest-oct-2026
-claim: "CIG is hosting an invite-only three-day Squadron 42 hands-on event at its Manchester studio, October 9–11, 2026, communicated via private invitation emails to longtime backers."
-status: unverifiable
-lastVerified: 2026-07-13
+claim: "CIG is hosting an invite-only three-day Squadron 42 event at its Manchester studio, October 9–11, 2026, for selected original backers and long-time content creators; the August 27, 2026 Letter from the Chairman confirms they will play Squadron 42 on October 9 and 10."
+status: verified
+lastVerified: 2026-10-02
 sources:
+  - https://robertsspaceindustries.com/en/comm-link/transmission/21301-Letter-From-The-Chairman
+  - iheldtheline-site/public/images/news/sq42-playtest-invite-email-oct-2026.png (CIG invitation email, recipient redacted)
 usage:
   - iheldtheline.com /playtest-event — entire page (direct answer, What We Know, The Invitation, FAQ, Event JSON-LD)
   - iheldtheline.com /news — timeline entry dated 2026-07-11
   - iheldtheline.com /llms.txt — key fact
   - iheldtheline-site/src/data/news.ts — news entry sq42-playtest-event-october-2026-manchester
 ---
+
+**Verified 2026-10-02:** public confirmation exists — comm-link 21301 (Letter from the Chairman,
+2026-08-27): "We are allowing a small number of original backers and long-time Star Citizen
+content creators an opportunity to play Squadron 42 this October 9th and 10th." The invitation
+email's Fri Oct 9 – Sun Oct 11 is the full studio event; Oct 9–10 are the named play days. Phrase
+it that way (iheldtheline /playtest-event already does). Prior `unverifiable` status (July) predates
+the letter.
+
 
 Primary evidence is the CIG invitation email itself — a recipient's copy (name redacted)
 is archived at `iheldtheline-site/public/images/news/sq42-playtest-invite-email-oct-2026.png`.
