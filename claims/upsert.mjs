@@ -46,6 +46,16 @@ function flags(names) {
 }
 const yamlStr = (s) => '"' + String(s).replace(/"/g, "'").trim() + '"';
 
+// A claim passed in double quotes through bash loses "$1"-style tokens:
+// "$1,000" arrives as ",000" (happened 2026-10-02, high-value-pledges-not-giftable).
+// Refuse text that looks like that instead of writing it to the ledger.
+function guardShellMangled(label, s) {
+  if (/(^|[\s(])[,.]\d{3}(?!\d)/.test(s) || /\s{2,}(USD|EUR|GBP)\b/.test(s)) {
+    fail(`${label} looks shell-mangled (a "$" amount was probably expanded away): ${JSON.stringify(s)}. ` +
+      `Pass it in SINGLE quotes, e.g. --claim 'Pledges above $1,000 USD …'.`);
+  }
+}
+
 if (cmd === 'verify' || cmd === 'status') {
   if (!existsSync(file)) fail(`no claim "${id}" — nothing to ${cmd}. Use \`add\` to create it.`);
   let txt = readFileSync(file, 'utf8');
@@ -71,6 +81,7 @@ if (cmd === 'correct') {
   if (!existsSync(file)) fail(`no claim "${id}" — nothing to correct. Use \`add\` to create it.`);
   const correction = argv[2];
   if (!correction) fail('correct requires the accurate statement as the third argument');
+  guardShellMangled('correction', correction);
   let txt = readFileSync(file, 'utf8');
   const fm = txt.match(/^---\r?\n[\s\S]*?\r?\n---/);
   if (!fm) fail(`"${id}.md" has no frontmatter block`);
@@ -92,6 +103,8 @@ if (cmd === 'add') {
   const claim = f.claim[0];
   const status = f.status[0] || 'verified';
   if (!claim) fail('add requires --claim "…"');
+  guardShellMangled('--claim', claim);
+  for (const c of f.correction) guardShellMangled('--correction', c);
   if (!['verified', 'unverifiable', 'refuted'].includes(status)) fail('--status must be verified | unverifiable | refuted');
   if (!f.source.length) fail('add requires at least one --source <url>');
   const lines = [

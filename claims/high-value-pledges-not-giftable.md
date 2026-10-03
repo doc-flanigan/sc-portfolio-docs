@@ -1,6 +1,6 @@
 ---
 id: high-value-pledges-not-giftable
-claim: "Pledges with a value above ,000 USD cannot be gifted or traded."
+claim: "Pledges with a value above $1,000 USD cannot be gifted or traded."
 status: verified
 sources:
   - https://support.robertsspaceindustries.com/hc/en-us/articles/360042050774-Why-can-t-I-send-this-pledge-as-a-gift
