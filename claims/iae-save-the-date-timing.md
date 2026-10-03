@@ -7,6 +7,7 @@ sources:
 lastVerified: 2026-09-28
 usage:
   - freeflyevent.com /iae-2956 — lead paragraph + "When is IAE 2956?" FAQ (pattern-based expectation for 2956)
+  - dayonecitizen.com /day-one-citizen/starter-package — "Buying during IAE or the Anniversary sale" section (#sale) + FAQ (added 2026-10-02)
 ---
 
 Verified 2026-09-28 from the local comm-link corpus (Spectrum CIG-staff posts by Nicou-CIG:

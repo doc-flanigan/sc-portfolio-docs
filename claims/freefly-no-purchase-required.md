@@ -15,6 +15,7 @@ usage:
   - dayonecitizen.com /day-one-citizen/worth-buying — "try before buying" FAQ answer
   - pledgemeaning.com / — "Do You Need to Pledge to Play?" Free Fly copy + FAQ
   - dayonecitizen.com /free-fly-events — intro and status copy (added 2026-10-02)
+  - dayonecitizen.com /day-one-citizen/starter-package — "Buying during IAE or the Anniversary sale" section (#sale) + FAQ (added 2026-10-02)
 ---
 
 Consistent across all Free Fly announcement comm-links. Distinct from

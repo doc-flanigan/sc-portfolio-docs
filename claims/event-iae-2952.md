@@ -8,6 +8,7 @@ lastVerified: 2026-07-04
 usage:
   - freeflyevent.com /event-history — event timeline entry
   - freeflyevent-site/src/data/events.ts — canonical record (id iae-2022, 2022-11-18T16:00Z → 2022-11-30T17:00Z)
+  - dayonecitizen.com /day-one-citizen/starter-package — "Buying during IAE or the Anniversary sale" section (#sale) + FAQ (added 2026-10-02)
 ---
 
 Dates verified against the comm-link during the 2026-07-04 freeflyevent revitalization

@@ -29,6 +29,7 @@ usage:
   - dayonecitizen.com /day-one-citizen/ships-real-money — earn-ships-in-game section
   - dayonecitizen.com /de/referral-code + /de/echtgeld-schiffe — Startguthaben copy (German)
   - starcitizenhelp.com /game-guides/referral-codes-explained — TL;DR, "what you get", stale-5,000 warning, FAQ + FAQPage JSON-LD
+  - dayonecitizen.com /day-one-citizen/starter-package — "Buying during IAE or the Anniversary sale" section (#sale) + FAQ (added 2026-10-02)
 ---
 
 Network-wide canon settled 2026-07-03 after SCH and freeflyevent contradicted each other.
