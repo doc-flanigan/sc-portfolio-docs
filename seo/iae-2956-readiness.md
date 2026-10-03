@@ -35,7 +35,7 @@ here as they land.
 
 ## Phase 1 — fix + build (Oct 6 – Oct 31)
 - [ ] Speed: only polish left (SCH guide text LCP ~3s on mobile; see baseline)
-- [x] **freeflyevent measurement gap** (freeflyevent #20): the EventStatusBanner hero/bar CTA logs clicks but no
+- [x] **freeflyevent measurement gap** (freeflyevent #20, merged and live 2026-10-02): the EventStatusBanner hero/bar CTA logs clicks but no
       impressions, so the site that converts during the event shows only ~105 impressions per 28
       days in the Sheet. Add impression logging to the banner CTA before IAE, so event CTR is
       measurable.
@@ -46,7 +46,7 @@ here as they land.
   - [ ] 4.10.x / "current patch" references
   - [ ] "next event" wording
   - [ ] ledger re-verify for buyer-facing claims
-- [x] Announcement rehearsal (2026-10-02). See `iae-announcement-runbook.md`; nothing hard-failed. It found 6 copy bugs that don't follow the data; fixes are in progress (`fix/iae-flip-copy` on freeflyevent and dayone). Re-run the rehearsal after merge.
+- [x] Announcement rehearsal (2026-10-02). See `iae-announcement-runbook.md`; nothing hard-failed. It found 6 copy bugs that don't follow the data; fixed in **freeflyevent #22** and **dayone #127** (all four states re-tested with a fake entry). After they merge, run one final rehearsal in Phase 2.
   - [ ] add a fake `iae-2026` to freeflyevent `events.ts`, then check that `/iae-2956`,
         `/next-free-fly`, `/free-fly-schedule`, `/is-star-citizen-free`, the banner, the
         countdown, `/free-fly.ics` and `llms.txt` all flip
