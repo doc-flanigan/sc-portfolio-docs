@@ -4,7 +4,7 @@ claim: "The Citizen Starter Pack (list price $60 USD) is a game package that inc
 status: verified
 sources:
   - https://robertsspaceindustries.com/pledge/Packages/Citizen-Starter-Pack
-lastVerified: 2026-09-28
+lastVerified: 2026-10-07
 usage:
   - dayonecitizen.com /fact-check — pledge package reference; freeflyevent-site /should-i-buy — starter pack comparison
   - dayonecitizen.com /day-one-citizen/worth-buying, /starter-package, /first-ship, /buying-the-game, /page, /ships-real-money, /is-star-citizen-on-steam, /free-fly-events, /beyond-the-basics/ccu-chains, /de/starterpaket, /de/star-citizen-kaufen, src/data/glossary.ts — price copy (corrected 2026-09-27 from stale $45)

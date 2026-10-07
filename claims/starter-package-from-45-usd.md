@@ -5,7 +5,7 @@ status: verified
 sources:
   - https://robertsspaceindustries.com/pledge/Packages/Citizen-Starter-Pack
   - https://robertsspaceindustries.com/pledge/game-packages
-lastVerified: 2026-09-28
+lastVerified: 2026-10-07
 usage:
   - dayonecitizen.com /fact-check — pledge price entry
   - dayonecitizen.com "Do this now" box on /day-one-citizen/starter-package — via src/data/day-one-steps.ts (added 2026-10-02)

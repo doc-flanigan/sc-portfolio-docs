@@ -4,7 +4,7 @@ claim: "The Citizen Starter Pack includes 10,000 UEC (account currency) and six 
 status: verified
 sources:
   - https://robertsspaceindustries.com/pledge/Packages/Citizen-Starter-Pack
-lastVerified: 2026-09-28
+lastVerified: 2026-10-07
 usage:
   - dayonecitizen.com /day-one-citizen/buying-the-game, /day-one-citizen/first-ship, /day-one-citizen/starter-package, /day-one-citizen/ships-real-money, /de/starterpaket, /de/star-citizen-kaufen, /de/lohnt-sich-star-citizen, /de/referral-code, src/data/glossary.ts — pack-contents copy (corrected 2026-09-28 from stale "1,000/10,000/20,000 aUEC" currency errors and from incorrect "Lifetime Insurance" claims; the live RSI store page shows 6-month insurance, not LTI)
   - bestspacesim.com /is-star-citizen-a-scam — pack contents (10,000 UEC)
