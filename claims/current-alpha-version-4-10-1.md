@@ -11,7 +11,8 @@ usage:
   - bestspacesim.com /is-star-citizen-a-scam, /is-star-citizen-worth-it, /star-citizen — "current live build" copy
 ---
 
-SUPERSEDED 2026-10-09 by current-alpha-version-4-10-2 (4.10.2 deployed 2026-10-09).
+**SUPERSEDED 2026-10-09 by current-alpha-version-4-10-2** (kept as history because "did
+4.10.1 wipe" answers still render; do not cite as the current build).
 
 Flipped 2026-09-27 (supersedes current-alpha-version-4-10-0, retained as history because
 "did 4.10 wipe" answers still render). Released **2026-09-16** — the sites said "on PTU,

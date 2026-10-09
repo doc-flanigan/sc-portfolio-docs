@@ -2,7 +2,7 @@
 id: sq42-manchester-playtest-oct-2026
 claim: "CIG is hosting an invite-only three-day Squadron 42 event at its Manchester studio, October 9–11, 2026, for selected original backers and long-time content creators; the August 27, 2026 Letter from the Chairman confirms they will play Squadron 42 on October 9 and 10."
 status: verified
-lastVerified: 2026-10-02
+lastVerified: 2026-10-09
 sources:
   - https://robertsspaceindustries.com/en/comm-link/transmission/21301-Letter-From-The-Chairman
   - iheldtheline-site/public/images/news/sq42-playtest-invite-email-oct-2026.png (CIG invitation email, recipient redacted)
@@ -12,6 +12,10 @@ usage:
   - iheldtheline.com /llms.txt — key fact
   - iheldtheline-site/src/data/news.ts — news entry sq42-playtest-event-october-2026-manchester
 ---
+
+**2026-10-09 (day one of the event):** re-checked; no newer official statement. The page
+should now read as underway/past tense and point at sq42-release-date-announcement-after-playtest
+for what CIG said comes next. Unofficial attendee coverage exists but is not a source.
 
 **Verified 2026-10-02:** public confirmation exists — comm-link 21301 (Letter from the Chairman,
 2026-08-27): "We are allowing a small number of original backers and long-time Star Citizen

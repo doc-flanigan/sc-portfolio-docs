@@ -1,37 +1,43 @@
 ---
 id: current-alpha-version-4-10-2
-claim: "The current live Star Citizen build is Alpha 4.10.2 (build 4.10.2-live.12881860), deployed October 9, 2026; the deployment was routine maintenance with no mention of a wipe or reset."
+claim: "The current live Star Citizen build is Alpha 4.10.2, released October 9, 2026 as build 4.10.2-LIVE.12881860; its release notes list Long Term Persistence as preserved (no wipe), with new accounts starting on 20,000 aUEC."
 status: verified
 sources:
-  - https://status.robertsspaceindustries.com/issues/2026-10-09_live-deployment/
-  - https://support.robertsspaceindustries.com/hc/en-us/articles/360056254754-Star-Citizen-Alpha-4-10-2-Known-Issues
+  - https://robertsspaceindustries.com/en/comm-link/Patch-Notes/21351-Star-Citizen-Alpha-4102
+  - https://robertsspaceindustries.com/patch-notes
+  - https://status.robertsspaceindustries.com/issues/2026-10-09_live-deployment/index.html
 lastVerified: 2026-10-09
 usage:
-  - dayonecitizen.com /day-one-citizen/next-wipe — current-patch header + "did 4.10.2 wipe" answer (no)
+  - starcitizenhelp.com /updates — current-patch header + 4.10.2 entry + RELEASE_FACTS FAQ
+  - starcitizenhelp.com /game-guides/rsi-discovery-month — "arrived with Alpha 4.10.2" line
+  - dayonecitizen.com /day-one-citizen/next-wipe — next-wipe answer + "did 4.10.2 wipe" answer (no)
+  - bestspacesim.com /is-star-citizen-a-scam, /is-star-citizen-worth-it, /star-citizen — "current live build" copy
+  - StarCitizenHelp-live/src/data/patch-status.ts — LIVE_VERSION
 ---
 
-Flipped 2026-10-09 (supersedes current-alpha-version-4-10-1, retained as history because
-"did 4.10.1 wipe" answers still render). Triggered by a source-watch hit on the RSI status
-page for the 2026-10-09 live deployment issue.
+Flipped 2026-10-09, the day of release (supersedes current-alpha-version-4-10-1, retained as
+history because "did 4.10.1 wipe" answers still render). First release pass on time: the
+source-watch autopilot opened dayone PR #134 within hours, and this session caught it the
+same day.
 
-Confirmed via the RSI status page issue body: "The Live Service is currently in
-maintenance to deploy Star Citizen Alpha 4.10.2" and the 1400 UTC update line "Star
-Citizen Alpha 4.10.2-live.12881860 available for download, Servers online." The matching
-Known Issues KB article (360056254754) carries an `edited_at` of 2026-10-09, corroborating
-4.10.2 as the live build.
+Build Information block in the LIVE notes (comm-link 21351, header "October 9th, 2026"):
+`VERSION 4.10.2-LIVE.12881860`, "Long Term Persistence: LTP Preserved", "Starting aUEC:
+20,000". The explicit LTP line exists, so "the release notes list LTP as preserved" is a fair
+paraphrase. There is NO separate wipe sentence — do not write "the notes say no wipe".
 
-**LTP / starting-aUEC not independently confirmed for this patch.** Unlike the 4.10.1 flip,
-the official Patch-Notes comm-link for 4.10.2 was not yet retrievable via either sanctioned
-fetch path (api.star-citizen.wiki/api/comm-links had not indexed it; comm-link 21334 that a
-verification pass pointed at is "RSI Discovery Month," an unrelated Discovery Month event
-post, not the release notes) at the time of this entry. Per
-[[feedback_fact_check_absence]], absence of a wipe statement in the deployment notice is
-not proof of "no wipe" — so site copy says only that the deployment notice itself describes
-routine maintenance with no reset language, and carries forward the 20,000 aUEC starting
-figure from 4.10.1 (new-character-starting-auec-20000.md) rather than asserting it was
-reconfirmed in 4.10.2's own notes.
+TRAP: the Spectrum abridged LIVE post (channel 190048) prints "VERSION 4.10.1-LIVE.12881860"
+— a typo. Use the RSI comm-link build string.
 
-Version-dependent and incomplete — next pass should re-fetch the Patch-Notes comm-link (it
-should post the same day; the delay appears to be wiki-mirror indexing lag, not CIG not
-publishing it), confirm or correct the LTP/aUEC statement, and update this claim plus
-dayonecitizen.com's "did 4.10.2 wipe" answer with the explicit Build Information line.
+Headline content (Spectrum LIVE post + Discovery thread, 2026-10-09): RSI Discovery Month
+in-game event (see rsi-discovery-month-event), RSI Constellation Mk IV Gold Standard update,
+Physics Networking Overhaul, experimental VR updates; "closes 71 bugs and 5 stability issues
+since 4.10.1 went live", 13 via the Issue Council. Deployment: servers offline 10:30 UTC,
+window "not expected to exceed 4 hours".
+
+Next in PTU: nothing found in channel 190048 as of 2026-10-09. Version-dependent — on the
+next release, re-check the LIVE notes, flip this claim, update every usage page above, and
+end with sync-claims + gen-sources + deploy.
+
+History: the source-watch autopilot wrote a first version of this claim on 2026-10-09 sourced
+only to the RSI status page (routine-maintenance wording, LTP unconfirmed). Replaced the same day
+with this comm-link-21351-sourced version once the Patch-Notes post was readable.
