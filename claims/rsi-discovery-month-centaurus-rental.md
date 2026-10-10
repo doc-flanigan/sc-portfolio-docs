@@ -5,7 +5,7 @@ status: verified
 sources:
   - https://robertsspaceindustries.com/spectrum/community/SC/forum/1/thread/alpha-4-10-2-rsi-discovery-month
   - https://robertsspaceindustries.com/spectrum/community/SC/forum/4/thread/4-10-2-live-feedback-rsi-centaurus/9168311
-lastVerified: 2026-10-09
+lastVerified: 2026-10-10
 usage:
   - starcitizenhelp.com /game-guides/rsi-discovery-month — "How to get the free Centaurus rental" section
   - freeflyevent.com /free-ships-right-now — rental callout
