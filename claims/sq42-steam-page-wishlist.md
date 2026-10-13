@@ -3,9 +3,10 @@ id: sq42-steam-page-wishlist
 claim: "Squadron 42 has an official Steam store page (app 4045720, published by Roberts Space Industries, developed by Cloud Imperium Games) that went live on October 10, 2026; it can be wishlisted but not bought, lists a planned release of Q2 2027, Windows only, and notes support for linking a Roberts Space Industries account to a Steam account."
 status: verified
 sources:
+  - https://robertsspaceindustries.com/en/comm-link/transmission/21374-This-Week-In-Star-Citizen
   - https://store.steampowered.com/app/4045720/
   - https://store.steampowered.com/api/appdetails?appids=4045720&cc=us&l=en
-lastVerified: 2026-10-11
+lastVerified: 2026-10-13
 usage:
   - iheldtheline.com /steam — entire page (direct answer, wishlist, release window, requirements, account linking, FAQ)
   - iheldtheline.com /faq — "Will Squadron 42 be on Steam or consoles?" + "Where can I buy Squadron 42?"
@@ -46,3 +47,7 @@ Flip this note when a comm-link or official video is found.
 Squadron 42, the separate single-player game, and link iheldtheline.com/steam for details.
 Q2 2027 on Steam matches the Aug 27 Letter from the Chairman (sq42-release-q2-2027); it is a
 window label, not a date.
+
+**2026-10-13:** CIG now references the Steam page officially. This Week in Star Citizen (21374, Oct 12)
+says "enjoy the Squadron 42 Trailer, and Wishlist on Steam!". Sites may now say CIG points players to
+the Steam page. The go-live date (Oct 10) still comes from Steam, and no CIG comm-link announces the launch itself.
