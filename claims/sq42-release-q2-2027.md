@@ -4,7 +4,8 @@ claim: "In the August 27, 2026 Letter from the Chairman, CIG moved Squadron 42 f
 status: verified
 sources:
   - https://robertsspaceindustries.com/en/comm-link/transmission/21301-Letter-From-The-Chairman
-lastVerified: 2026-10-03
+  - https://support.robertsspaceindustries.com/hc/en-us/articles/360042914633-Where-can-I-download-Squadron-42
+lastVerified: 2026-10-13
 usage:
   - iheldtheline.com (release-date, FAQ, worth-buying) — updated 2026-08-27; re-check other sites citing sq42-launch-window-2026
   - bestspacesim.com /is-star-citizen-a-scam — release-window context + FAQ (bestspacesim-site PR #5, 2026-10-02)
