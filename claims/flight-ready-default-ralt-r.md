@@ -3,9 +3,9 @@ id: flight-ready-default-ralt-r
 claim: "In Star Citizen's default keyboard bindings, Flight / Systems Ready is Right Alt + R (not R). Plain R reloads on foot and cycles the sub-target in a ship. U toggles power to all ship systems."
 status: verified
 sources:
-  - "Star Citizen game files (CIG): Data.p4k → Data/Libs/Config/defaultProfile.xml, actions v_flightready = ralt+r (spaceship_general, vehicle_general), v_power_toggle = u; label ui_CICockpitFlightReady = 'Flight / Systems Ready' in Localization/english/global.ini. Build sc-alpha-4.10.0-hotfix (2026-08-28). Extracted with sc-portfolio tools/keybinds/."
+  - "Star Citizen game files (CIG): Data.p4k → Data/Libs/Config/defaultProfile.xml, actions v_flightready = ralt+r (spaceship_general, vehicle_general), v_power_toggle = u; label ui_CICockpitFlightReady = 'Flight / Systems Ready' in Localization/english/global.ini. Build sc-alpha-4.10.0-hotfix (2026-08-28); re-checked on sc-alpha-4.10.2 (2026-10-12), file unchanged. Extracted with sc-portfolio tools/keybinds/."
   - https://support.robertsspaceindustries.com/hc/en-us/articles/360025028633-Getting-Started-in-the-Verse
-lastVerified: 2026-10-02
+lastVerified: 2026-10-14
 usage:
   - starcitizenhelp.com /game-guides/keybinds — TL;DR, flight tables, FAQ (corrected 2026-10-02 from "R")
   - dayonecitizen.com /day-one-citizen/keybinds — day-one keys + FAQ (corrected 2026-10-02 from "R")
