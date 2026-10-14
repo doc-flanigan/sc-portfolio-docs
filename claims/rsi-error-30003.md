@@ -7,6 +7,7 @@ sources:
 lastVerified: 2026-10-14
 usage:
   - starcitizenhelp.com /tools/game-log-checker — error-code finding text (src/lib/gamelog/errorCodes.ts)
+  - starcitizenhelp.com /game-guides/error-codes — error-code entry (src/data/game-messages.curated.json)
 ---
 
 RSI KB "Error Code 30003" (updated 2026-08-28): "most reports are pointing to network issues and the likely resulting file corruption. Another likely cause are programs that are trying to manage Internet data."

@@ -7,6 +7,7 @@ sources:
 lastVerified: 2026-10-14
 usage:
   - starcitizenhelp.com /tools/game-log-checker — error-code finding text (src/lib/gamelog/errorCodes.ts)
+  - starcitizenhelp.com /game-guides/error-codes — error-code entry (src/data/game-messages.curated.json)
 ---
 
 RSI KB "Error Code 19000 / 19005" (updated 2026-07-31): "This is not related to the Multi-Factor Authentication that players use to login to their account, but instead is related to your computer and account connecting properly with the game servers and data."

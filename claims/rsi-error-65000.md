@@ -7,6 +7,7 @@ sources:
 lastVerified: 2026-10-14
 usage:
   - starcitizenhelp.com /tools/game-log-checker — error-code finding text (src/lib/gamelog/errorCodes.ts)
+  - starcitizenhelp.com /game-guides/error-codes — error-code entry (src/data/game-messages.curated.json)
 ---
 
 RSI KB "Error Code 65000" (updated 2026-07-29): "something went wrong while the game client was attempting to load into the Persistent Universe (PU) ... usually it is caused by temporary network issues that resolve themselves over time."

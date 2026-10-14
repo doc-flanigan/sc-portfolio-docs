@@ -7,6 +7,7 @@ sources:
 lastVerified: 2026-10-14
 usage:
   - starcitizenhelp.com /tools/game-log-checker — error-code finding text (src/lib/gamelog/errorCodes.ts)
+  - starcitizenhelp.com /game-guides/error-codes — error-code entry (src/data/game-messages.curated.json) + FAQ "What does Star Citizen error 41070 mean?"
 ---
 
 RSI KB "Error Code 41070" (updated 2026-09-22): "This particular error generally means that some strange issue has occurred with your character which is causing troubles when trying to play."
