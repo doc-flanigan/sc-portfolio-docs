@@ -1,10 +1,10 @@
 ---
 id: quantum-travel-sequence
-claim: "In current Star Citizen (Alpha 4.10), quantum travel works by pressing B once to switch Master Mode to NAV, middle-clicking to cycle Operating Mode to QT, setting a route (Starmap or a destination marker), letting the quantum drive auto-calibrate (no hold required), then left-clicking to begin the jump, which ends automatically at the destination (planetside arrivals land about 30 km above/near the surface location)."
+claim: "In current Star Citizen (Alpha 4.10.2), quantum travel works by holding B briefly (a short hold, about a quarter second; a quick tap does nothing) to switch Master Mode to NAV, middle-clicking to cycle Operating Mode to QT, setting a route (Starmap or a destination marker), letting the quantum drive auto-calibrate, then holding the left mouse button briefly to begin the jump, which ends automatically at the destination (planetside arrivals land about 30 km above/near the surface location)."
 status: verified
 sources:
   - https://support.robertsspaceindustries.com/hc/en-us/articles/360019449994-How-to-Quantum-Travel
-lastVerified: 2026-09-16
+lastVerified: 2026-10-14
 usage:
   - dayonecitizen.com /beyond-the-basics/quantum-travel — metadata, hero, step-by-step, Starmap section, tips, troubleshooting, interdiction section
   - dayonecitizen.com /beyond-the-basics — quantum-travel guide card description
@@ -17,6 +17,18 @@ usage:
   - starcitizenhelp.com /game-guides/keybinds — TL;DR and keybind list B-key entries (src/data/guides.ts)
   - StarCitizenHelp-live/src/data/drafts/guide-15-quantum-travel.txt — dead draft mirror of guide 15, kept in sync for consistency (not rendered on the live site)
 ---
+
+**CORRECTED 2026-10-14: B and the jump click are short HOLDS, not single presses.** The earlier
+"single press, not a hold" reading came from the RSI KB article, which says only "pressing the B
+key" and "click the Left-Mouse Button" (article body last edited 2025-06-12). The game's own
+defaultProfile.xml (identical in 4.10.0-hotfix and the 4.10.2 build of 2026-10-12; extracted with
+tools/keybinds) binds `v_master_mode_cycle_long` ("Cycle Master Mode (Long Press)") to `b` and
+`v_toggle_qdrive_engagement` ("Engage Quantum Drive (Hold)") to `mouse1`, both
+`activationMode="delayed_press"`. That mode fires only after `pressTriggerThreshold="0.25"`
+seconds held. The tap variant `v_master_mode_cycle` is unbound. Middle mouse (`mouse3`) is
+`v_operator_mode_cycle_forward`, a tap. dayone already said "hold B" (via keybinds-core-defaults).
+SCH's quantum guide said "a single press, not a hold" and was fixed 2026-10-14. When the KB and
+the game files disagree on input timing, the game files win.
 
 Superseded the old "hold B to spool, press B again to jump" (and one spot's
 "hold R to spool") mechanic our copy described. Confirmed against the RSI
