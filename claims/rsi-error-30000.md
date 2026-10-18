@@ -9,6 +9,7 @@ usage:
   - starcitizenhelp.com /tools/game-log-checker — error-code finding text (src/lib/gamelog/errorCodes.ts)
   - starcitizenhelp.com /tools/game-log-checker — FAQ "What does error 30000 mean?"
   - starcitizenhelp.com /game-guides/error-codes — error-code entry (src/data/game-messages.curated.json) + FAQ "What does Star Citizen error 30000 mean?"
+  - dayonecitizen.com /day-one-citizen/first-flight — "Your first week" 30k section, dayonecitizen.com /day-one-citizen/first-day, dayonecitizen.com /day-one-citizen/first-launch (bedlog 30k notes), dayonecitizen.com /day-one-citizen/worth-buying — error code 30000 line (2026-10-18)
 ---
 
 RSI KB "Error Code 30000" (updated 2026-07-29): "Code 30000 is our general timeout message. This appears when the player loses connection to the game server (server crash) or times out connecting but remains connected to the hub server."

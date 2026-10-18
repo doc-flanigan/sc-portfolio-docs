@@ -10,6 +10,7 @@ usage:
   - bestspacesim.com /is-star-citizen-a-scam — pack contents (10,000 UEC)
   - freeflyevent.com /should-i-buy — pack contents table (10,000 UEC + 50,000 referral UEC)
   - dayonecitizen.com /day-one-citizen/worth-buying — "what you are actually paying for" pack contents (added 2026-10-02)
+  - dayonecitizen.com /day-one-citizen/worth-buying, dayonecitizen.com /day-one-citizen/starter-package, dayonecitizen.com /day-one-citizen/buying-the-game — "10,000 UEC on your account" + six-month insurance wording (2026-10-18)
 ---
 
 Verified 2026-09-28 from the live store page (pasted by Doc): "Includes: 1 Vehicle

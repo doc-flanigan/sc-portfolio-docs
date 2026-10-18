@@ -8,6 +8,7 @@ lastVerified: 2026-07-15
 usage:
   - starcitizenhelp.com /fact-check-style pages — item recovery mechanics
   - dayonecitizen.com /fact-check — item recovery claim
+  - dayonecitizen.com /day-one-citizen/first-flight — "Your first week" death section (backpack and pocket contents stay on your body, even in a landing zone) (2026-10-18)
 ---
 
 Added 2026-07-15. Verify against the cited source(s) before re-use.

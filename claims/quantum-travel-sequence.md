@@ -16,6 +16,8 @@ usage:
   - starcitizenhelp.com /game-guides/how-to-quantum-travel — metaDescription, TL;DR, step-by-step, Starmap section, tips, troubleshooting, interdiction section, FAQ details, HowTo/FAQPage JSON-LD (guide id 15, src/data/guides.ts)
   - starcitizenhelp.com /game-guides/keybinds — TL;DR and keybind list B-key entries (src/data/guides.ts)
   - StarCitizenHelp-live/src/data/drafts/guide-15-quantum-travel.txt — dead draft mirror of guide 15, kept in sync for consistency (not rendered on the live site)
+  - dayonecitizen.com /day-one-citizen/first-flight — quantum-travel body steps + FAQ answer (map route, B hold to NAV, middle-click to QT) (2026-10-18)
+  - dayonecitizen.com /day-one-citizen/first-day — flight section QT steps (2026-10-18)
 ---
 
 **CORRECTED 2026-10-14: B and the jump click are short HOLDS, not single presses.** The earlier

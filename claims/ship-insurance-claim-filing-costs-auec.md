@@ -7,6 +7,7 @@ sources:
 lastVerified: 2026-07-29
 usage:
   - Source verification pass 2026-07-29
+  - dayonecitizen.com /day-one-citizen/first-flight — "Filing a claim can cost aUEC", dayonecitizen.com /day-one-citizen/pledge-vs-purchase — "fee in aUEC or a waiting period" (2026-10-18)
 ---
 
 Added 2026-07-29. Verify against the cited source(s) before re-use.

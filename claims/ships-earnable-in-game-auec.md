@@ -11,6 +11,7 @@ usage:
   - bestspacesim.com /is-star-citizen-worth-it — "what it costs" section (earnable-in-game framing)
   - dayonecitizen.com /beyond-the-basics/shops-directory — "buy ships with in-game money" FAQ (catalogue-smaller-than-pledge-store framing)
   - dayonecitizen.com /quick-reference — "Ships (buy with aUEC)" lookup row + catalogue-smaller note
+  - dayonecitizen.com /day-one-citizen/worth-buying — "Other ships are meant to be earnable in-game ... not every ship is for sale in-game yet" (2026-10-18)
 ---
 
 RSI support: 'all ships will also be available for in-game currency in the future if they aren't already.' Phrase as CIG's stated policy/design goal, not a blanket present-tense guarantee that every ship is earnable today.

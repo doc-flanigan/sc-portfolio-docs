@@ -9,6 +9,7 @@ usage:
   - starcitizenhelp.com src/data/glossary.ts — Melt/Store Credit glossary entries
   - dayonecitizen.com /day-one-citizen/pledge-vs-purchase — Melting and store credit section; src/data/glossary.ts Melt/Store Credit entries
   - freeflyevent.com /glossary — Melt/Store Credit terms
+  - dayonecitizen.com /day-one-citizen/pledge-vs-purchase — melt FAQ + store-credit copy, dayonecitizen-main/src/data/glossary.ts Store Credit entry (2026-10-18)
 ---
 
 Added 2026-07-24. Verify against the cited source(s) before re-use.

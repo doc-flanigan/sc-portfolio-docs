@@ -30,6 +30,7 @@ usage:
   - dayonecitizen.com /de/referral-code + /de/echtgeld-schiffe — Startguthaben copy (German)
   - starcitizenhelp.com /game-guides/referral-codes-explained — TL;DR, "what you get", stale-5,000 warning, FAQ + FAQPage JSON-LD
   - dayonecitizen.com /day-one-citizen/starter-package — "Buying during IAE or the Anniversary sale" section (#sale) + FAQ (added 2026-10-02)
+  - dayonecitizen.com /day-one-citizen/buying-the-game, dayonecitizen.com /day-one-citizen/first-day, dayonecitizen.com /day-one-citizen/first-launch — referral bonus UEC counts toward starting aUEC (unlike a pack's bundled UEC) (2026-10-18)
 ---
 
 Network-wide canon settled 2026-07-03 after SCH and freeflyevent contradicted each other.

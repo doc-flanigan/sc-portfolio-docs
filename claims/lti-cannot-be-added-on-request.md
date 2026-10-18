@@ -7,6 +7,7 @@ sources:
 lastVerified: 2026-07-29
 usage:
   - Source verification pass 2026-07-29
+  - dayonecitizen.com /day-one-citizen/pledge-vs-purchase — LTI "RSI support cannot add it on request" (2026-10-18)
 ---
 
 Added 2026-07-29. Verify against the cited source(s) before re-use.

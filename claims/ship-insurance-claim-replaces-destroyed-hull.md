@@ -8,6 +8,7 @@ sources:
 lastVerified: 2026-07-29
 usage:
   - public fact-check batch 2026-07-15 — pending site placement
+  - dayonecitizen.com /day-one-citizen/first-flight — "Your first week" ship-loss section (file a Claim at an ASOP, get a replacement), dayonecitizen.com /day-one-citizen/pledge-vs-purchase — insurance section (2026-10-18)
 ---
 
 Added 2026-07-15. Verify against the cited source(s) before re-use.
