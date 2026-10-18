@@ -9,6 +9,7 @@ lastVerified: 2026-07-15
 usage:
   - starcitizenhelp.com /fact-check-style pages — pledge item recovery claim
   - dayonecitizen.com /fact-check — pledge item recovery claim
+  - dayonecitizen.com /day-one-citizen/first-flight — "Your first week": save new ship parts at the ASOP terminal before claiming, or the ship returns with stock parts (2026-10-18)
 ---
 
 Added 2026-07-15. Verify against the cited source(s) before re-use.
