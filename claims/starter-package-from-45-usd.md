@@ -1,11 +1,14 @@
 ---
 id: starter-package-from-45-usd
 claim: "The cheapest Star Citizen game package, the Citizen Starter Pack (RSI Aurora Mk II), lists at $60 USD and was on sale for $45 (25% off) as of September 2026; no subscription is required to play."
-status: verified
+status: refuted
+correction: "As of 2026-10-20 RSI no longer sells this package: its Game Packages store listing shows a single package, the Star Citizen First Flight Pack (Aurora Mk II, 6 Month Insurance, Self-Land Hangar, 10,000 UEC, Star Citizen download, plus 30-day loaners of the Drake Golem, MISC Fortune and Crusader Intrepid), and the old package page returns 404."
 sources:
   - https://robertsspaceindustries.com/pledge/Packages/Citizen-Starter-Pack
   - https://robertsspaceindustries.com/pledge/game-packages
-lastVerified: 2026-10-07
+  - https://robertsspaceindustries.com/en/store/pledge/browse/game-packages
+  - https://robertsspaceindustries.com/en/pledge/Packages/Star-Citizen-First-Flight-Pack
+lastVerified: 2026-10-20
 usage:
   - dayonecitizen.com /fact-check — pledge price entry
   - dayonecitizen.com "Do this now" box on /day-one-citizen/starter-package — via src/data/day-one-steps.ts (added 2026-10-02)
@@ -33,3 +36,5 @@ touched.
 The Generalist Starter Pack (Drake Cutter) lists at $60; whether it is discounted was
 not observed — do not claim it is. Companions: [[citizen-starter-pack-60-usd-aurora]],
 [[citizen-starter-pack-10000-uec-6mo-insurance]].
+
+OUTDATED 2026-10-20: this was true while RSI sold the old starter packages (history above is kept). RSI's Pledge Store Game Packages listing now has exactly one package, the Star Citizen First Flight Pack ($45 on sale / $60 list on 2026-10-20; see [[first-flight-pack-60-usd-aurora]]). The old package pages return 404. Entry flipped to refuted so the old wording cannot be reused; the Mustang Alpha is still sold as a standalone ship but is no longer a package starting choice. Price/sale history above is preserved as record.
