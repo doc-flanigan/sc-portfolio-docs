@@ -8,7 +8,12 @@ sources:
 lastVerified: 2026-10-20
 usage:
   - dayonecitizen.com /fact-check — starter package reference
-  - dayonecitizen.com /day-one-citizen/starter-package, /day-one-citizen/buying-the-game — single-package copy (added 2026-10-20)
+  - dayonecitizen.com /day-one-citizen/starter-package, /day-one-citizen/first-ship, /day-one-citizen/buying-the-game, /day-one-citizen/worth-buying, /day-one-citizen/ships-real-money, /day-one-citizen, /day-one-citizen/install, /day-one-citizen/pledge-vs-purchase, /day-one-citizen/is-star-citizen-on-steam, /free-fly-events, /beyond-the-basics/ccu-chains, /referral-code — single-package copy (2026-10-20)
+  - dayonecitizen.com /de/starterpaket, /de/star-citizen-kaufen, /de/lohnt-sich-star-citizen, /de/echtgeld-schiffe, /de/star-citizen-auf-steam — German single-package copy (2026-10-20)
+  - starcitizenhelp.com /getting-started — buy steps (2026-10-20)
+  - bestspacesim.com /, /is-star-citizen-a-scam, /is-star-citizen-worth-it, /star-citizen — pack and price copy (2026-10-20)
+  - freeflyevent.com /should-i-buy, /is-star-citizen-free — what to buy after Free Fly (2026-10-20)
+  - highestfundedgame.com / — starter package card (2026-10-20)
 ---
 
 Verified 2026-10-20 on RSI's rendered pledge store. The Game Packages listing shows exactly one package. Store "INCLUDES" box: 1 vehicle Aurora Mk II, 6 Month Insurance, Self-Land Hangar, 10,000 UEC, Star Citizen Digital Download. Store text: "Includes a game download and starter ship, plus 30-day loaner access to three additional starter ships to explore different gameplay styles and ship manufacturers: Drake Golem for mining, MISC Fortune for salvage, and Crusader Intrepid for cargo hauling."
