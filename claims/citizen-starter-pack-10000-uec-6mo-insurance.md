@@ -1,7 +1,8 @@
 ---
 id: citizen-starter-pack-10000-uec-6mo-insurance
 claim: "The Citizen Starter Pack includes 10,000 UEC (account currency) and six months of hull insurance on the Aurora Mk II — not Lifetime Insurance."
-status: refuted
+status: superseded
+supersededBy: old-starter-pack-lineup-still-sold
 correction: "As of 2026-10-20 RSI no longer sells this package: its Game Packages store listing shows a single package, the Star Citizen First Flight Pack (Aurora Mk II, 6 Month Insurance, Self-Land Hangar, 10,000 UEC, Star Citizen download, plus 30-day loaners of the Drake Golem, MISC Fortune and Crusader Intrepid), and the old package page returns 404."
 sources:
   - https://robertsspaceindustries.com/pledge/Packages/Citizen-Starter-Pack
@@ -23,3 +24,5 @@ start in-game with 20,000 aUEC ([[new-character-starting-auec-20000]]). Keep the
 currencies distinct in copy.
 
 OUTDATED 2026-10-20: this was true while RSI sold the old starter packages (history above is kept). RSI's Pledge Store Game Packages listing now has exactly one package, the Star Citizen First Flight Pack ($45 on sale / $60 list on 2026-10-20; see [[first-flight-pack-60-usd-aurora]]). The old package pages return 404. Entry flipped to refuted so the old wording cannot be reused; the Mustang Alpha is still sold as a standalone ship but is no longer a package starting choice. Price/sale history above is preserved as record.
+
+SUPERSEDED 2026-10-20 by [[old-starter-pack-lineup-still-sold]] (one merged entry for the retired starter-pack lineup).

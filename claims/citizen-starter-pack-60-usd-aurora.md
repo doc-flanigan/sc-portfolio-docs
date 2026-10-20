@@ -1,7 +1,8 @@
 ---
 id: citizen-starter-pack-60-usd-aurora
 claim: "The Citizen Starter Pack (list price $60 USD) is a game package that includes the RSI Aurora Mk II as the starter ship and full game access."
-status: refuted
+status: superseded
+supersededBy: old-starter-pack-lineup-still-sold
 correction: "As of 2026-10-20 RSI no longer sells this package: its Game Packages store listing shows a single package, the Star Citizen First Flight Pack (Aurora Mk II, 6 Month Insurance, Self-Land Hangar, 10,000 UEC, Star Citizen download, plus 30-day loaners of the Drake Golem, MISC Fortune and Crusader Intrepid), and the old package page returns 404."
 sources:
   - https://robertsspaceindustries.com/pledge/Packages/Citizen-Starter-Pack
@@ -24,3 +25,5 @@ Usage lines above that say "corrected from stale $45" describe the 2026-09-27 sw
 which was itself reverted to dated sale wording on 2026-09-28.
 
 OUTDATED 2026-10-20: this was true while RSI sold the old starter packages (history above is kept). RSI's Pledge Store Game Packages listing now has exactly one package, the Star Citizen First Flight Pack ($45 on sale / $60 list on 2026-10-20; see [[first-flight-pack-60-usd-aurora]]). The old package pages return 404. Entry flipped to refuted so the old wording cannot be reused; the Mustang Alpha is still sold as a standalone ship but is no longer a package starting choice. Price/sale history above is preserved as record.
+
+SUPERSEDED 2026-10-20 by [[old-starter-pack-lineup-still-sold]] (one merged entry for the retired starter-pack lineup).
