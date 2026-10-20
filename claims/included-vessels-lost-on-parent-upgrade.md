@@ -4,7 +4,7 @@ claim: "Upgrading away from a parent ship or reclaiming it removes player access
 status: verified
 sources:
   - https://support.robertsspaceindustries.com/hc/en-us/articles/4408770370455-Included-Vessels-Snub-Fighters-and-Rovers
-lastVerified: 2026-07-29
+lastVerified: 2026-10-20
 usage:
   - dayonecitizen.com /fact-check — public fact-check entry
 ---

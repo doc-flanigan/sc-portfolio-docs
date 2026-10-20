@@ -4,7 +4,7 @@ claim: "Included vessels (secondary craft like snub fighters and rovers) are han
 status: verified
 sources:
   - https://support.robertsspaceindustries.com/hc/en-us/articles/4408770370455-Included-Vessels-Snub-Fighters-and-Rovers
-lastVerified: 2026-07-29
+lastVerified: 2026-10-20
 usage:
   - dayonecitizen.com /fact-check — public fact-check entry
 ---

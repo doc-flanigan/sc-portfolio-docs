@@ -4,7 +4,7 @@ claim: "Squadron 42 is currently in development and not available for download; 
 status: verified
 sources:
   - https://support.robertsspaceindustries.com/hc/en-us/articles/360042914633-Where-can-I-download-Squadron-42
-lastVerified: 2026-10-13
+lastVerified: 2026-10-20
 usage:
   - dayonecitizen.com /fact-check — public fact-check entry
 ---
