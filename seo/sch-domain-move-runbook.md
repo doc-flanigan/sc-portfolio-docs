@@ -129,6 +129,17 @@ Doing this phase turns move day from "edit 25 files under pressure" into
   HTTP header to SCH's middleware (the 747live hijack hardening never reached
   SCH; its middleware only logs AI bots). Build it from SITE_URL so it moves
   with the site.
+- [x] **P0.7 Backlink inventory** _(BWT Backlinks export, 2026-10-21)_. Bing
+  sees 6 referring domains / 8 pages. The BWT API (`link_counts`) returned
+  none, so use the dashboard's "Download all".
+  - Network: freeflyevent.com (3). These get repointed on move day (step 7).
+  - Only external link worth keeping: **commrelay.fr** (French SC community).
+    Outreach after the move (Phase 2).
+  - The rest are low-value: star-hangar.com (reseller), shortcutposters.com,
+    showu.net, accountshark.net. Leave them alone. No disavow needed; the 301s
+    carry them.
+  - Takeaway: external link equity is negligible, so links are not a reason
+    to delay or reshape the move. Re-export the list in the step 1 baseline.
 
 ---
 
@@ -189,6 +200,10 @@ CIG's deadline forces it.
    - `dayonecitizen-main`: `/day-one-citizen/keybinds` has a cross-domain
      canonical to SCH's keybinds page (dayone PR #119). Repoint it to the
      new host.
+   - **Network body links to SCH**: point them straight at the new host so they
+     don't ride a 301. Grep every site repo for `starcitizenhelp.com`. Bing
+     already counts freeflyevent's 3 (P0.7). Other network sites' links count
+     too, even if Bing hasn't seen them.
    - `cta-report.mjs`: treat both hostnames as one site in per-site rollups.
    - SCH repo: `.github/workflows/guide-drift.yml:76` (live-page URL),
      user-agent strings in `scripts/patch_notes.py:52` and
@@ -205,6 +220,8 @@ Address, reversing it costs more than waiting.
 ## Phase 2: aftercare
 
 - Day 1–7: watch daily that the old URLs 301 correctly; run `npm run site-health`.
+- Week 1: email commrelay.fr asking them to update their link to the new host
+  (the only external editorial link, P0.7). Doc sends it; it's outward-facing.
 - Weekly for 8 weeks: compare **combined G+B clicks**, top-query positions
   (`ccu chain calculator`, `ccu calculator`, `keyboard map`), BWT AI
   citations, and referral clicks against the baseline. Expect a dip for
