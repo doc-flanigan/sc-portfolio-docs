@@ -101,3 +101,22 @@ Primary keyword targets per site. Do not add or remove keywords without updating
 - "is squadron 42 out yet"
 - "squadron 42 star citizen"
 - "squadron 42 single player campaign"
+
+## 2026-10-22 — IAE-season Free Fly terms (freeflyevent)
+Sources: Bing Webmaster keyword_research (US, 2026-07-22..10-22) + query_stats (26-wk window, top 300 of 1,285 queries by impressions). Bing's keyword tool returns 0 for any long-tail with no volume, so 0 = "below tool threshold", not proof of zero demand. Already assigned before this pass: "star citizen free fly 2026" (homepage primary), "iae 2956" / "star citizen iae 2026" / "iae 2956 free fly" (/iae-2956, added 2026-07-29), IAE date intent (/next-free-fly, see sale-intent-keywords-2026-10.md).
+
+| Term | Bing volume (3 mo) | FFE impressions / position (26 wk) | Owner | Action |
+|---|---|---|---|---|
+| star citizen free fly november | 0 | none | /iae-2956 | No new targeting; covered by KEYWORDS/body copy |
+| IAE free fly | 0 | none | /iae-2956 | None (covered by "IAE 2956 Free Fly" title) |
+| IAE 2956 free fly | 0 | none (query "iae 2956": 53 impr, 3 clk, pos 3.7) | /iae-2956 | Already assigned 7/29; title matches |
+| intergalactic aerospace expo free fly | 0 | none | /iae-2956 | Make sure the spelled-out name is in body/H2 (not title) |
+| star citizen iae 2026 | 67 | 17 impr, 0 clk, pos 9.2 | /iae-2956 | Already assigned; lift pos 9 with homepage link |
+| play star citizen free | 0 | 7 impr, pos 4.7 | homepage `/` | Already ranks; no change |
+| star citizen free week | 0 | 5 impr, 1 clk, pos 2.0 | homepage `/` | None (tiny) |
+| star citizen free fly 2026 | 28 | 115 impr, 3 clk, pos 6.6 | homepage `/` | Already assigned (primary); keep |
+| star citizen free to play november | 0 | none | /iae-2956 | Skip |
+
+Context: head term "star citizen free fly" = 1,982 impr, 63 clk, pos 5.0 on FFE; the homepage already owns the generic family. /iae-2956 title is "IAE 2956 Free Fly — Expected November 2026" (pre-announcement), H1 is phase-driven (`headline[phase]`), canonical /iae-2956, with a KEYWORDS array in the file.
+
+**Recommendation:** No homepage title/meta/H1 change. /iae-2956 already owns every IAE-season term that has any measurable volume (all of the new variants show 0 Bing volume; only "star citizen iae 2026" at 67 and "iae 2956" at 53 impr are real), and its title/H1 target them directly. Adding IAE wording to the homepage would split the signal and risk cannibalising /iae-2956 (which sits at pos 3.7 for "iae 2956"). Instead, give the homepage a more prominent body-copy/hero link to /iae-2956 with "IAE 2956 Free Fly" anchor text now, and revisit the homepage title only when CIG announces dates (it already switches phase-based titles via status.event).
