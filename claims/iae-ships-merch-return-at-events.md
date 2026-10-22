@@ -8,6 +8,7 @@ sources:
 lastVerified: 2026-10-03
 usage:
   - dayonecitizen.com /day-one-citizen/starter-package — "Buying during IAE or the Anniversary sale" section (#sale) + FAQ (added 2026-10-02)
+  - starcitizenhelp.com /game-guides/ccu-chains — "Planning CCUs Around IAE 2956" section quote + "Is IAE a good time to buy CCUs?" FAQ (added 2026-10-21)
 ---
 
 Added 2026-10-02. Verbatim: "These merch items will be discounted in future events, such as Invictus Launch Week and the Intergalactic Aerospace Expo." (18561) and "These ships will become available in future events, such as Invictus Launch Week and the Intergalactic Aerospace Expo." (18224). Says nothing about discount size or which ships.
