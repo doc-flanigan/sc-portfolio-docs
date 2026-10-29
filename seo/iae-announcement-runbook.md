@@ -39,6 +39,12 @@ Field gotchas found in rehearsal:
   the `/iae-2956` page still switches to "confirmed". Not an issue for a Nov 6-7 announcement.
 - If CIG cancels free access, set `freeFlyActive: false` + `cancelledNote`.
 
+**Updated by the 2026-10-29 rehearsal:** items 1 and 2 below are now automatic (the `is-star-citizen-free` table is data-driven and
+`/next-free-fly` copy is state-aware), and item 4's venue line lives in `src/data/page-sources.generated.json` (~line 274), not the page.
+Still static in every state (optional rewording after announcement): "IAE in late November" in `free-fly-schedule/page.tsx:55,62,137,225`,
+`event-history/page.tsx:79`, `is-star-citizen-free/page.tsx:133`, "CIG has not announced IAE 2956 dates yet" in `should-i-buy/page.tsx:93`,
+and the ended-state home meta "then IAE in November" (`page.tsx:118`).
+
 Also hand-edit (these are hardcoded, they do NOT follow the data entry - see bugs):
 1. `freeflyevent-site/src/app/is-star-citizen-free/page.tsx` ~line 213 "Recent Free Fly windows" table: add an IAE 2956 row (and the FAQ
    answer at ~line 61 if you want it listed). Without it the page never mentions IAE 2956 in body copy (only the meta description follows).
@@ -55,6 +61,8 @@ Also hand-edit (these are hardcoded, they do NOT follow the data entry - see bug
 1. `dayonecitizen-main/src/data/next-free-fly.ts` - set `NEXT_FREE_FLY`: `id: 'iae-2026'`, `name: 'IAE 2956 Free Fly'`, `start`, `end` (same ISO UTC as
    freeflyevent), `description` (also feeds the Google Calendar link), `label` ("November 19 - December 2, 2026"), `headline`.
    It drives the orange `FreeFlyBanner` in NavBar and the `/free-fly-events` status card.
+   **Rewrite `description` too** (2026-10-29 rehearsal): it still names Foundation Festival and "five ships", and it is not date-derived.
+   After the event ends, also reword `referral-code/page.tsx:373-377` (the ended branch still says "expected around IAE in late November").
 2. `dayonecitizen-main/src/data/referral-bonus.ts` - set `REFERRAL_BONUS` ONLY if CIG announces a referral promo:
    `active: true`, `itemName`, `itemDescription`, `startsAt`/`endsAt` as `YYYY-MM-DD` (inclusive, UTC), `sourceUrl`, `sourceLabel`.
    Renders in the "Any bonus event running right now?" block of `/referral-code`. It turns itself off after `endsAt` (page revalidates daily).
@@ -152,3 +160,19 @@ Verdict meaning: PASS = state wording, countdown, banner, JSON-LD, ics correct; 
 7. (Data hygiene, not a bug) `notes` is published as the homepage Event JSON-LD `description` ("REHEARSAL FAKE ENTRY. Not real." leaked in the rehearsal). Keep `notes` public-safe.
 8. (Info) `/next-free-fly`, `/free-fly-schedule`, `/is-star-citizen-free`, `/free-ships-right-now` carry no Event JSON-LD; only `/` (active/upcoming) and `/iae-2956` do. Matches current design.
 9. (Info) `/iae-2956` keeps "the IAE 2956 venue is unannounced" in all states; update by hand once CIG names a venue.
+
+## Rehearsal results 2026-10-29 (final pre-freeze)
+
+Same method as 10-02 (worktrees off ffe `c5034b6` / dayone `8db73fc`, fake `iae-2026` + `bonusOverride`, states UPCOMING / ACTIVE / ENDED,
+`npx next build` + `next start`, Playwright mobile 390x844 + desktop, fake clock). **Every page in the section 3 table PASSES in all three
+states**, including the 10/22 redesign: state-aware CTA labels, the ticking countdown ("BEGINS IN…" / "EVENT ENDS IN…", none when ended),
+`IaeReadyBlock` (shown upcoming/active with real dates, hidden after), copy-code buttons. Old bugs 1, 2, 2b, 4, 5, 6 are fixed; 3 is
+partly fixed (ended branch only, see section 2); 9 moved to page-sources. Nav label, bottom bar and `IaeReadyBlock` are server-rendered,
+so they lag the clock by up to the 1-hour ISR window; the status banner flips client-side.
+
+**Found and fixed the same day (freeflyevent `56ac17a`, branch `fix/cta-default-label-state`):** `CTAButton`'s default label was a
+hardcoded "Play Free — Claim 50,000 UEC", so `/iae-2956`, `/next-free-fly`, `/free-fly-schedule`, `/free-ships-right-now` said "Play
+Free" with no event running (live on production at the time). It now comes from `cta-label.ts` (`button` / `buttonBonus`) by event
+state. The three underpowered A/B tests whose variant A said "Play Free" were ended (event-guide, is-star-citizen-free, should-i-buy).
+Verified: 0 "Play Free" buttons on 8 pages with no event; "Play Free — 50,000 UEC + Event Bonus" with the clock inside a live window.
+Referral: every signup link is `/enlist?referral=STAR-GCQJ-N6NC`; no second code anywhere.
