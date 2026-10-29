@@ -200,6 +200,14 @@ CIG's deadline forces it.
    - `dayonecitizen-main`: `/day-one-citizen/keybinds` has a cross-domain
      canonical to SCH's keybinds page (dayone PR #119). Repoint it to the
      new host.
+   - **Same change, decided 2026-10-29:** give dayone
+     `/beyond-the-basics/food-drink-survival`, `/ccu-chains` and
+     `/ship-equipment` a cross-domain canonical straight to the matching
+     `help.dayonecitizen.com/game-guides/…` page and drop them from the dayone
+     sitemap (the keybinds pattern). They duplicate the SCH guides, and Google
+     had never crawled them as of 10/29. Held until move day so the canonical
+     doesn't need a second repoint. Keep them as pages (no 301) so dayone's
+     Beyond the Basics flow still works for readers.
    - **Network body links to SCH**: point them straight at the new host so they
      don't ride a 301. Grep every site repo for `starcitizenhelp.com`. Bing
      already counts freeflyevent's 3 (P0.7). Other network sites' links count
