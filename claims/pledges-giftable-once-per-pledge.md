@@ -10,7 +10,7 @@ lastVerified: 2026-10-29
 usage:
   - dayonecitizen.com /fact-check — public fact-check entry
   - dayonecitizen.com /beyond-the-basics/redeem-codes — "Gift codes vs. promo codes" section (October 30 gifting change, added 2026-10-29)
-  - starcitizenhelp.com /game-guides/ccu-chains — "Can I gift a CCU or CCU Chain?" FAQ (October 30 gifting change, updated 2026-10-29)
+  - starcitizenhelp.com /game-guides/ccu-chains — "Can I gift a CCU chain or an upgraded ship?" FAQ (October 30 gifting change, added 2026-10-29)
 ---
 
 Added 2026-10-02; reworded 2026-10-29 for the October 2026 gifting change.
