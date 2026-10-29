@@ -7,7 +7,7 @@ sources:
   - https://support.robertsspaceindustries.com/hc/en-us/articles/115013325608-Gifting-FAQs
 lastVerified: 2026-10-02
 usage:
-  - verification pass — new source, no usage yet
+  - starcitizenhelp.com /game-guides/ccu-chains — "Can I gift a CCU or CCU Chain?" FAQ (October 30 gifting change, updated 2026-10-29)
 ---
 
 Added 2026-10-02. Verify against the cited source(s) before re-use.
