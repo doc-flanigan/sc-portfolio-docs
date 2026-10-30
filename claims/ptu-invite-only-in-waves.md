@@ -4,7 +4,7 @@ claim: "Access to the Public Test Universe (PTU) requires an invitation and is h
 status: verified
 sources:
   - https://support.robertsspaceindustries.com/hc/en-us/articles/115013195927-Public-Test-Universe-PTU-FAQ
-lastVerified: 2026-10-18
+lastVerified: 2026-10-30
 usage:
   - dayonecitizen.com /day-one-citizen/rsi-launcher — PTU channel copy
 ---

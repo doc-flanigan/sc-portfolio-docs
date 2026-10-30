@@ -5,7 +5,7 @@ status: verified
 sources:
   - https://support.robertsspaceindustries.com/hc/en-us/articles/360042050774-Why-can-t-I-send-this-pledge-as-a-gift
   - https://support.robertsspaceindustries.com/hc/en-us/articles/115013325608-Gifting-FAQs
-lastVerified: 2026-10-02
+lastVerified: 2026-10-30
 usage:
   - verification pass — new source, no usage yet
 ---
