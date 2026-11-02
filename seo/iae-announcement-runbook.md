@@ -63,6 +63,9 @@ Also hand-edit (these are hardcoded, they do NOT follow the data entry - see bug
    It drives the orange `FreeFlyBanner` in NavBar and the `/free-fly-events` status card.
    **Rewrite `description` too** (2026-10-29 rehearsal): it still names Foundation Festival and "five ships", and it is not date-derived.
    After the event ends, also reword `referral-code/page.tsx:373-377` (the ended branch still says "expected around IAE in late November").
+   **Also mirror `id`, `name` (event name without "Free Fly"), `start`, `end` into `StarCitizenHelp-live/src/data/next-free-fly.ts`** (added 2026-11-02).
+   It switches SCH's end-of-guide NewPlayerCTA to the "Keep flying after it ends" version for the whole window.
+   freeflyevent's "ending soon" banner (last 72h) needs no edit: it derives from `FREE_FLY_HISTORY`.
 2. `dayonecitizen-main/src/data/referral-bonus.ts` - set `REFERRAL_BONUS` ONLY if CIG announces a referral promo:
    `active: true`, `itemName`, `itemDescription`, `startsAt`/`endsAt` as `YYYY-MM-DD` (inclusive, UTC), `sourceUrl`, `sourceLabel`.
    Renders in the "Any bonus event running right now?" block of `/referral-code`. It turns itself off after `endsAt` (page revalidates daily).
