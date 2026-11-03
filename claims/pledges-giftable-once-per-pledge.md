@@ -7,7 +7,7 @@ sources:
   - https://robertsspaceindustries.com/spectrum/community/SC/forum/1/thread/updates-to-pledge-gifting-and-game-access/9103776
   - https://robertsspaceindustries.com/spectrum/community/SC/forum/1/thread/updates-to-pledge-gifting-faq/9195468
   - https://robertsspaceindustries.com/comm-link/transmission/21431-This-Week-In-Star-Citizen
-lastVerified: 2026-10-29
+lastVerified: 2026-11-03
 usage:
   - dayonecitizen.com /fact-check — public fact-check entry
   - dayonecitizen.com /beyond-the-basics/redeem-codes — "Gift codes vs. promo codes" section (October 30 gifting change, added 2026-10-29)
