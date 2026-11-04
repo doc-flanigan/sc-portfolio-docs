@@ -6,7 +6,7 @@ sources:
   - https://support.robertsspaceindustries.com/hc/en-us/articles/115013325608-Gifting-FAQs
   - https://robertsspaceindustries.com/spectrum/community/SC/forum/1/thread/updates-to-pledge-gifting-and-game-access/9103776
   - https://robertsspaceindustries.com/spectrum/community/SC/forum/1/thread/updates-to-pledge-gifting-faq/9195468
-lastVerified: 2026-11-03
+lastVerified: 2026-11-04
 usage:
   - dayonecitizen.com /fact-check — public fact-check entry
 ---

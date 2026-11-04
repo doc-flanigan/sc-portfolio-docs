@@ -4,7 +4,7 @@ claim: "The Idris (all models) and F8C Lightning are never giftable, regardless 
 status: verified
 sources:
   - https://support.robertsspaceindustries.com/hc/en-us/articles/115013325608-Gifting-FAQs
-lastVerified: 2026-11-03
+lastVerified: 2026-11-04
 usage:
   - dayonecitizen.com /fact-check — public fact-check entry
 ---
