@@ -1,6 +1,6 @@
 ---
 id: event-foundation-festival-2026
-claim: "The Foundation Festival 2026 Free Fly runs July 29 – August 10, 2026, with five ships free to fly (RSI Aurora Mk II, Drake Cutter, Drake Golem, Crusader Intrepid, RSI Salvation) and no purchase required. The companion referral bonus (Comm-Link 21225) runs until August 12, 2026, 20:00 UTC: the recruiter earns an Argo ATLS (LTI, non-meltable, non-giftable, one per player) and the recruited player earns a 'Ready for Anything' Career Kit — both granted only when the new player uses a referral code AND pledges for a starter pack or ship; the standard 50,000 UEC signup bonus still requires no purchase. Twitch Drops run July 29 – August 12."
+claim: "The Foundation Festival 2026 Free Fly ran July 29 – August 10, 2026, with five ships free to fly (RSI Aurora Mk II, Drake Cutter, Drake Golem, Crusader Intrepid, RSI Salvation) and no purchase required. The companion referral bonus (Comm-Link 21225) runs until August 12, 2026, 20:00 UTC: the recruiter earns an Argo ATLS (LTI, non-meltable, non-giftable, one per player) and the recruited player earns a 'Ready for Anything' Career Kit — both granted only when the new player uses a referral code AND pledges for a starter pack or ship; the standard 50,000 UEC signup bonus still requires no purchase. Twitch Drops run July 29 – August 12."
 status: verified
 sources:
   - https://robertsspaceindustries.com/en/comm-link/transmission/21211-Foundation-Festival-2026
