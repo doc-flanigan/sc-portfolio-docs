@@ -140,6 +140,32 @@ Doing this phase turns move day from "edit 25 files under pressure" into
     carry them.
   - Takeaway: external link equity is negligible, so links are not a reason
     to delay or reshape the move. Re-export the list in the step 1 baseline.
+- [ ] **P0.8 Retire SCH's glossary into dayone's** _(decided 2026-11-05, Doc:
+  "lets go with your recs")_. Two copies on one domain would duplicate each
+  other after the move, and SCH's page earns little (7 clicks / 2,268
+  impressions in 90 days to 2026-11-02, average position 14.6). dayone's
+  `src/data/glossary.ts` is the single source (317 terms on 11/5). Build it after
+  the IAE freeze lifts, as one dayone PR then one SCH PR (SCH merges on move
+  day, step 7):
+  - **dayone first:** port the 9 SCH-only terms (LTP, Curelife Medical Tool
+    (CMT), Crafting, Engineering, Nyx, Levski, Warbond, Vulkan, LAMP). Re-diff
+    first, because both lists will have changed by then.
+  - **SCH tooltips** (`GlossaryText` auto-wraps terms in GameGuides,
+    GettingStarted, GuideDetail, Home, Updates, FeaturedResourceCard): read
+    dayone's data at build time (`/api/glossary`, as freeflyevent does), with a
+    committed snapshot as fallback so a failed fetch never breaks the build.
+    Hover-only, with **no per-term link** to dayone: one cross-domain link per
+    underlined term on every guide reads as a link scheme between network
+    sites.
+  - **Skip-list for the auto-wrapper:** dayone has everyday-word terms that
+    would underline ordinary prose (Cannon, Missile, Cooler, Radar, Repeater,
+    Gatling, Torpedo, Component and others). Wrap only terms that aren't on the
+    list.
+  - **Remove the page and every pointer to it:** delete `/glossary`, then the
+    footer link (cross-portfolio footer links are banned, so no replacement),
+    the homepage `SearchAction` that targets `/glossary?q=`, the sitemap entry
+    and the `llms.txt` line. Any in-body "see the glossary" links become plain
+    links to dayonecitizen.com/glossary.
 
 ---
 
@@ -208,6 +234,11 @@ CIG's deadline forces it.
      had never crawled them as of 10/29. Held until move day so the canonical
      doesn't need a second repoint. Keep them as pages (no 301) so dayone's
      Beyond the Basics flow still works for readers.
+   - **Glossary (P0.8):** merge the SCH glossary PR. Redirect both
+     `starcitizenhelp.com/glossary` and `help.dayonecitizen.com/glossary`
+     straight to `https://dayonecitizen.com/glossary` (keep `?q=`; browsers
+     carry `#term-…` across the redirect on their own). Put that rule before the generic host redirect so the old
+     URL doesn't chain through the new host.
    - **Network body links to SCH**: point them straight at the new host so they
      don't ride a 301. Grep every site repo for `starcitizenhelp.com`. Bing
      already counts freeflyevent's 3 (P0.7). Other network sites' links count
