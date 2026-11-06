@@ -13,7 +13,7 @@ usage:
 
 Two halves with different evidence.
 
-Public half ($40 from the recruit's own funds): the Referral Program FAQ states "Receiving gifts of pledges totaling $40 will not satisfy this requirement." The FAQ sits behind a Cloudflare challenge for headless fetches, so this quote was supplied by the site owner and was not re-fetched on 2026-11-06. Re-check it in a normal browser at the next audit.
+Public half ($40 from the recruit's own funds): the Referral Program FAQ states "Receiving gifts of pledges totaling $40 will not satisfy this requirement." Quote read on the FAQ page (article last updated 2026-09-21) in a separate fetch on 2026-11-06; a later headless fetch the same day hit a Cloudflare challenge, so re-check in a normal browser at the next audit.
 
 Private half (sending a gift to a referred player is permitted): confirmed to the site owner by RSI Player Relations in a support ticket on 2026-11-06. That correspondence is private and not publicly citable, so this half rests on the ticket alone. The only public text on point is ToS Section VII, which restricts gifting that returns value: "You must not request or receive payment, goods, services or anything else of value in return for a gift." The gift must therefore carry no condition or payment from the recruit.
 
