@@ -6,7 +6,7 @@ sources:
   - https://robertsspaceindustries.com/en/tos
 lastVerified: 2026-11-06
 usage:
-  - 'dayonecitizen.com /referral-code — "Why thirty days?" (2026-11-06)'
+  - dayonecitizen.com /referral-code — "Why thirty days?" (2026-11-06)
 ---
 
 Verified 2026-11-06 on RSI's rendered Terms of Service (U.S. version), header "LAST UPDATED AND EFFECTIVE AS OF OCTOBER 30, 2026", Section V. Exact lines: "Any Virtual Goods rewards for referrals will only remain credited to your account if the referral transaction remains valid for 30 days." / "A valid referral for this purpose is a valid account established by a new player with a value of at least $40USD for at least 30 days."

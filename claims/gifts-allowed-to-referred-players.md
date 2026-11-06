@@ -7,8 +7,8 @@ sources:
   - https://support.robertsspaceindustries.com/hc/en-us/articles/115013102847-Referral-Program-FAQ
 lastVerified: 2026-11-06
 usage:
-  - 'dayonecitizen.com /referral-code — "A welcome gift from me" section (2026-11-06)'
-  - 'starcitizenhelp.com /enlist — welcome-gift bullet (2026-11-06)'
+  - dayonecitizen.com /referral-code — "A welcome gift from me" section (2026-11-06)
+  - starcitizenhelp.com /enlist — welcome-gift bullet (2026-11-06)
 ---
 
 Two halves with different evidence.
