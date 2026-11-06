@@ -20,7 +20,7 @@ usage:
   - dayonecitizen.com /day-one-citizen/worth-buying — "try before you buy" enter code at signup or within about 24 hours (added 2026-10-02)
   - dayonecitizen.com /day-one-citizen/starter-package — "Buying during IAE or the Anniversary sale" section (#sale) + FAQ (added 2026-10-02)
   - dayonecitizen.com /day-one-citizen/buying-the-game — late-code callout + FAQ "24 hours after creating the account" (2026-10-18)
-  - starcitizenhelp.com beginner guides — end-of-guide NewPlayerCTA, both versions: "add a code in your account settings" within ~24 hours (2026-11-02)
+  - 'starcitizenhelp.com beginner guides — end-of-guide NewPlayerCTA, both versions: "add a code in your account settings" within ~24 hours (2026-11-02)'
 ---
 
 Canon settled 2026-07-03. Site copy standard: recommend entering the code AT signup (the
