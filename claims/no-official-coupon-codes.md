@@ -9,6 +9,7 @@ lastVerified: 2026-09-21
 usage:
   - screferralbonus.com /promo-codes — code-type table + "dead end" section + FAQ
   - dayonecitizen.com /referral-code — "promo or coupon codes" FAQ
+  - dayonecitizen.com /referral-code/not-working — 'what a referral code does not do' + FAQ (2026-11-07)
 ---
 
 Phrased deliberately as an absence-of-documentation claim (what the official pages

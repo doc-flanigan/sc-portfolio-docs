@@ -12,6 +12,7 @@ usage:
   - screferralbonus.com /how-to-use — "no purchase" FAQ
   - screferralbonus.com /promo-codes — "the one that pays" section
   - dayonecitizen.com /referral-code — "what you get" no-purchase clarification
+  - dayonecitizen.com /referral-code/not-working — when the 50,000 UEC appears, quoting both RSI framings (2026-11-07)
   - dayonecitizen.com /beyond-the-basics/redeem-codes — answer-first opening "with no purchase needed" (2026-10-18)
   - o7meaning.com /faq — "no purchase required" in both referral FAQ answers (added 2026-07-18)
   - pledgemeaning.com / — referral bonus section + FAQ no-purchase clarification

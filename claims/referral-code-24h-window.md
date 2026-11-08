@@ -14,6 +14,7 @@ usage:
   - screferralreward.com /get-the-code — step 3 24-hour rule + FAQ
   - screferralbonus.com /how-to-use — grace-period warning + FAQ
   - dayonecitizen.com /referral-code — "how to apply" 24-hour caveat
+  - dayonecitizen.com /referral-code/not-working — 24-hour grace period section, FAQ + JSON-LD (2026-11-07)
   - dayonecitizen.com /de/referral-code — 24-Stunden-Fenster note (German)
   - starcitizenhelp.com /game-guides/referral-codes-explained — "when you have to enter it" + retroactive-application FAQ
   - starcitizenhelp.com /enlist — reminder, Important box, existing-account FAQ + JSON-LD (2026-10-02; previously contradicted itself with "cannot be added to existing accounts")
