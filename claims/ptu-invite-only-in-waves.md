@@ -4,9 +4,11 @@ claim: "Access to the Public Test Universe (PTU) requires an invitation and is h
 status: verified
 sources:
   - https://support.robertsspaceindustries.com/hc/en-us/articles/115013195927-Public-Test-Universe-PTU-FAQ
-lastVerified: 2026-11-06
+lastVerified: 2026-11-10
 usage:
   - dayonecitizen.com /day-one-citizen/rsi-launcher — PTU channel copy
 ---
 
 Added 2026-10-18. RSI KB "Public Test Universe (PTU) FAQ" (updated 2026-10-13; header showed PTU STATUS: Offline, LIVE STATUS: 4.10.2): "Access to the PTU requires an invitation and is handled in waves to control the amount of players in the environment based on testing needs." and "The PTU is not always available and attempting to login when it is not active will give an error. We only open the PTU servers when we have release candidate builds to test for an upcoming release." Never imply a new player can simply pick PTU in the launcher.
+
+2026-11-10 re-check: the RSI KB article now shows "PTU STATUS: 4.10.3 - All Backers" and contains a heading "The PTU has been opened to everyone!" above the game-package/backer requirements. The body text still says access "requires an invitation and is handled in waves", so the claim stands as written. Heading is ambiguous and worth a human look before any copy change.
