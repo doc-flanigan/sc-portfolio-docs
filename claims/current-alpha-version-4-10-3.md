@@ -9,6 +9,9 @@ lastVerified: 2026-11-12
 usage:
   - starcitizenhelp.com /updates — current-patch header + 4.10.3 entry + RELEASE_FACTS FAQ
   - dayonecitizen.com /day-one-citizen/next-wipe — next-wipe answer + "did 4.10.3 wipe" answer (no)
+  - dayonecitizen.com /day-one-citizen/buying-the-game — "20,000 aUEC as of Alpha 4.10.3" line
+  - dayonecitizen.com /day-one-citizen/first-launch — "20,000 aUEC as of Alpha 4.10.3" line
+  - dayonecitizen.com /de/lohnt-sich-star-citizen — current-version text + FAQ (German)
   - bestspacesim.com /is-star-citizen-a-scam, /is-star-citizen-worth-it, /star-citizen — "current live build" copy
   - StarCitizenHelp-live/src/data/patch-status.ts — LIVE_VERSION
 ---
