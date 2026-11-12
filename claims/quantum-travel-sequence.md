@@ -1,6 +1,6 @@
 ---
 id: quantum-travel-sequence
-claim: "In current Star Citizen (Alpha 4.10.2), quantum travel works by holding B briefly (a short hold, about a quarter second; a quick tap does nothing) to switch Master Mode to NAV, middle-clicking to cycle Operating Mode to QT, setting a route (Starmap or a destination marker), letting the quantum drive auto-calibrate, then holding the left mouse button briefly to begin the jump, which ends automatically at the destination (planetside arrivals land about 30 km above/near the surface location)."
+claim: "In current Star Citizen (Alpha 4.10), quantum travel works by holding B briefly (a short hold, about a quarter second; a quick tap does nothing) to switch Master Mode to NAV, middle-clicking to cycle Operating Mode to QT, setting a route (Starmap or a destination marker), letting the quantum drive auto-calibrate, then holding the left mouse button briefly to begin the jump, which ends automatically at the destination (planetside arrivals land about 30 km above/near the surface location)."
 status: verified
 sources:
   - https://support.robertsspaceindustries.com/hc/en-us/articles/360019449994-How-to-Quantum-Travel

@@ -5,6 +5,7 @@ status: verified
 sources:
   - https://robertsspaceindustries.com/comm-link/Patch-Notes/21429-Star-Citizen-Alpha-4103
   - https://robertsspaceindustries.com/patch-notes
+  - https://status.robertsspaceindustries.com/issues/2026-11-12_live-deployment/index.html
 lastVerified: 2026-11-12
 usage:
   - starcitizenhelp.com /updates — current-patch header + 4.10.3 entry + RELEASE_FACTS FAQ

@@ -4,7 +4,7 @@ claim: "RSI Support cannot swap or change loaner ships by player request — loa
 status: verified
 sources:
   - https://support.robertsspaceindustries.com/hc/en-us/articles/360003093114-Loaner-Ship-Matrix
-lastVerified: 2026-08-27
+lastVerified: 2026-11-12
 usage:
   - dayonecitizen.com /fact-check — public fact-check entry
 ---
