@@ -15,6 +15,9 @@ usage:
   - StarCitizenHelp-live/src/data/patch-status.ts — LIVE_VERSION
 ---
 
+**SUPERSEDED 2026-11-12 by current-alpha-version-4-10-3** (kept as history because "did
+4.10.2 wipe" answers still render; do not cite as the current build).
+
 Flipped 2026-10-09, the day of release (supersedes current-alpha-version-4-10-1, retained as
 history because "did 4.10.1 wipe" answers still render). First release pass on time: the
 source-watch autopilot opened dayone PR #134 within hours, and this session caught it the
