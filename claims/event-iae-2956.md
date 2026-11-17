@@ -4,7 +4,8 @@ claim: "Intergalactic Aerospace Expo 2956 runs 13–27 November 2026 at New Babb
 status: verified
 sources:
   - https://robertsspaceindustries.com/en/comm-link/transmission/21389-Countdown-To-IAE-2956
-lastVerified: 2026-11-06
+  - https://support.robertsspaceindustries.com/hc/en-us/articles/360056530134-Welcome-to-the-Intergalactic-Aerospace-Expo-2956
+lastVerified: 2026-11-17
 usage:
   - freeflyevent-site/src/data/events.ts — canonical record (id iae-2026, 2026-11-13T16:00Z → 2026-11-27T20:00Z)
   - freeflyevent.com /iae-2956 — confirmed dates, venue, schedule
