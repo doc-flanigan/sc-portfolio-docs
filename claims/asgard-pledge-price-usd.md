@@ -4,7 +4,8 @@ claim: "The Anvil Asgard standalone pledge costs 350 USD."
 status: verified
 sources:
   - https://robertsspaceindustries.com/pledge/Standalone-Ships/Asgard
-lastVerified: 2026-08-11
+  - https://robertsspaceindustries.com/pledge/Standalone-Ships/Asgard-10-Year
+lastVerified: 2026-11-20
 usage:
   - dayonecitizen.com /fact-check — public fact-check entry
 ---
