@@ -4,6 +4,7 @@ claim: "The Anvil Valkyrie is a military dropship designed to safely deliver and
 status: verified
 sources:
   - https://robertsspaceindustries.com/pledge/Standalone-Ships/Valkyrie
+  - https://robertsspaceindustries.com/pledge/Standalone-Ships/Valkyrie-10-Year
 lastVerified: 2026-07-29
 usage:
   - dayonecitizen.com/glossary — Valkyrie ship definition; starcitizenhelp.com — ship specs reference
