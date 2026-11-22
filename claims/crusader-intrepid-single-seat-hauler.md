@@ -4,7 +4,8 @@ claim: "The Crusader Intrepid is a single-seat starship designed by Crusader Ind
 status: verified
 sources:
   - https://robertsspaceindustries.com/pledge/Packages/Hauler-Starter-Pack
-lastVerified: 2026-08-12
+  - https://robertsspaceindustries.com/pledge/Standalone-Ships/Intrepid-10-Year
+lastVerified: 2026-11-22
 usage:
   - dayonecitizen.com /day-one-citizen/starter-package — ship role and specs; freeflyevent-site /foundation-festival-2026 — free-to-fly ship description
 ---
