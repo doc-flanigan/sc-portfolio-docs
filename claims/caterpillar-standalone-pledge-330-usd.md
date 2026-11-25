@@ -4,7 +4,8 @@ claim: "The Drake Caterpillar standalone pledge costs $330 USD."
 status: verified
 sources:
   - https://robertsspaceindustries.com/pledge/Standalone-Ships/Caterpillar
-lastVerified: 2026-07-29
+  - https://robertsspaceindustries.com/pledge/Standalone-Ships/Caterpillar-10-Year
+lastVerified: 2026-11-25
 usage:
   - Pricing fact for pledge-cost comparisons
 ---
