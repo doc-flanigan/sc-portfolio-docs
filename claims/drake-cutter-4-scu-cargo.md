@@ -4,7 +4,8 @@ claim: "The Drake Cutter has 4 SCU of cargo capacity, making it suitable for bas
 status: verified
 sources:
   - https://robertsspaceindustries.com/pledge/Packages/Generalist-Starter-Pack
-lastVerified: 2026-08-12
+  - https://robertsspaceindustries.com/pledge/Standalone-Ships/Cutter-10-Year
+lastVerified: 2026-11-26
 usage:
   - generalist-starter-pack-60-usd-drake-cutter — package description
 ---
