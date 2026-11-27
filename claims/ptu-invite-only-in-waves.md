@@ -4,7 +4,7 @@ claim: "Access to the Public Test Universe (PTU) requires an invitation and is h
 status: verified
 sources:
   - https://support.robertsspaceindustries.com/hc/en-us/articles/115013195927-Public-Test-Universe-PTU-FAQ
-lastVerified: 2026-11-12
+lastVerified: 2026-11-27
 usage:
   - dayonecitizen.com /day-one-citizen/rsi-launcher — PTU channel copy
 ---
@@ -12,3 +12,5 @@ usage:
 Added 2026-10-18. RSI KB "Public Test Universe (PTU) FAQ" (updated 2026-10-13; header showed PTU STATUS: Offline, LIVE STATUS: 4.10.2): "Access to the PTU requires an invitation and is handled in waves to control the amount of players in the environment based on testing needs." and "The PTU is not always available and attempting to login when it is not active will give an error. We only open the PTU servers when we have release candidate builds to test for an upcoming release." Never imply a new player can simply pick PTU in the launcher.
 
 2026-11-10 re-check: the RSI KB article now shows "PTU STATUS: 4.10.3 - All Backers" and contains a heading "The PTU has been opened to everyone!" above the game-package/backer requirements. The body text still says access "requires an invitation and is handled in waves", so the claim stands as written. Heading is ambiguous and worth a human look before any copy change.
+
+2026-11-27 re-check (source-watch): the RSI KB article now shows "PTU STATUS: 5.0 - All Backers" (was 4.10.3 on 2026-11-10) and still carries the "The PTU has been opened to everyone!" heading above the game-package/backer requirements. The body text is unchanged: access "requires an invitation and is handled in waves," the PTU is opened only for release-candidate builds, and the "Wave 5: All backers with an active Game Package" tier remains. Read together, the body still supports the claim, so it stays verified. The "opened to everyone" heading and "All Backers" status line conflict with a plain reading of "requires an invitation," so a human should decide whether the claim wording or the site copy needs a change. No site copy was edited.
