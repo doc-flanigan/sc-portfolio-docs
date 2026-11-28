@@ -6,8 +6,7 @@ sources:
   - https://robertsspaceindustries.com/en/pledge/Paint/Aurora-Mk-II-Cloudbuster-Paint
 lastVerified: 2026-11-06
 usage:
-  - dayonecitizen.com /referral-code — "A welcome gift from me" section (2026-11-06)
-  - starcitizenhelp.com /enlist — welcome-gift bullet (2026-11-06)
+  - (none — the recruit paint welcome gift closed 2026-11-28 after IAE 2956; the dayonecitizen.com /referral-code "A welcome gift from me" section and the starcitizenhelp.com /enlist welcome-gift bullet were removed)
 ---
 
 Unverifiable from the public web. The pledge page above returns 404 when logged out, and the paint is absent from the public Paints browse list, so a crawler or fresh search cannot confirm it. The site owner opened the page logged in as a Concierge member on 2026-11-06 and saw the "Buying as a gift?" option at checkout and a $3.00 list price.
